@@ -6,10 +6,10 @@ A proposta é que este material sirva como uma referência prática para inician
 
 Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores, e podem ter utilizado IAs generativas e/ou buscas, em geral as referências são buscas manuais.
 
-![Forks](https://img.shields.io/github/forks/leonardopangaio/glossario.svg) - 
+<!-- ![Forks](https://img.shields.io/github/forks/leonardopangaio/glossario.svg) - 
 ![Stats](https://img.shields.io/github/stars/leonardopangaio/glossario.svg) - 
 ![Watchers](https://img.shields.io/github/watchers/leonardopangaio/glossario.svg) - 
-![Followers](https://img.shields.io/github/followers/leonardopangaio.svg?style=social&label=Follow&maxAge=2592000)
+![Followers](https://img.shields.io/github/followers/leonardopangaio.svg?style=social&label=Follow&maxAge=2592000) -->
 
 <!-- início glossário -->
 
