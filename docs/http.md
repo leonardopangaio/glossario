@@ -10,7 +10,7 @@ No contexto do modelo OSI, a Camada de Aplicação lida com as interações dire
 
 ## Referências
 
-- [MDN Web Docs about HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-- [MDN Web Docs overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [Wikipedia about HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-- [CloudFlare about HTTP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [MDN Web Docs about HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP);
+- [MDN Web Docs overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview);
+- [Wikipedia about HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol);
+- [CloudFlare about HTTP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/hypertext-transfer-protocol-http/);

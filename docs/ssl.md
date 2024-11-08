@@ -8,6 +8,6 @@ O *Secure Sockets Layer (SSL)* é um protocolo de segurança criado para protege
 
 ## Referências
 
-- [Amazon AWS About SSL Certificate](https://aws.amazon.com/pt/what-is/ssl-certificate/)
-- [CloudFlare About SSL Certificate](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/)
-- [Wikipedia About SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- [Amazon AWS About SSL Certificate](https://aws.amazon.com/pt/what-is/ssl-certificate/);
+- [CloudFlare About SSL Certificate](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/);
+- [Wikipedia About SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security);

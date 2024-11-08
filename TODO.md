@@ -28,7 +28,7 @@ Glossário prático:
 - [ ] pub
 - [ ] crt
 - [ ] uuid
-- [ ] snmp
+- [X] snmp
 - [ ] variaveis de performance de redes
 - [ ] dd
 - [ ] ss
@@ -55,10 +55,10 @@ Glossário prático:
 - [ ] roteamento
 - [ ] firewall
 - [ ] proxy
-- [ ] cdc
-- [ ] fhir
-- [ ] hl7
-- [ ] etl
+- [X] cdc
+- [X] fhir
+- [X] hl7
+- [X] etl
 - [ ] rsa
 - [ ] MBytes
 - [ ] MiB
@@ -98,7 +98,7 @@ Glossário prático:
 - [ ] nest.js
 - [ ] jest.js
 - [ ] junit
-- [ ] jmeeter
+- [ ] jmeter
 - [ ] jquery
 - [ ] ansible
 - [ ] react
@@ -221,6 +221,7 @@ Glossário prático:
 - [ ] pilha
 - [ ] fifo
 - [ ] sqs
+- [ ] sns
 - [ ] s3
 - [ ] elk
 - [ ] filebeat
@@ -243,6 +244,7 @@ Glossário prático:
 - [ ] bloco
 - [ ] cilindro
 - [ ] cron
+- [ ] cronjob
 - [ ] perfmon
 - [ ] zabbix
 - [ ] nagios
@@ -403,6 +405,7 @@ Glossário prático:
 - [ ] dicom
 - [ ] cmove
 - [ ] cfind
+- [ ] wado
 - [ ] echo
 - [ ] jumbo frame
 - [ ] frame
@@ -416,3 +419,8 @@ Glossário prático:
 - [ ] openstack
 - [ ] slack
 - [ ] zen
+- [ ] smtp
+- [ ] CCNA
+- [ ] GitHub
+- [ ] CAD
+- [ ] GIS

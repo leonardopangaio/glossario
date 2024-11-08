@@ -8,7 +8,7 @@ O *Transport Layer Security (TLS)* é a evolução do SSL e o protocolo atualmen
 
 ## Referências
 
-- [Wikipedia about TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
-- [Wikipedia about TLS (pt-br)](https://pt.wikipedia.org/wiki/Transport_Layer_Security)
-- [CloudFlare about TLS](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/)
-- [Amazon AWS about the difference between SSL and TLS](https://aws.amazon.com/pt/compare/the-difference-between-ssl-and-tls/)
+- [Wikipedia about TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security);
+- [Wikipedia about TLS (pt-br)](https://pt.wikipedia.org/wiki/Transport_Layer_Security);
+- [CloudFlare about TLS](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/);
+- [Amazon AWS about the difference between SSL and TLS](https://aws.amazon.com/pt/compare/the-difference-between-ssl-and-tls/);

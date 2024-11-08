@@ -8,5 +8,5 @@ O *Secure Shell (SSH)* é um protocolo de rede amplamente utilizado em ambientes
 
 ## Referências
 
-- [CloudFlare about SSH](https://www.cloudflare.com/pt-br/learning/access-management/what-is-ssh/)
-- [Wikipedia about SSH](https://pt.wikipedia.org/wiki/Secure_Shell)
+- [CloudFlare about SSH](https://www.cloudflare.com/pt-br/learning/access-management/what-is-ssh/);
+- [Wikipedia about SSH](https://pt.wikipedia.org/wiki/Secure_Shell);

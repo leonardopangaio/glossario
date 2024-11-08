@@ -8,7 +8,7 @@ O ICMP não é utilizado para a transferência de dados de usuário, mas sim par
 
 ## Referências
 
-- [Amazon AWS about ICMP](https://aws.amazon.com/pt/what-is/icmp/)
-- [CloudFlare about ICMP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/internet-control-message-protocol-icmp/)
-- [Fortinet about ICMP](https://www.fortinet.com/br/resources/cyberglossary/internet-control-message-protocol-icmp)
-- [Wikipedia about ICMP](https://pt.wikipedia.org/wiki/Internet_Control_Message_Protocol)
+- [Amazon AWS about ICMP](https://aws.amazon.com/pt/what-is/icmp/);
+- [CloudFlare about ICMP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/internet-control-message-protocol-icmp/);
+- [Fortinet about ICMP](https://www.fortinet.com/br/resources/cyberglossary/internet-control-message-protocol-icmp);
+- [Wikipedia about ICMP](https://pt.wikipedia.org/wiki/Internet_Control_Message_Protocol);

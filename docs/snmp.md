@@ -10,5 +10,5 @@ O SNMP utiliza uma arquitetura cliente-servidor, onde os dispositivos de rede, c
 
 ## Referências
 
-- [Wikipedia about SNMP](https://pt.wikipedia.org/wiki/Simple_Network_Management_Protocol)
-- [4Linux about SNMP](https://4linux.com.br/o-que-e-snmp/)
+- [Wikipedia about SNMP](https://pt.wikipedia.org/wiki/Simple_Network_Management_Protocol);
+- [4Linux about SNMP](https://4linux.com.br/o-que-e-snmp/);
