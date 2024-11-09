@@ -36,6 +36,7 @@ Glossário prático:
 - [ ] bloco
 - [ ] bpm
 - [ ] bpmn
+- [ ] Breach and Attack Simulation (BAS)
 - [ ] btop
 - [ ] bytes
 - [ ] c
@@ -281,6 +282,7 @@ Glossário prático:
 - [ ] oracle
 - [ ] Orion
 - [ ] orthanc
+- [ ] Out-of-Band Application Security Testing (OAST)
 - [ ] pacotes dropados
 - [ ] pacs
 - [ ] pascal

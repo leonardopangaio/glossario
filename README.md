@@ -4,7 +4,7 @@ Este glossário foi desenvolvido para facilitar a compreensão dos principais te
 
 A proposta é que este material sirva como uma referência prática para iniciantes e profissionais, permitindo uma consulta rápida e confiável. Para quem deseja se aprofundar, incluímos referências e sugestões de leitura adicional, ampliando o entendimento e a aplicação de cada termo no dia a dia profissional.
 
-Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores, e podem ter utilizado IAs generativas e/ou buscas, em geral as referências são buscas manuais.
+Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores, e podem ter utilizado IAs generativas e/ou pesquisas na internet.
 
 <!-- ![Forks](https://img.shields.io/github/forks/leonardopangaio/glossario.svg) - 
 ![Stats](https://img.shields.io/github/stars/leonardopangaio/glossario.svg) - 
