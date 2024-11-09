@@ -53,6 +53,41 @@ O *Change Data Capture (CDC)* é uma funcionalidade do *Microsoft SQL Server* qu
 - [Microsoft about CDC](https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver16);
 
 ---
+## Common Internet File System (CIFS)
+
+Autor: [Leonardo Pangaio][1] - Data:
+
+### Descrição
+
+O *Common Internet File System (CIFS)* é um protocolo de compartilhamento de arquivos utilizado para permitir que dispositivos em uma rede acessem arquivos remotos de forma transparente. O CIFS é uma versão aprimorada do SMB (Server Message Block), utilizado principalmente em redes Windows, permitindo o acesso a arquivos, impressoras e outras fontes de dados em servidores remotos.
+
+Embora o CIFS tenha sido amplamente utilizado em redes locais, o SMB mais moderno (SMB2 e SMB3) é agora preferido devido a melhorias de desempenho e segurança. Também utiliza a porta 445 na maioria das implementações modernas, sendo uma versão anterior do SMB.
+
+### Referências
+
+- [Wikipedia about SMB](https://pt.wikipedia.org/wiki/Server_Message_Block);
+- [F5 Glossary about CIFS](https://www.f5.com/pt_br/glossary/cifs-smb);
+- [GeeksForGeeks about CIFS](https://www.geeksforgeeks.org/what-is-cifs-common-internet-file-system/);
+- [Amazon AWS about the difference between CIFS and NFS](https://aws.amazon.com/pt/compare/the-difference-between-nfs-and-cifs/);
+- [Lenovo about CIFS](https://www.lenovo.com/us/en/glossary/what-is-common-internet-file-system-cifs/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoquJ-4XD39N68vDzYqropme-52PQ_JzVRuVU1Yk1bpu1jhcpi_A);
+
+---
+## Computer-Aided Design (CAD)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
+
+### Descrição
+
+O *Computer-Aided Design (CAD)* é um conjunto de ferramentas de software utilizado para criar projetos técnicos e desenhos em diversas áreas, como arquitetura, engenharia e design de produto. Com o CAD, os profissionais podem desenvolver modelos 2D e 3D, simulando a construção ou fabricação de um produto antes da execução.
+
+Esses sistemas oferecem funcionalidades como edição precisa de geometria, visualização em três dimensões, análise de desempenho e integração com outras ferramentas de engenharia e manufatura. Exemplos populares de software CAD incluem AutoCAD, SolidWorks e CATIA.
+
+### Referências
+
+- [Wiki about CAD (pt-br)](https://pt.wikipedia.org/wiki/Desenho_assistido_por_computador);
+- [Wiki about CAD](https://en.wikipedia.org/wiki/Computer-aided_design);
+
+---
 ## Data Migration (Migração de Dados)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -86,6 +121,26 @@ A migração pode incluir mudanças no schema de dados, mapeamento entre tipos d
 - [Google Cloud about Database Migration](https://cloud.google.com/architecture/database-migration-concepts-principles-part-1?hl=pt-br);
 - [Amazon AWS Database Migration Service (DMS)](https://aws.amazon.com/pt/dms/);
 
+
+---
+## Dynamic Application Security Testing (DAST)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Dynamic Application Security Testing (DAST)* é um tipo de teste de segurança que avalia o comportamento de uma aplicação enquanto ela está em execução. Diferente do SAST, que verifica o código-fonte, o DAST simula ataques externos para identificar vulnerabilidades em tempo de execução, como falhas de autenticação, injeções de SQL e falhas de configuração.
+
+Ferramentas DAST populares incluem OWASP ZAP, Burp Suite e Acunetix, que oferecem scanners de vulnerabilidades automatizados para testes de segurança em tempo real.
+
+### Referências
+
+- [Opentext about DAST](https://www.opentext.com/pt-br/o-que-e/dast);
+- [Wikipedia about DAST](https://en.wikipedia.org/wiki/Dynamic_application_security_testing);
+- [IBM about DAST](https://www.ibm.com/topics/dynamic-application-security-testing);
+- [Circleci about DAST](https://circleci.com/blog/sast-vs-dast-when-to-use-them/);
+- [Sonar about DAST](https://www.sonatype.com/resources/articles/what-is-dast);
+- [Check Point about DAST](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-dynamic-application-security-testing-dast/);
 
 ---
 ## Enterprise Resource Planning (ERP)
@@ -164,6 +219,65 @@ O FHIR facilita a integração com APIs RESTful e utiliza formatos de dados como
 - [Wikipedia about FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources);
 
 ---
+## File Transfer Protocol (FTP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *File Transfer Protocol (FTP)* é um protocolo de rede amplamente utilizado para a transferência de arquivos entre sistemas cliente e servidor, e opera na Camada 7 do modelo OSI. Sem criptografia nativa, o FTP transmite dados como texto simples, tornando-o menos seguro que versões aprimoradas, como SFTP e FTPS. É uma escolha comum para hospedar e transferir arquivos em redes locais, embora seu uso tenha diminuído com o aumento de opções mais seguras.
+
+A porta padrão para o FTP é a porta 21 para o canal de controle. No modo ativo, o FTP também utiliza portas adicionais dinâmicas para a transferência de dados, mas o canal de controle é sempre estabelecido inicialmente na porta 21.
+
+### Referências
+
+- [Wikipedia about FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol);
+- [Fortinet about FTP](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning);
+- [GeeksForGeeks about FTP](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/);
+- [Hostinger about FTP](https://www.hostinger.com/tutorials/what-is-ftp);
+- [Solarwinds about FTP](https://www.solarwinds.com/resources/it-glossary/ftp-server);
+
+---
+## Geographic Information System (GIS)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
+
+### Descrição
+
+O *Geographic Information System (GIS)* é uma ferramenta tecnológica que permite a coleta, análise, interpretação e visualização de dados geográficos. Usado amplamente em áreas como urbanismo, meio ambiente e logística, o GIS permite que informações espaciais sejam combinadas com dados não espaciais para criar mapas, gráficos e relatórios que ajudem na tomada de decisão.
+
+Os GIS podem ser usados para diversas finalidades, desde o mapeamento de rotas e a análise de recursos naturais até o planejamento urbano e o monitoramento de áreas agrícolas. Eles operam com dados de diversas fontes, como satélites, drones e sensores geoespaciais.
+
+### Referências
+
+- [ESRI about GIS](https://www.esri.com/pt-br/what-is-gis/overview);
+- [Imagem about GIS](https://www.img.com.br/pt-br/o-que-e-gis/visao-geral);
+- [Wikipedia about GIS (pt-br)](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_geogr%C3%A1fica);
+- [IBM about GIS](https://www.ibm.com/br-pt/topics/geographic-information-system);
+- [USGS about GIS](https://www.usgs.gov/faqs/what-geographic-information-system-gis);
+- [Wikipedia about GIS](https://en.wikipedia.org/wiki/Geographic_information_system);
+
+---
+## Gerenciamento Eletrônico de Documentos (GED)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
+
+### Descrição
+
+O Gerenciamento Eletrônico de Documentos (GED) refere-se ao conjunto de tecnologias e práticas utilizadas para digitalizar, armazenar, organizar, e controlar documentos eletrônicos. O sistema GED permite que as organizações gerenciem o ciclo de vida de documentos de maneira eficiente, desde a criação até o arquivamento ou eliminação.
+
+Esses sistemas são essenciais para empresas que precisam gerenciar grandes volumes de documentos e informações, oferecendo funções como buscas rápidas, controle de versões e segurança no armazenamento. O GED é comumente integrado com sistemas de gestão empresarial, como ERPs, e soluções de workflow.
+
+### Referências
+
+- [TOTVS about GED](https://www.totvs.com/blog/negocios/ged/);
+- [GED Portal](https://ged.net.br/definicoes-ged.html);
+- [Wikipedia about GED](https://pt.wikipedia.org/wiki/Gerenciamento_eletr%C3%B4nico_de_documentos);
+- [Neomind about GED](https://www.neomind.com.br/blog/o-que-e-ged/);
+- [Selbetti about GED](https://selbetti.com.br/blog/ged-o-que-e-como-funciona-e-quando-usar/);
+- [Sydle about GED](https://www.sydle.com/br/blog/ged-o-que-e-e-como-funciona-5f58df091e43744c69b51502);
+
+---
 ## Health Level Seven (HL7)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -197,6 +311,24 @@ Integrado a outros sistemas, como sistemas de faturamento e prontuário eletrôn
 - [Wikipedia about HIS](https://en.wikipedia.org/wiki/Hospital_information_system);
 
 ---
+## Hyper-Converged Infrastructure (HCI)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Hyper-Converged Infrastructure (HCI)* (Infraestrutura Hiperconvergente) é uma abordagem de infraestrutura de TI que combina computação, armazenamento e rede em uma única solução integrada. Em vez de cada um desses elementos ser gerido separadamente, o HCI usa software para consolidar e gerenciar todos os recursos em um cluster único e escalável. Essa configuração facilita o gerenciamento, aumenta a eficiência e melhora a escalabilidade, já que novos nós podem ser adicionados conforme necessário. A infraestrutura hiperconvergente é amplamente utilizada em ambientes de data centers e nuvem privada por sua capacidade de simplificar operações e reduzir o custo de hardware.
+
+### Referências
+
+- [Wikipedia about HCI](https://en.wikipedia.org/wiki/Hyper-converged_infrastructure);
+- [VMWare about HCI](https://www.vmware.com/info/hyper-converged-infrastructure);
+- [IBM about HCI](https://www.ibm.com/topics/hyperconverged-infrastructure);
+- [HP about HCI](https://www.hpe.com/br/en/what-is/hyperconverged-infrastructure.html);
+- [Nutanix about HCI](https://www.nutanix.com/hyperconverged-infrastructure);
+- [Cisco about HCI](https://www.cisco.com/c/en/us/solutions/data-center-virtualization/what-is-hyperconverged-infrastructure.html);
+
+---
 ## Hypertext Transfer Protocol (HTTP)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-06
@@ -206,6 +338,8 @@ Autor: [Leonardo Pangaio][1] - Data: 2024-11-06
 O *Hypertext Transfer Protocol (HTTP)* é o protocolo de comunicação padrão para a transferência de documentos na web, utilizado para carregar páginas HTML, imagens e outros recursos. Ele opera na Camada de Aplicação (Camada 7) do modelo OSI, a camada mais próxima do usuário. O HTTP é baseado em uma arquitetura cliente-servidor, onde o navegador solicita recursos ao servidor web e o servidor responde com os dados solicitados. Ele é simples, sem criptografia ou autenticação, o que significa que os dados trocados podem ser interceptados.
 
 No contexto do modelo OSI, a Camada de Aplicação lida com as interações diretas dos usuários com os serviços da rede, incluindo a transferência de arquivos, emails e, no caso do HTTP, o acesso à web. Embora seja amplamente utilizado, o HTTP por si só não oferece segurança e, por isso, é comum usá-lo em situações onde a proteção dos dados não é uma preocupação central, como o carregamento de conteúdo estático.
+
+A porta padrão do protocolo HTTP é a porta 80.
 
 ### Referências
 
@@ -225,12 +359,35 @@ O *Hypertext Transfer Protocol Secure (HTTPS)* é a versão segura do HTTP, que 
 
 O HTTPS é essencial para proteger informações sensíveis, como senhas, dados bancários e transações financeiras, e tornou-se o padrão para qualquer site que deseje garantir a segurança de seus usuários. Ele utiliza a porta 443 por padrão e é fortemente recomendado para qualquer aplicação que lide com dados privados. Além de criptografar os dados, o HTTPS também garante a autenticidade do servidor, o que aumenta a confiança dos usuários ao interagir com a web.
 
+A porta padrão do protocolo HTTPS é a porta 443.
+
 ### Referências
 
 - [MDN Glossary about HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/HTTPS);
 - [Amazon AWS about the difference between HTTP and HTTPS](https://aws.amazon.com/pt/compare/the-difference-between-https-and-http/);
 - [Wikipedia about HTTPS](https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure);
 - [CloudFlare about HTTPS](https://www.cloudflare.com/pt-br/learning/ssl/what-is-https/);
+
+---
+## Infrastructure as a Service (IaaS)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Infrastructure as a Service (IaaS)* fornece infraestrutura de TI (servidores, armazenamento e redes) por meio da nuvem, permitindo que empresas usem recursos virtualizados em vez de comprar e manter hardware físico. Com IaaS, organizações podem escalar seus recursos conforme a demanda, gerenciar sistemas operacionais, aplicativos e dados, enquanto o provedor cuida da infraestrutura subjacente. Exemplos de IaaS incluem Amazon Web Services (AWS), Microsoft Azure e Google Cloud Platform (GCP).
+
+### Referências
+
+- [Google Cloud about IaaS](https://cloud.google.com/learn/what-is-iaas?hl=pt_br);
+- [Microsoft Azure about IaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas);
+- [Microsoft Azure about IaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-iaas);
+- [Amazon AWS about IaaS](https://aws.amazon.com/what-is/iaas/);
+- [IBM about IaaS](https://www.ibm.com/topics/iaas);
+- [Google Cloud difference between PaaS, IaaS, SaaS, CaaS](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=pt_br);
+- [Fortinet about IaaS](https://www.fortinet.com/br/resources/cyberglossary/infrastructure-as-a-service);
+- [Cloudflare about IaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-iaas/);
+- [Wikipedia about IaaS](https://pt.wikipedia.org/wiki/Infraestrutura_como_servi%C3%A7o);
 
 ---
 ## Internet Control Message Protocol (ICMP)
@@ -284,6 +441,25 @@ A interoperabilidade é vital para integrar dados de várias fontes e possibilit
 - [GOV.BR about Interoperability](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/interoperabilidade/copy_of_interoperabilidade);
 
 ---
+## Kernel-based Virtual Machine (KVM)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
+
+### Descrição
+
+O *Kernel-based Virtual Machine (KVM)* é uma tecnologia de virtualização para sistemas Linux que permite que o hardware físico de um computador seja particionado em múltiplas máquinas virtuais. Com o KVM, é possível executar várias instâncias de sistemas operacionais, cada uma com seus próprios recursos e configurações, utilizando um único servidor físico.
+
+Com a adoção crescente de contêineres e ambientes virtualizados, o KVM é uma ferramenta importante para provedores de serviços de cloud computing e empresas que buscam otimizar a utilização de seus recursos de hardware.
+
+### Referências
+
+- [RedHat about KVM](https://www.redhat.com/pt-br/topics/virtualization/what-is-KVM);
+- [KVM official website](https://linux-kvm.org/page/Main_Page);
+- [Hostinger about KVM](https://support.hostinger.com/pt/articles/6988144-o-que-e-virtualizacao-kvm);
+- [Amazon AWS about KVM](https://aws.amazon.com/pt/what-is/kvm/);
+- [Wikipedia about KVM](https://pt.wikipedia.org/wiki/Kernel-based_Virtual_Machine);
+
+---
 ## Laboratory Information System (LIS)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -335,6 +511,23 @@ Um sistema de MDM centraliza o gerenciamento de dados principais, permitindo que
 - [Wikipedia about MDM](https://pt.wikipedia.org/wiki/Master_Data_Management);
 
 ---
+## Mergers and Acquisitions (M&A)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+*Mergers and Acquisitions (M&A)* refere-se a fusões e aquisições, processos em que empresas se unem ou uma adquire a outra. Esses processos são comuns em mercados corporativos e têm o objetivo de aumentar a participação de mercado, expandir a linha de produtos ou acessar novas tecnologias.
+
+As fusões geralmente envolvem empresas que se combinam em uma nova organização, enquanto as aquisições ocorrem quando uma empresa compra outra. Ambos os processos podem envolver complexos aspectos financeiros e regulatórios.
+
+### Referências
+
+- [Wikipedia about M&A (pt-br)](https://pt.wikipedia.org/wiki/Fus%C3%B5es_e_aquisi%C3%A7%C3%B5es);
+- [FIA about M&A](https://fia.com.br/blog/ma-o-que-e-tipos-exemplos-e-etapas-do-processo/);
+- [Wikipedia about M&A](https://en.wikipedia.org/wiki/Mergers_and_acquisitions);
+
+---
 ## Message Queuing Telemetry Transport (MQTT)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -353,6 +546,27 @@ Operando na camada de aplicação do modelo OSI (Camada 7), o MQTT é utilizado 
 - [Amazon AWS about MQTT](https://aws.amazon.com/what-is/mqtt/);
 
 ---
+## Minimum Viable Product (MVP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Minimum Viable Product (MVP)* é uma versão inicial de um produto ou serviço que contém apenas os recursos essenciais para atender às necessidades de seus primeiros usuários. A ideia por trás do MVP é testar a viabilidade do produto com um número reduzido de funcionalidades antes de realizar investimentos maiores em desenvolvimento.
+
+Ao lançar um MVP, as empresas podem validar hipóteses, ajustar funcionalidades e obter feedback de clientes reais, evitando gastar recursos excessivos em algo que pode não ter demanda.
+
+### Referências
+
+- [Wikipedia about MVP (pt-br)](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo);
+- [InfoMoney about MVP](https://www.infomoney.com.br/guias/o-que-e-como-fazer-mvp-produto-viavel-minimo/);
+- [Zendesk about MVP](https://www.zendesk.com.br/blog/o-que-e-mvp/#);
+- [Wikipedia about MVP](https://en.wikipedia.org/wiki/Minimum_viable_product);
+- [Atlassian about MVP](https://www.atlassian.com/agile/product-management/minimum-viable-product);
+- [Gartner Glossary about MVP](https://www.gartner.com/en/marketing/glossary/minimum-viable-product-mvp-);
+- [Mailchimp about MVP](https://mailchimp.com/pt-br/resources/minimum-viable-product/);
+
+---
 ## Mirth Connect
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -367,6 +581,58 @@ Através de sua interface gráfica, o Mirth facilita o mapeamento de dados e a c
 
 - [Wikipedia about Mirth](https://en.wikipedia.org/wiki/Mirth_Connect);
 - [Mirth e-book](https://www.nextgen.com/-/media/DAM/Collateral/E-Books/CH_FundamentalBuildingBlocksofInterop_Ebook.pdf);
+
+---
+## Network File System (NFS)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Network File System (NFS)* é um protocolo de rede desenvolvido para permitir que sistemas Unix e Linux compartilhem diretórios e arquivos de forma transparente entre computadores. Com o NFS, um sistema pode montar diretórios de outro sistema remoto, permitindo o acesso aos arquivos como se estivessem localmente disponíveis.
+
+O NFS é amplamente utilizado em ambientes de rede Linux, permitindo o compartilhamento eficiente de arquivos em grandes ambientes corporativos e datacenters. A porta padrão varia conforme a versão, mas a porta padrão mais comum é a 2049 (para versões recentes do NFS).
+
+### Referências
+
+- [RedHat about NFS](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-nfs);
+- [NordVPN about NFS](https://nordvpn.com/pt-br/blog/network-file-system/);
+- [Wikipedia about NFS (pt-br)](https://pt.wikipedia.org/wiki/Network_File_System);
+- [Wikipedia about NFS](https://en.wikipedia.org/wiki/Network_File_System);
+
+---
+## Non-Disclosure Agreement (NDA)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
+
+### Descrição
+
+Um *Non-Disclosure Agreement (NDA)* é um acordo legal entre duas ou mais partes para manter informações confidenciais e proteger dados sensíveis. Ele é comumente utilizado em situações de negócios, como negociações, parcerias e contratos de trabalho, onde uma parte compartilha informações sigilosas com a outra, mas deseja garantir que esses dados não sejam divulgados a terceiros.
+
+Os NDAs ajudam a proteger o know-how, segredos comerciais e outros dados críticos que podem ser prejudiciais se revelados sem autorização.
+
+### Referências
+
+- [TOTVS about NDA](https://www.totvs.com/blog/gestao-para-assinatura-de-documentos/o-que-e-nda/);
+- [Jusbrasil about NDA](https://www.jusbrasil.com.br/artigos/o-que-e-um-nda-quando-e-como-usar/729672857);
+- [Wikipedia about NDA](https://pt.wikipedia.org/wiki/Acordo_de_n%C3%A3o-divulga%C3%A7%C3%A3o);
+
+---
+## Object-Relational Mapping (ORM)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Object-Relational Mapping (ORM)* é uma técnica que permite a interação entre sistemas orientados a objetos e bancos de dados relacionais. Em vez de escrever consultas SQL manualmente, o ORM permite que os desenvolvedores interajam com o banco de dados por meio de objetos e classes no código, tornando a manipulação de dados mais intuitiva e eficiente.
+
+Ferramentas ORM populares incluem Hibernate (para Java), Entity Framework (para .NET) e SQLAlchemy (para Python).
+
+### Referências
+
+- [Baeldung about ORM](https://www.baeldung.com/cs/object-relational-mapping);
+- [Wikipedia about ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping);
+- [GeekForGeeks about ORM](https://www.geeksforgeeks.org/what-is-object-relational-mapping-orm-in-dbms/);
 
 ---
 ## Open Systems Interconnection (OSI Model)
@@ -412,6 +678,27 @@ A camada de aplicação é onde os usuários interagem diretamente com a rede. E
 - [CloudFlare about OSI Model](https://www.cloudflare.com/pt-br/learning/ddos/glossary/open-systems-interconnection-model-osi/);
 - [Amazon AWS about OSI Model](https://aws.amazon.com/pt/what-is/osi-model/);
 - [CISCO about OSI Model](https://community.cisco.com/t5/artigos-gerais/modelo-osi-e-suas-camadas/ta-p/5052369);
+
+---
+## Platform as a Service (PaaS)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Platform as a Service (PaaS)* oferece uma plataforma completa para desenvolvimento, execução e gerenciamento de aplicações na nuvem. Esse modelo permite que desenvolvedores se concentrem no desenvolvimento de código, sem se preocupar com a infraestrutura subjacente, já que o provedor cuida da segurança, armazenamento e rede. PaaS é popular para desenvolver e implantar aplicativos de forma rápida e escalável. Exemplos de PaaS incluem Heroku, Google App Engine e Red Hat OpenShift.
+
+### Referências
+
+- [Microsoft Azure about PaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-paas);
+- [Google Cloud about PaaS](https://cloud.google.com/learn/what-is-paas?hl=pt-BR);
+- [Microsoft Azure about PaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas);
+- [Wikipedia about PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service);
+- [RedHat about PaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-paas);
+- [IBM about PaaS](https://www.ibm.com/topics/paas);
+- [Zendesk about PaaS](https://www.zendesk.com.br/blog/what-is-paas/);
+- [Fortinet about PaaS](https://www.fortinet.com/br/resources/cyberglossary/platform-as-a-service);
+- [HP about PaaS](https://www.hpe.com/us/en/what-is/paas.html);
 
 ---
 ## Prontuário Eletrônico do Paciente (PEP)
@@ -468,6 +755,38 @@ Esses sistemas são essenciais para documentar procedimentos, arquivar imagens m
 - [Star about RIS](https://star.med.br/o-que-e-ris/);
 
 ---
+## Samba
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+SAMBA é uma implementação livre e de código aberto do protocolo SMB/CIFS, permitindo que sistemas Linux e Unix se comuniquem e compartilhem arquivos com máquinas Windows. Usando o SAMBA, servidores Linux podem atuar como um servidor de arquivos ou controlador de domínio, oferecendo recursos como compartilhamento de arquivos, impressoras e autenticação de usuários em redes mistas.
+
+SAMBA é amplamente utilizado em ambientes empresariais para integrar redes baseadas em Linux e Windows, permitindo uma comunicação fluida entre os dois sistemas operacionais.
+
+### Referências
+
+- [Samba official website](https://www.samba.org/samba/what_is_samba.html);
+- [University of Pennsilvania about Samba](https://cets.seas.upenn.edu/answers/samba.html);
+- [RedHat about Samba](https://www.redhat.com/en/blog/getting-started-samba);
+- [Ubuntu about Samba](https://ubuntu.com/server/docs/introduction-to-samba);
+- [Wikipedia about Samba](https://en.wikipedia.org/wiki/Samba_(software));
+
+---
+## Secure File Transfer Protocol (SFTP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Secure File Transfer Protocol (SFTP)* é uma versão segura do FTP que utiliza o protocolo SSH para fornecer uma transferência de arquivos criptografada entre cliente e servidor. O SFTP é amplamente utilizado para envio seguro de arquivos, especialmente em ambientes corporativos que exigem conformidade com normas de segurança. Por ser baseado em SSH, o SFTP utiliza a porta 22, oferecendo um nível de segurança superior ao FTP padrão.
+
+### Referências
+
+- [Wikipedia about SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol);
+
+---
 ## Secure Shell (SSH)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-06
@@ -495,6 +814,39 @@ O *Secure Sockets Layer (SSL)* é um protocolo de segurança criado para protege
 - [Amazon AWS About SSL Certificate](https://aws.amazon.com/pt/what-is/ssl-certificate/);
 - [CloudFlare About SSL Certificate](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/);
 - [Wikipedia About SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security);
+
+---
+## Server Message Block (SMB)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Server Message Block (SMB)* é um protocolo de rede utilizado para compartilhar arquivos, impressoras e outros recursos em uma rede. Originalmente desenvolvido para sistemas Windows, o SMB permite que computadores acessem arquivos de forma remota e façam solicitações a servidores e dispositivos em uma rede.
+
+O protocolo SMB funciona na camada de aplicação do modelo OSI e é utilizado por sistemas operacionais como Windows, Linux (via SAMBA) e macOS. A porta padrão 445 (SMB2 e SMB3, utilizado em Windows para compartilhamento de arquivos e impressão).
+
+### Referências
+
+- [Wikipedia about SMB](https://en.wikipedia.org/wiki/Server_Message_Block);
+- [NordVPN about SMB](https://nordvpn.com/pt-br/blog/what-is-smb/);
+- [Wikiedia about SMB (pt-br)](https://pt.wikipedia.org/wiki/Server_Message_Block);
+
+---
+## Simple Mail Transfer Protocol (SMTP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Simple Mail Transfer Protocol (SMTP)* é o protocolo padrão de envio de e-mails, utilizado para a transmissão de mensagens entre servidores de e-mail e entre clientes e servidores. Operando geralmente nas portas 25, 587 e 465 (para conexões criptografadas), o SMTP é um dos protocolos essenciais para o funcionamento da internet e é complementado por POP3 e IMAP para o recebimento de mensagens.
+
+### Referências
+
+- [Cloudflare about SMTP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-smtp/);
+- [Wikipedia about SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol);
+- [Amazon AWS about SMTP](https://aws.amazon.com/what-is/smtp/);
+- [GeeksForGeeks about SMTP](https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/);
 
 ---
 ## Simple Network Management Protocol (SNMP)
@@ -527,6 +879,62 @@ Os SGBDs são fundamentais em praticamente todos os sistemas modernos que depend
 
 - [Wikipedia about SGDB](https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_banco_de_dados);
 - [Alura about SGDB](https://www.alura.com.br/artigos/sgbds-relacionais?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=164212380672&hsa_ad=703829166693&hsa_src=g&hsa_tgt=dsa-425656816943&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hQc_xLuiB4fiLBFhl993s324PiO_jXpvqrOzOH7b6jXxltWiUsRw4aAug-EALw_wcB);
+
+---
+## Site Reliability Engineering (SRE)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Site Reliability Engineering (SRE)* é uma abordagem de engenharia de software dedicada à criação de sistemas resilientes, escaláveis e com alta disponibilidade. Os engenheiros de SRE aplicam princípios de automação e monitoramento para reduzir falhas e manter serviços com tempos de resposta e disponibilidade elevados. O conceito foi inicialmente desenvolvido pelo Google e abrange técnicas de automação, criação de alertas proativos e redução de tarefas manuais para maximizar a eficiência e a confiabilidade de sistemas complexos.
+
+### Referências
+
+- [RedHat about SRE](https://www.redhat.com/en/topics/devops/what-is-sre);
+- [Amazon AWS about SRE](https://aws.amazon.com/what-is/sre/);
+- [SRE official website](https://sre.google/);
+- [Wikipedia about SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering);
+- [IBM about SRE](https://www.ibm.com/topics/site-reliability-engineering);
+- [Dynatrace about SRE](https://www.dynatrace.com/news/blog/what-is-site-reliability-engineering/);
+- [Atlassian about SRE](https://www.atlassian.com/incident-management/devops/sre);
+
+---
+## Software as a Service (Saas)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Software as a Service (Saas)* é um modelo de computação em nuvem onde o software é hospedado e mantido por um provedor e acessado pelos usuários pela internet, normalmente via navegador ou API. Nesse modelo, os usuários pagam uma assinatura para utilizar a aplicação sem precisar gerenciar infraestrutura ou atualizações. SaaS é popular devido à conveniência de acesso remoto e à capacidade de escalar serviços de acordo com a demanda. Exemplos de SaaS incluem Microsoft 365, Salesforce e Zoom.
+
+### Referências
+
+- [Microsoft Azure about SaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas);
+- [Salesforce about SaaS](https://www.salesforce.com/saas/);
+- [Wikipedia about SaaS](https://en.wikipedia.org/wiki/Software_as_a_service);
+- [Amazon AWS about SaaS](https://aws.amazon.com/what-is/saas/);
+- [IBM about SaaS](https://www.ibm.com/topics/saas);
+- [Cloudflare about SaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-saas/);
+- [Oracla about SaaS](https://www.oracle.com/ng/applications/what-is-saas/);
+
+---
+## Static Application Security Testing (SAST)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
+
+### Descrição
+
+O *Static Application Security Testing (SAST)* é uma abordagem de segurança que envolve a análise do código-fonte de uma aplicação para identificar vulnerabilidades antes que o software seja executado. O SAST pode ser realizado durante a fase de desenvolvimento e é essencial para detectar falhas de segurança precoces, evitando riscos em produção.
+
+Ferramentas SAST populares incluem SonarQube, Checkmarx e Veracode, que ajudam a automatizar a detecção de vulnerabilidades em aplicativos.
+
+### Referências
+
+- [Wikipedia about SAST](https://en.wikipedia.org/wiki/Static_application_security_testing);
+- [Sonar about SAST](https://www.sonarsource.com/learn/sast/);
+- [Gartner Glossary about SAST](https://www.gartner.com/en/information-technology/glossary/static-application-security-testing-sast);
+- [Opentext about SAST](https://www.opentext.com/pt-br/o-que-e/sast);
 
 ---
 ## Streaming Text Oriented Messaging Protocol (STOMP)
@@ -592,6 +1000,22 @@ Apesar de sua falta de confiabilidade, o UDP é mais rápido do que o TCP, pois 
 - [CloudFlare about UDP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/user-datagram-protocol-udp/);
 - [Wikipedia about UDP](https://pt.wikipedia.org/wiki/Protocolo_de_datagrama_do_usu%C3%A1rio);
 - [IBM about UDP](https://www.ibm.com/docs/pt-br/aix/7.3?topic=protocols-user-datagram-protocol);
+
+---
+## Vendor Neutral Archive (VNA)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
+
+### Descrição
+
+O *Vendor Neutral Archive (VNA)* é um sistema de armazenamento de imagens médicas que permite a captura, armazenamento, gerenciamento e acesso a imagens, independentemente do fornecedor da tecnologia de imagem utilizada. A principal vantagem do VNA é a neutralidade, ou seja, ele não depende de um fabricante específico e pode ser integrado com diferentes sistemas, como *PACS (Picture Archiving and Communication System)*, garantindo a interoperabilidade.
+
+Em ambientes de saúde, o VNA facilita o armazenamento centralizado de imagens médicas, como radiografias, tomografias e ressonâncias magnéticas, além de permitir a visualização de imagens em qualquer estação de trabalho sem depender de um software proprietário.
+
+### Referências
+
+- [Wikipedia about VNA](https://en.wikipedia.org/wiki/Vendor_Neutral_Archive);
+- [Intelerad about VNA](https://www.intelerad.com/en/2023/04/20/what-is-vendor-neutral-archive/);
 
 <!-- término glossário -->
 
