@@ -54,6 +54,7 @@ Glossário prático:
 - [ ] cli
 - [ ] cliper
 - [ ] Cluster
+- [ ] CMDB
 - [ ] cmove
 - [ ] cna
 - [ ] cobit
@@ -153,8 +154,10 @@ Glossário prático:
 - [ ] google
 - [ ] gpu
 - [ ] grafana
+- [ ] GraphQL
 - [ ] graylog
 - [ ] groups
+- [ ] gRPC
 - [ ] hash
 - [ ] hostname
 - [ ] HP
@@ -240,6 +243,7 @@ Glossário prático:
 - [ ] mongodb
 - [ ] mount
 - [ ] mpls
+- [ ] MQTT
 - [ ] mssp
 - [ ] mtr
 - [ ] mtu
@@ -281,11 +285,15 @@ Glossário prático:
 - [ ] pascal
 - [ ] passwd
 - [ ] perfmon
+- [ ] pfsense
 - [ ] php
 - [ ] pilha
 - [ ] pilha de switch
 - [ ] ping
 - [ ] pipeline
+- [ ] pmbok
+- [ ] pmi
+- [ ] pmp
 - [ ] POP (protocolo de e-mail)
 - [ ] porta
 - [ ] postgres
@@ -343,6 +351,7 @@ Glossário prático:
 - [ ] snap
 - [ ] sns
 - [ ] socket
+- [ ] Socket.io
 - [ ] SolarWinds
 - [ ] SonarQube
 - [ ] sql server
@@ -420,6 +429,7 @@ Glossário prático:
 - [ ] WatterFall
 - [ ] webapplication
 - [ ] webservice
+- [ ] WebSocket
 - [ ] wget
 - [ ] wifi
 - [ ] wireless
