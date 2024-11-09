@@ -239,6 +239,7 @@ Glossário prático:
 - [ ] md5
 - [ ] mermaid
 - [ ] metricbeat
+- [ ] MFA
 - [ ] MiB
 - [ ] mongodb
 - [ ] mount
