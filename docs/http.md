@@ -8,6 +8,8 @@ O *Hypertext Transfer Protocol (HTTP)* é o protocolo de comunicação padrão p
 
 No contexto do modelo OSI, a Camada de Aplicação lida com as interações diretas dos usuários com os serviços da rede, incluindo a transferência de arquivos, emails e, no caso do HTTP, o acesso à web. Embora seja amplamente utilizado, o HTTP por si só não oferece segurança e, por isso, é comum usá-lo em situações onde a proteção dos dados não é uma preocupação central, como o carregamento de conteúdo estático.
 
+A porta padrão do protocolo HTTP é a porta 80.
+
 ## Referências
 
 - [MDN Web Docs about HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP);

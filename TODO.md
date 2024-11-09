@@ -1,426 +1,478 @@
 Glossário prático: 
 
-- [ ] Tty
-- [X] ssl
-- [X] ssh
-- [X] tls
-- [ ] ttl
-- [ ] protocolos
-- [X] modelo osi
-- [ ] jitter
-- [ ] latência
-- [ ] taxa de transferência
-- [ ] throughput
-- [ ] ping
-- [ ] mtu
-- [ ] chunck
-- [ ] sftp
-- [ ] ftp
-- [ ] scp
-- [ ] smb
-- [ ] samba
-- [ ] cifs
-- [ ] delay
-- [ ] chave
-- [ ] criptografia
-- [ ] certificado
-- [ ] key
-- [ ] pub
-- [ ] crt
-- [ ] uuid
-- [X] snmp
-- [ ] variaveis de performance de redes
-- [ ] dd
-- [ ] ss
-- [ ] ip addr
-- [ ] ifconfig
-- [ ] pacotes dropados
-- [ ] retransmissão
-- [X] icmp
-- [ ] nmap
-- [ ] nc
-- [ ] porta
-- [ ] socket
-- [ ] mac address
-- [ ] shell
-- [ ] bash
-- [ ] console
-- [ ] terminal
-- [ ] sessão
-- [ ] pseudo console
-- [ ] sha256
-- [ ] base 64
-- [ ] md5
-- [ ] mpls
-- [ ] roteamento
-- [ ] firewall
-- [ ] proxy
-- [X] cdc
-- [X] fhir
-- [X] hl7
-- [X] etl
-- [ ] rsa
-- [ ] MBytes
-- [ ] MiB
-- [ ] bandwidth
-- [ ] largura de banda
-- [X] tcp
-- [X] udp
-- [X] http
-- [X] https
-- [ ] bits
-- [ ] bytes
-- [ ] vmware
-- [ ] docker
-- [ ] iso
-- [ ] container
-- [ ] vm
-- [ ] hci
-- [ ] hiperconvergente
-- [ ] nexus
-- [ ] repositorio
-- [ ] git
-- [ ] registry
-- [ ] gitlab
-- [ ] pipeline
-- [ ] ci/cd
-- [ ] script
-- [ ] python
-- [ ] node.js
-- [ ] javascript
-- [ ] html
-- [ ] css
-- [ ] markdown
-- [ ] rest api
-- [ ] soap api
-- [ ] api
-- [ ] next.js
-- [ ] nest.js
-- [ ] jest.js
-- [ ] junit
-- [ ] jmeter
-- [ ] jquery
-- [ ] ansible
-- [ ] react
-- [ ] angular
-- [ ] express
-- [ ] js knex.js
-- [ ] venv
-- [ ] makefile
-- [ ] .gitignore
 - [ ] .dockerignore
-- [ ] Dockerfile
-- [ ] docker-compose.yml
-- [ ] yaml
-- [ ] json
-- [ ] xml
-- [ ] postgres
-- [ ] sql server
-- [ ] mysql
-- [ ] oracle
-- [ ] sqlite
-- [ ] mongodb
-- [ ] elasticksearch
-- [ ] openshift
-- [ ] kubernetes
-- [ ] aws
-- [ ] azure
-- [ ] google
-- [ ] gcp
-- [ ] mvp
-- [ ] nda
-- [ ] NaN
-- [ ] null
-- [ ] inodes
-- [ ] df
-- [ ] link
-- [ ] nfs
-- [ ] iscisii
-- [ ] sas
-- [ ] sata
-- [ ] ssd
-- [ ] ip v4
-- [ ] ip v6
-- [ ] hash
-- [ ] passwd
-- [ ] id
-- [ ] groups
-- [ ] sudo
-- [ ] sudoers
-- [ ] visudo
-- [ ] f5
-- [ ] bigip
-- [ ] bgp
-- [ ] backbone
-- [ ] switch core
-- [ ] switch de acesso
-- [ ] pilha de switch
-- [ ] switch tor
-- [ ] netapp
-- [ ] storage
-- [ ] controladora
-- [ ] flex volume
-- [ ] flex group
-- [ ] iops
-- [ ] io
-- [ ] cpu wait
-- [ ] vmstat
-- [ ] free
-- [ ] smem
-- [ ] iotop
-- [ ] iostat
-- [ ] mount
-- [ ] nfsstat
-- [ ] nfstop
-- [ ] htop
-- [ ] top
-- [ ] btop
-- [ ] glances
-- [ ] mtr
-- [ ] traceroute
-- [ ] telnet
-- [ ] virtualização
-- [ ] vnc
-- [ ] vpc
-- [ ] wireshark
-- [ ] iperf3
-- [ ] tcpdump
-- [ ] route
-- [ ] cli
-- [ ] ui
-- [ ] ux
-- [ ] ide
-- [ ] vi
-- [ ] vim
-- [ ] nano
-- [ ] neo vim
-- [ ] rsync
-- [ ] cp
-- [ ] makedir
-- [ ] cd
-- [ ] mv
-- [ ] openssl
-- [ ] openvpn
-- [ ] vpn
-- [ ] orthanc
-- [ ] pacs
-- [ ] ris
-- [ ] his
-- [ ] erp
-- [ ] sap
-- [ ] pep
-- [ ] load
-- [ ] swap
-- [ ] swapin
-- [ ] swapout
-- [ ] swapon
-- [ ] swapoff
-- [ ] sar
-- [ ] ksar
-- [ ] fila
-- [ ] pilha
-- [ ] fifo
-- [ ] sqs
-- [ ] sns
-- [ ] s3
-- [ ] elk
-- [ ] filebeat
-- [ ] metricbeat
-- [ ] logstash
-- [ ] graylog
-- [ ] jenkins
-- [ ] argocd
-- [ ] rundec
-- [ ] nginx
-- [ ] vsun
-- [ ] vhops
-- [ ] putty
-- [ ] rdp
-- [ ] blockchain
-- [ ] lvm
-- [ ] xfs
-- [ ] ext3
-- [ ] ext4
-- [ ] bloco
-- [ ] cilindro
-- [ ] cron
-- [ ] cronjob
-- [ ] perfmon
-- [ ] zabbix
-- [ ] nagios
-- [ ] prtg
-- [ ] vlan
-- [ ] lan
-- [ ] wan
-- [ ] wifi
-- [ ] wireless
-- [ ] ieee
-- [ ] iis
-- [ ] fortran
-- [ ] java
-- [ ] delphi
-- [ ] curl
-- [ ] wget
-- [ ] dpkg
-- [ ] golang
-- [ ] rub on rails
-- [ ] php
-- [ ] laravel
-- [ ] typescript
-- [ ] lua
-- [ ] ram
-- [ ] cpu
-- [ ] gpu
-- [ ] ethernet
-- [ ] netmask
-- [ ] subnet
-- [ ] gateway
-- [ ] dns
-- [ ] dhcp
-- [ ] toml
-- [ ] devops
-- [ ] devsecops
-- [ ] sre
-- [ ] bi
-- [ ] powerbi
-- [ ] grafana
-- [ ] engenheiro de dados
-- [ ] data science
-- [ ] nping
-- [ ] http-ping
-- [ ] tcping
-- [ ] upload
-- [ ] download
-- [ ] latência não carregada
-- [ ] latência carregada
-- [ ] idle latency
-- [ ] download latency
-- [ ] upload latency
-- [ ] cva
-- [ ] ged
-- [ ] framework
-- [ ] M&A
-- [ ] get
-- [ ] post
-- [ ] put
-- [ ] patch
-- [ ] hostname
-- [ ] uptime
-- [ ] etherape
+- [ ] .gitignore
+- [ ] 7z
+- [ ] Active Directory
+- [ ] AE_Title
+- [ ] Agile
+- [ ] angular
+- [ ] ansible
+- [ ] apache
+- [ ] apache airflow
+- [ ] apache tomcat
+- [ ] api
+- [ ] api rest
+- [ ] api soap
 - [ ] apt
 - [ ] apt-get
-- [ ] yum
-- [ ] rpm
-- [ ] snap
-- [ ] selinux
-- [ ] kerberos
-- [ ] ldap
-- [ ] cobol
-- [ ] cliper
-- [ ] classes de IP
-- [ ] doc
-- [ ] docx
-- [ ] xls
-- [ ] xlsx
-- [ ] ppt
-- [ ] pptx
-- [ ] 7z
-- [ ] rar
-- [ ] zip
-- [ ] tar
-- [ ] tar.gz
+- [ ] argocd
+- [ ] aws
+- [ ] azure
+- [ ] backbone
+- [ ] backend
+- [ ] backup diferencial
 - [ ] backup full
 - [ ] backup incremental
-- [ ] backup diferencial
-- [ ] daemon
-- [ ] webservice
-- [ ] webapplication
-- [ ] orm
-- [ ] query builder
-- [ ] raw sql
-- [ ] psql
-- [ ] tsql
-- [ ] ddl
-- [ ] dml
-- [ ] dql
-- [ ] dtl
-- [ ] dcl
-- [ ] query
-- [ ] select
-- [ ] from
-- [ ] where
-- [ ] having
-- [ ] group by
-- [ ] order by
-- [ ] with
-- [ ] update
-- [ ] alter
-- [ ] delete
-- [ ] drop
-- [ ] schema
-- [ ] backend
-- [ ] frontend
-- [ ] figma
-- [ ] drawio
-- [ ] mermaid
-- [ ] entidade relacionamento
-- [ ] diagrama de fluxo
-- [ ] diagrama de sequência
-- [ ] diagrama de venn
-- [ ] uml
+- [ ] bandwidth
+- [ ] Bare Metal
+- [ ] base 64
+- [ ] bash
+- [ ] bgp
+- [ ] bi
+- [ ] bigip
+- [ ] bits
+- [ ] blockchain
+- [ ] bloco
 - [ ] bpm
 - [ ] bpmn
-- [ ] itil
-- [ ] cobit
-- [ ] iso
-- [ ] lean
-- [ ] lean six sigma
-- [ ] scrum
-- [ ] kanban
-- [ ] lpi
-- [ ] mba
-- [ ] lato senso
-- [ ] stricto senso
-- [ ] curriculum lates
-- [ ] mestrado
-- [ ] doutorado
-- [ ] pós doutorado
-- [ ] dba
-- [ ] ti
+- [ ] btop
+- [ ] bytes
 - [ ] c
 - [ ] c#
 - [ ] c++
-- [ ] pascal
-- [ ] visual studio
-- [ ] jupter notebook
-- [ ] conda
-- [ ] kpi
-- [ ] okr
-- [ ] ttm
-- [ ] vbs
-- [ ] visual basic
-- [ ] csa
-- [ ] cna
-- [ ] ecma
-- [ ] dicom
-- [ ] cmove
-- [ ] cfind
-- [ ] wado
-- [ ] echo
-- [ ] jumbo frame
-- [ ] frame
-- [ ] jwt
-- [ ] oauth
-- [ ] link agregate
-- [ ] vmware
-- [ ] vm
-- [ ] hyper-v
-- [ ] kvm
-- [ ] openstack
-- [ ] slack
-- [ ] zen
-- [ ] smtp
+- [ ] CaaS
 - [ ] CCNA
+- [ ] cd
+- [ ] certificado
+- [ ] cfind
+- [ ] chave
+- [ ] chunck
+- [ ] ci/cd
+- [ ] cilindro
+- [ ] classes de IP
+- [ ] cli
+- [ ] cliper
+- [ ] Cluster
+- [ ] cmove
+- [ ] cna
+- [ ] cobit
+- [ ] cobol
+- [ ] conda
+- [ ] console
+- [ ] container
+- [ ] controladora
+- [ ] cp
+- [ ] cpu
+- [ ] CPU
+- [ ] cpu wait
+- [ ] criptografia
+- [ ] crm (sistema)
+- [ ] cron
+- [ ] cronjob
+- [ ] CrowdStrike
+- [ ] crt
+- [ ] csa
+- [ ] css
+- [ ] curl
+- [ ] cva
+- [ ] daemon
+- [ ] Data briks
+- [ ] Data lake
+- [ ] data science
+- [ ] Datadog
+- [ ] dba
+- [ ] dcl
+- [ ] dd
+- [ ] ddl
+- [ ] delay
+- [ ] delete
+- [ ] DELL
+- [ ] delphi
+- [ ] devops
+- [ ] devsecops
+- [ ] df
+- [ ] dhcp
+- [ ] diagrama de fluxo
+- [ ] diagrama de sequência
+- [ ] diagrama de venn
+- [ ] dicom
+- [ ] dll
+- [ ] dml
+- [ ] dmz
+- [ ] dns
+- [ ] doc
+- [ ] docker
+- [ ] docker-compose.yml
+- [ ] Dockerfile
+- [ ] docx
+- [ ] download
+- [ ] download latency
+- [ ] dpkg
+- [ ] dql
+- [ ] drawio
+- [ ] dtl
+- [ ] Dynatrace
+- [ ] echo
+- [ ] ecma
+- [ ] elasticksearch
+- [ ] elk
+- [ ] endpoint
+- [ ] engenheiro de dados
+- [ ] entidade relacionamento
+- [ ] etherape
+- [ ] ethernet
+- [ ] express
+- [ ] ext3
+- [ ] ext4
+- [ ] f5
+- [ ] FAQ
+- [ ] FAT
+- [ ] FAT32
+- [ ] fifo
+- [ ] figma
+- [ ] fila
+- [ ] filebeat
+- [ ] firewall
+- [ ] flex group
+- [ ] flex volume
+- [ ] fortran
+- [ ] frame
+- [ ] framework
+- [ ] free
+- [ ] frontend
+- [ ] Fusion Inventory
+- [ ] gateway
+- [ ] gcp
+- [ ] git
 - [ ] GitHub
-- [ ] CAD
-- [ ] GIS
+- [ ] gitlab
+- [ ] glances
+- [ ] GLPI
+- [ ] golang
+- [ ] google
+- [ ] gpu
+- [ ] grafana
+- [ ] graylog
+- [ ] groups
+- [ ] hash
+- [ ] hostname
+- [ ] HP
+- [ ] html
+- [ ] htop
+- [ ] http-ping
+- [ ] hyper-v
+- [ ] IaC
+- [ ] IBM
+- [ ] id
+- [ ] ide
+- [ ] idle latency
+- [ ] ieee
+- [ ] ifconfig
+- [ ] iis
+- [ ] imap (protocolo de e-mail)
+- [ ] inodes
+- [ ] io
+- [ ] iops
+- [ ] iostat
+- [ ] IoT
+- [ ] iotop
+- [ ] IP
+- [ ] ip addr
+- [ ] ip v4
+- [ ] ip v6
+- [ ] ipconfig
+- [ ] iperf3
+- [ ] iptables
+- [ ] iscisii
+- [ ] iso
+- [ ] itil
+- [ ] java
+- [ ] javascript
+- [ ] jdbc
+- [ ] jdk
+- [ ] jenkins
+- [ ] jest.js
+- [ ] jitter
+- [ ] jmeter
+- [ ] jquery
+- [ ] json
+- [ ] jumbo frame
+- [ ] junit
+- [ ] jupter notebook
+- [ ] jwt
+- [ ] kanban
+- [ ] kerberos
+- [ ] key
+- [ ] knex.js
+- [ ] kpi
+- [ ] ksar
+- [ ] kubernetes
+- [ ] kvm
+- [ ] lan
+- [ ] laravel
+- [ ] largura de banda
+- [ ] latência
+- [ ] latência carregada
+- [ ] latência não carregada
+- [ ] ldap
+- [ ] lean
+- [ ] lean six sigma
+- [ ] lidar (radar por luz)
+- [ ] link
+- [ ] link agregate
+- [ ] load
+- [ ] logica fuzzy
+- [ ] logstash
+- [ ] lpi
+- [ ] lua
+- [ ] lvm
+- [ ] mac address
+- [ ] Machine learning
+- [ ] makedir
+- [ ] makefile
+- [ ] markdown
+- [ ] MBytes
+- [ ] md5
+- [ ] mermaid
+- [ ] metricbeat
+- [ ] MiB
+- [ ] mongodb
+- [ ] mount
+- [ ] mpls
+- [ ] mssp
+- [ ] mtr
+- [ ] mtu
+- [ ] mv
+- [ ] mysql
+- [ ] nagios
+- [ ] NaN
+- [ ] nano
+- [ ] nc
+- [ ] neo vim
+- [ ] nest.js
+- [ ] netapp
+- [ ] netmask
+- [ ] next.js
+- [ ] nexus
+- [ ] nfsstat
+- [ ] nfstop
+- [ ] nginx
+- [ ] nmap
+- [ ] node.js
+- [ ] nping
+- [ ] NTFS
+- [ ] null
+- [ ] nutanix
+- [ ] oauth
+- [ ] OCR
+- [ ] OCS Inventory
+- [ ] okr
+- [ ] openshift
+- [ ] openssh
+- [ ] openssl
+- [ ] openstack
+- [ ] openvpn
+- [ ] oracle
+- [ ] Orion
+- [ ] orthanc
+- [ ] pacotes dropados
+- [ ] pacs
+- [ ] pascal
+- [ ] passwd
+- [ ] perfmon
+- [ ] php
+- [ ] pilha
+- [ ] pilha de switch
+- [ ] ping
+- [ ] pipeline
+- [ ] POP (protocolo de e-mail)
+- [ ] porta
+- [ ] postgres
+- [ ] powerbi
+- [ ] ppt
+- [ ] pptx
+- [ ] protocolos
+- [ ] Proxmox
+- [ ] proxy
+- [ ] prtg
+- [ ] pseudo console
+- [ ] psql
+- [ ] pub
+- [ ] putty
+- [ ] python
+- [ ] QA
+- [ ] query builder
+- [ ] rack
+- [ ] ram
+- [ ] RAM
+- [ ] rar
+- [ ] raw sql
+- [ ] rdp
+- [ ] react
+- [ ] registry
+- [ ] repositorio
+- [ ] retransmissão
+- [ ] ROM
+- [ ] roteamento
+- [ ] route
+- [ ] rpc
+- [ ] rpm
+- [ ] rsa
+- [ ] rsync
+- [ ] rub on rails
+- [ ] rundec
+- [ ] s3
+- [ ] SAFe
+- [ ] sap
+- [ ] sar
+- [ ] sas
+- [ ] sata
+- [ ] schema
+- [ ] scp
+- [ ] script
+- [ ] scrum
+- [ ] sdk
+- [ ] selinux
+- [ ] Servidor
+- [ ] sessão
+- [ ] sha256
+- [ ] shell
+- [ ] slack
+- [ ] smem
+- [ ] snap
+- [ ] sns
+- [ ] socket
+- [ ] SolarWinds
+- [ ] SonarQube
+- [ ] sql server
+- [ ] sqlite
+- [ ] sqs
+- [ ] ss
+- [ ] ssd
+- [ ] storage
+- [ ] stricto senso
+- [ ] subnet
+- [ ] sudo
+- [ ] sudoers
+- [ ] swap
+- [ ] swapin
+- [ ] swapoff
+- [ ] swapon
+- [ ] swapout
+- [ ] switch
+- [ ] switch core
+- [ ] switch core
+- [ ] switch de acesso
+- [ ] switch de acesso
+- [ ] switch tor
+- [ ] tar
+- [ ] tar.gz
+- [ ] taxa de transferência
+- [ ] tcpdump
+- [ ] tcping
+- [ ] telnet
+- [ ] terminal
+- [ ] throughput
+- [ ] ti
+- [ ] toml
+- [ ] top (linux)
+- [ ] TOR
+- [ ] traceroute
+- [ ] Trivy
+- [ ] tsql
+- [ ] ttl
+- [ ] ttm
+- [ ] Tty
+- [ ] typescript
+- [ ] ui
+- [ ] uml
+- [ ] update
+- [ ] upload
+- [ ] upload latency
+- [ ] uptime
+- [ ] URI
+- [ ] URL
+- [ ] uuid
+- [ ] ux
+- [ ] variaveis de performance de redes
+- [ ] vbs
+- [ ] venv
+- [ ] vhops
+- [ ] vi
+- [ ] vim
+- [ ] virtualização
+- [ ] visual basic
+- [ ] visual studio
+- [ ] visudo
+- [ ] vlan
+- [ ] vlan
+- [ ] vm
+- [ ] vmstat
+- [ ] vmware
+- [ ] vnc
+- [ ] vpc
+- [ ] vpn
+- [ ] vsun
+- [ ] VxRail
+- [ ] wado
+- [ ] wan
+- [ ] WatterFall
+- [ ] webapplication
+- [ ] webservice
+- [ ] wget
+- [ ] wifi
+- [ ] wireless
+- [ ] wireshark
+- [ ] Workspace one
+- [ ] xfs
+- [ ] xls
+- [ ] xlsx
+- [ ] xml
+- [ ] yaml
+- [ ] yum
+- [ ] zabbix
+- [ ] zen
+- [ ] ZFS
+- [ ] zip
+- [X] CAD
+- [X] cdc
+- [X] cifs
+- [X] erp
+- [X] etl
+- [X] fhir
+- [X] ftp
+- [X] FTPS
+- [X] ged
+- [X] GIS
+- [X] hci
+- [X] hiperconvergente
+- [X] his
+- [X] hl7
+- [X] http
+- [X] https
+- [X] IaaS
+- [X] icmp
+- [X] M&A
+- [X] modelo osi
+- [X] mvp
+- [X] NDA
+- [X] nfs
+- [X] orm
+- [X] PaaS
+- [X] pep
+- [X] ris
+- [X] SaaS
+- [X] sadt
+- [X] samba
+- [X] sftp
+- [X] smb
+- [X] smtp
+- [X] snmp
+- [X] sre
+- [X] ssh
+- [X] ssl
+- [X] tcp
+- [X] tls
+- [X] udp
+- [X] VNA

@@ -8,6 +8,8 @@ O *Hypertext Transfer Protocol Secure (HTTPS)* é a versão segura do HTTP, que 
 
 O HTTPS é essencial para proteger informações sensíveis, como senhas, dados bancários e transações financeiras, e tornou-se o padrão para qualquer site que deseje garantir a segurança de seus usuários. Ele utiliza a porta 443 por padrão e é fortemente recomendado para qualquer aplicação que lide com dados privados. Além de criptografar os dados, o HTTPS também garante a autenticidade do servidor, o que aumenta a confiança dos usuários ao interagir com a web.
 
+A porta padrão do protocolo HTTPS é a porta 443.
+
 ## Referências
 
 - [MDN Glossary about HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/HTTPS);

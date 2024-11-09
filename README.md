@@ -225,6 +225,8 @@ Apesar de sua falta de confiabilidade, o UDP é mais rápido do que o TCP, pois 
 ## Referências Gerais
 
 - [MDN Web Docs Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+- [F5 Glossary](https://www.f5.com/pt_br/glossary);
+- [Gartner Glossary](https://www.gartner.com/en/glossary);
 
 <!-- Bloco de perfis -->
 [1]: https://www.linkedin.com/in/leonardo-pangaio/
