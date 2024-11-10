@@ -14,9 +14,12 @@ Glossário prático:
 - [ ] api
 - [ ] api rest
 - [ ] api soap
+- [ ] apm
 - [ ] apt
 - [ ] apt-get
 - [ ] argocd
+- [ ] arp
+- [ ] atm
 - [ ] aws
 - [ ] azure
 - [ ] backbone
@@ -28,12 +31,13 @@ Glossário prático:
 - [ ] Bare Metal
 - [ ] base 64
 - [ ] bash
-- [ ] bgp
 - [ ] bi
 - [ ] bigip
+- [ ] bitmap (bmp)
 - [ ] bits
 - [ ] blockchain
 - [ ] bloco
+- [ ] bluetooth
 - [ ] bpm
 - [ ] bpmn
 - [ ] Breach and Attack Simulation (BAS)
@@ -42,11 +46,12 @@ Glossário prático:
 - [ ] c
 - [ ] c#
 - [ ] c++
-- [ ] CaaS
 - [ ] CCNA
 - [ ] cd
+- [ ] CEO
 - [ ] certificado
 - [ ] cfind
+- [ ] CFO
 - [ ] chave
 - [ ] chunck
 - [ ] ci/cd
@@ -56,6 +61,7 @@ Glossário prático:
 - [ ] cliper
 - [ ] Cluster
 - [ ] CMDB
+- [ ] CMO
 - [ ] cmove
 - [ ] cna
 - [ ] cobit
@@ -64,9 +70,9 @@ Glossário prático:
 - [ ] console
 - [ ] container
 - [ ] controladora
+- [ ] COO
 - [ ] cp
 - [ ] cpu
-- [ ] CPU
 - [ ] cpu wait
 - [ ] criptografia
 - [ ] crm (sistema)
@@ -76,6 +82,7 @@ Glossário prático:
 - [ ] crt
 - [ ] csa
 - [ ] css
+- [ ] CTO
 - [ ] curl
 - [ ] cva
 - [ ] daemon
@@ -83,10 +90,8 @@ Glossário prático:
 - [ ] Data lake
 - [ ] data science
 - [ ] Datadog
-- [ ] dba
-- [ ] dcl
+- [ ] dccp
 - [ ] dd
-- [ ] ddl
 - [ ] delay
 - [ ] delete
 - [ ] DELL
@@ -94,15 +99,10 @@ Glossário prático:
 - [ ] devops
 - [ ] devsecops
 - [ ] df
-- [ ] dhcp
 - [ ] diagrama de fluxo
 - [ ] diagrama de sequência
 - [ ] diagrama de venn
 - [ ] dicom
-- [ ] dll
-- [ ] dml
-- [ ] dmz
-- [ ] dns
 - [ ] doc
 - [ ] docker
 - [ ] docker-compose.yml
@@ -111,9 +111,7 @@ Glossário prático:
 - [ ] download
 - [ ] download latency
 - [ ] dpkg
-- [ ] dql
 - [ ] drawio
-- [ ] dtl
 - [ ] Dynatrace
 - [ ] echo
 - [ ] ecma
@@ -131,14 +129,18 @@ Glossário prático:
 - [ ] FAQ
 - [ ] FAT
 - [ ] FAT32
+- [ ] FDA
+- [ ] fddi
 - [ ] fifo
 - [ ] figma
 - [ ] fila
 - [ ] filebeat
+- [ ] filo
 - [ ] firewall
 - [ ] flex group
 - [ ] flex volume
 - [ ] fortran
+- [ ] frame
 - [ ] frame
 - [ ] framework
 - [ ] free
@@ -146,10 +148,12 @@ Glossário prático:
 - [ ] Fusion Inventory
 - [ ] gateway
 - [ ] gcp
+- [ ] gif
 - [ ] git
 - [ ] GitHub
 - [ ] gitlab
 - [ ] glances
+- [ ] glbp
 - [ ] GLPI
 - [ ] golang
 - [ ] google
@@ -160,6 +164,7 @@ Glossário prático:
 - [ ] groups
 - [ ] gRPC
 - [ ] hash
+- [ ] hdlc
 - [ ] hostname
 - [ ] HP
 - [ ] html
@@ -172,9 +177,11 @@ Glossário prático:
 - [ ] ide
 - [ ] idle latency
 - [ ] ieee
+- [ ] ieee
 - [ ] ifconfig
 - [ ] iis
 - [ ] imap (protocolo de e-mail)
+- [ ] ini
 - [ ] inodes
 - [ ] io
 - [ ] iops
@@ -187,9 +194,14 @@ Glossário prático:
 - [ ] ip v6
 - [ ] ipconfig
 - [ ] iperf3
+- [ ] ipo
+- [ ] ipsec
 - [ ] iptables
+- [ ] irc
 - [ ] iscisii
+- [ ] isdn
 - [ ] iso
+- [ ] isp
 - [ ] itil
 - [ ] java
 - [ ] javascript
@@ -199,6 +211,7 @@ Glossário prático:
 - [ ] jest.js
 - [ ] jitter
 - [ ] jmeter
+- [ ] jpg (jpeg)
 - [ ] jquery
 - [ ] json
 - [ ] jumbo frame
@@ -225,6 +238,7 @@ Glossário prático:
 - [ ] lidar (radar por luz)
 - [ ] link
 - [ ] link agregate
+- [ ] link ativo-ativo
 - [ ] load
 - [ ] logica fuzzy
 - [ ] logstash
@@ -242,6 +256,7 @@ Glossário prático:
 - [ ] metricbeat
 - [ ] MFA
 - [ ] MiB
+- [ ] midleware
 - [ ] mongodb
 - [ ] mount
 - [ ] mpls
@@ -254,10 +269,12 @@ Glossário prático:
 - [ ] nagios
 - [ ] NaN
 - [ ] nano
+- [ ] nat
 - [ ] nc
 - [ ] neo vim
 - [ ] nest.js
 - [ ] netapp
+- [ ] netbeui
 - [ ] netmask
 - [ ] next.js
 - [ ] nexus
@@ -265,6 +282,7 @@ Glossário prático:
 - [ ] nfstop
 - [ ] nginx
 - [ ] nmap
+- [ ] nntp, bittorrent
 - [ ] node.js
 - [ ] nping
 - [ ] NTFS
@@ -297,10 +315,12 @@ Glossário prático:
 - [ ] pmbok
 - [ ] pmi
 - [ ] pmp
+- [ ] png
 - [ ] POP (protocolo de e-mail)
 - [ ] porta
 - [ ] postgres
 - [ ] powerbi
+- [ ] ppp
 - [ ] ppt
 - [ ] pptx
 - [ ] protocolos
@@ -316,14 +336,20 @@ Glossário prático:
 - [ ] query builder
 - [ ] rack
 - [ ] ram
-- [ ] RAM
 - [ ] rar
+- [ ] rarp
 - [ ] raw sql
 - [ ] rdp
 - [ ] react
 - [ ] registry
+- [ ] regular expression
+- [ ] relay
 - [ ] repositorio
 - [ ] retransmissão
+- [ ] rfc
+- [ ] rfid
+- [ ] rfp
+- [ ] rip
 - [ ] ROM
 - [ ] roteamento
 - [ ] route
@@ -331,6 +357,7 @@ Glossário prático:
 - [ ] rpm
 - [ ] rsa
 - [ ] rsync
+- [ ] rtp
 - [ ] rub on rails
 - [ ] rundec
 - [ ] s3
@@ -338,17 +365,22 @@ Glossário prático:
 - [ ] sap
 - [ ] sar
 - [ ] sas
+- [ ] SASE
+- [ ] sass
 - [ ] sata
 - [ ] schema
 - [ ] scp
 - [ ] script
 - [ ] scrum
+- [ ] sctp
 - [ ] sdk
 - [ ] selinux
 - [ ] Servidor
 - [ ] sessão
 - [ ] sha256
+- [ ] sha256
 - [ ] shell
+- [ ] sip
 - [ ] slack
 - [ ] smem
 - [ ] snap
@@ -373,6 +405,7 @@ Glossário prático:
 - [ ] swapon
 - [ ] swapout
 - [ ] switch
+- [ ] switch
 - [ ] switch core
 - [ ] switch core
 - [ ] switch de acesso
@@ -387,6 +420,7 @@ Glossário prático:
 - [ ] terminal
 - [ ] throughput
 - [ ] ti
+- [ ] token
 - [ ] toml
 - [ ] top (linux)
 - [ ] TOR
@@ -396,6 +430,7 @@ Glossário prático:
 - [ ] ttl
 - [ ] ttm
 - [ ] Tty
+- [ ] txt
 - [ ] typescript
 - [ ] ui
 - [ ] uml
@@ -405,9 +440,12 @@ Glossário prático:
 - [ ] uptime
 - [ ] URI
 - [ ] URL
+- [ ] usb
+- [ ] utf-8
 - [ ] uuid
 - [ ] ux
 - [ ] variaveis de performance de redes
+- [ ] vba
 - [ ] vbs
 - [ ] venv
 - [ ] vhops
@@ -417,7 +455,6 @@ Glossário prático:
 - [ ] visual basic
 - [ ] visual studio
 - [ ] visudo
-- [ ] vlan
 - [ ] vlan
 - [ ] vm
 - [ ] vmstat
@@ -435,12 +472,16 @@ Glossário prático:
 - [ ] WebSocket
 - [ ] wget
 - [ ] wifi
+- [ ] win1252
 - [ ] wireless
 - [ ] wireshark
 - [ ] Workspace one
+- [ ] www
+- [ ] xdr
 - [ ] xfs
 - [ ] xls
 - [ ] xlsx
+- [ ] xml
 - [ ] xml
 - [ ] yaml
 - [ ] yum
@@ -448,9 +489,22 @@ Glossário prático:
 - [ ] zen
 - [ ] ZFS
 - [ ] zip
+- [X] bgp
+- [X] CaaS
 - [X] CAD
 - [X] cdc
 - [X] cifs
+- [X] csv
+- [X] dba
+- [X] dcl
+- [X] ddl
+- [X] dhcp
+- [X] dll
+- [X] dml
+- [X] dmz
+- [X] dns
+- [X] dql
+- [X] dtl
 - [X] erp
 - [X] etl
 - [X] fhir

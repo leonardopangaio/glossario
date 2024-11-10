@@ -1024,6 +1024,8 @@ Em ambientes de saúde, o VNA facilita o armazenamento centralizado de imagens m
 - [MDN Web Docs Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 - [F5 Glossary](https://www.f5.com/pt_br/glossary);
 - [Gartner Glossary](https://www.gartner.com/en/glossary);
+- [Cloudflare Learning Center](https://www.cloudflare.com/pt-br/learning/);
+- [Lenovo Glossary](https://www.lenovo.com/in/en/glossary/);
 
 <!-- Bloco de perfis -->
 [1]: https://www.linkedin.com/in/leonardo-pangaio/
