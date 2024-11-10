@@ -35,6 +35,68 @@ Kafka é frequentemente usado em arquiteturas de microservices e data lakes, e s
 - [Oracle about Apache Kafka](https://www.oracle.com/br/cloud/apache-kafka/);
 
 ---
+## Atomicidade, Consistência, Isolamento e Durabilidade (ACID)
+
+Autor: [Leonardo Pangaio][1] - Data:
+
+### Descrição
+
+Atomicidade, Consistência, Isolamento e Durabilidade (ACID) é um conjunto de propriedades que garante a confiabilidade das transações em bancos de dados relacionais. Cada letra representa uma propriedade importante para assegurar que as operações ocorram de maneira previsível e segura:
+- **Atomicidade:** Assegura que todas as operações de uma transação são concluídas ou nenhuma delas será. Ou seja, a transação é uma unidade indivisível; se ocorrer um erro em qualquer parte, toda a transação é desfeita.
+- **Consistência:** Garante que a transação leva o banco de dados de um estado válido a outro, respeitando todas as regras e restrições definidas. Se alguma regra for violada, a transação é revertida.
+- **Isolamento:** Assegura que as transações não interfiram entre si quando executadas simultaneamente. Cada transação deve ocorrer independentemente, e os efeitos de uma transação não são visíveis para outras até que esteja concluída.
+- **Durabilidade:** Garante que, uma vez que uma transação é concluída, as alterações são permanentes, mesmo que haja uma falha no sistema.
+
+Essas propriedades são essenciais para aplicativos que requerem alta confiabilidade, como sistemas bancários, onde a precisão e a consistência dos dados são fundamentais.
+
+### Referências
+
+- [MongoDB about ACID](https://www.mongodb.com/resources/basics/databases/acid-transactions);
+- [Wikipedia about ACID](https://en.wikipedia.org/wiki/ACID);
+- [GeeksForGeeks about ACID](https://www.geeksforgeeks.org/acid-properties-in-dbms/);
+- [Amazon AWS about the difference between ACID and BASE](https://aws.amazon.com/pt/compare/the-difference-between-acid-and-base-database/);
+- [MongoDB about ACID Compliance](https://www.mongodb.com/resources/products/capabilities/acid-compliance);
+
+---
+## Basically Available, Soft State, Eventual Consistency (BASE)
+
+Autor: [Leonardo Pangaio][1] - Data:
+
+### Descrição
+
+BASE é um modelo de consistência mais flexível, usado frequentemente em bancos de dados NoSQL, que prioriza a disponibilidade e a performance sobre a consistência imediata dos dados:
+- **Basicamente Disponível (Basically Available):** O sistema deve estar sempre disponível para consulta, mesmo que os dados não estejam em seu estado mais atualizado ou consistente. Isso significa que o sistema permite leituras mesmo que algumas partes estejam temporariamente indisponíveis.
+- **Estado Suave (Soft State):** O estado do sistema pode mudar ao longo do tempo, mesmo sem novas entradas, devido à replicação e sincronização de dados em sistemas distribuídos.
+- **Consistência Eventual (Eventual Consistency):** Em vez de garantir a consistência imediata, o sistema garante que, em algum momento, os dados serão consistentes para todos os usuários. Isso é aceito em cenários onde a atualização em tempo real não é essencial.
+
+O modelo BASE é comum em sistemas distribuídos que precisam ser escaláveis e tolerantes a falhas, como redes sociais e aplicativos de streaming, onde a disponibilidade e a velocidade são mais importantes que a consistência em tempo real dos dados.
+
+### Referências
+
+- [GeeksForGeeks about the difference between ACID and BASE](https://www.geeksforgeeks.org/acid-model-vs-base-model-for-database/);
+- []();
+
+---
+## Border Gateway Protocol (BGP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+O *Border Gateway Protocol (BGP)* é um protocolo de roteamento de camada de aplicação utilizado para troca de informações de roteamento entre sistemas autônomos (AS) na Internet. Ele permite que redes distintas determinem a melhor rota para transmitir dados, especialmente em larga escala, como acontece entre grandes ISPs (Provedores de Serviços de Internet). O BGP é o protocolo que sustenta a conectividade global da internet, viabilizando o tráfego de dados de uma rede para outra.
+
+Como protocolo de roteamento entre domínios, o BGP é projetado para ser robusto e adaptável a mudanças na topologia da rede. Por ser de camada de aplicação, o BGP utiliza a porta 179 TCP para comunicação, conectando sistemas de roteadores de diferentes redes e permitindo que ajustem rotas de acordo com políticas definidas.
+
+### Referências
+
+- [Cloudflare about BGP](https://www.cloudflare.com/pt-br/learning/security/glossary/what-is-bgp/);
+- [Amazon AWS about BGP](https://aws.amazon.com/pt/what-is/border-gateway-protocol/);
+- [Wikipedia about BGP](https://pt.wikipedia.org/wiki/Border_Gateway_Protocol);
+- [Fortinet about BGP](https://www.fortinet.com/br/resources/cyberglossary/bgp-border-gateway-protocol);
+- [CISCO about BGP](https://www.cisco.com/c/pt_br/support/docs/ip/border-gateway-protocol-bgp/5441-aggregation.html);
+- [Cloudflare about BGP kidnapping](https://www.cloudflare.com/pt-br/learning/security/glossary/bgp-hijacking/);
+
+---
 ## Change Data Capture (CDC)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -51,6 +113,22 @@ O *Change Data Capture (CDC)* é uma funcionalidade do *Microsoft SQL Server* qu
 
 - [Wikipedia about CDC](https://en.wikipedia.org/wiki/Change_data_capture);
 - [Microsoft about CDC](https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver16);
+
+---
+## Comma-Separated Values (CSV)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Comma-Separated Values (CSV)* é um formato de arquivo que armazena dados em texto, separados por vírgulas. Cada linha do arquivo representa um registro, e cada coluna é separada por uma vírgula, permitindo a fácil importação e exportação de dados para softwares como planilhas e bancos de dados.
+
+O CSV é amplamente utilizado para transferência de dados entre diferentes sistemas, especialmente quando a simplicidade e compatibilidade são prioridades. Este formato é particularmente útil para armazenamento temporário de dados ou para integração entre sistemas distintos.
+
+### Referências
+
+- [Wikipedia about CSV](https://en.wikipedia.org/wiki/Comma-separated_values);
+- [Wikipedia about CSV (pt-br)](https://pt.wikipedia.org/wiki/Comma-separated_values);
 
 ---
 ## Common Internet File System (CIFS)
@@ -88,6 +166,75 @@ Esses sistemas oferecem funcionalidades como edição precisa de geometria, visu
 - [Wiki about CAD](https://en.wikipedia.org/wiki/Computer-aided_design);
 
 ---
+## Container as a Service (CaaS)
+
+Autor: [Leonardo Pangaio][1] - Data:
+
+### Descrição
+
+*Container as a Service (CaaS)* é um serviço em nuvem que permite aos usuários gerenciar e orquestrar contêineres de software. Com CaaS, as empresas podem executar aplicações em contêineres sem precisar se preocupar com a infraestrutura subjacente, como redes, armazenamento e escalabilidade. Esse modelo é especialmente vantajoso para desenvolvimento ágil e para equipes que desejam automação em implantação.
+
+Ao usar CaaS, os desenvolvedores conseguem configurar, escalar e gerenciar contêineres de forma simplificada, aproveitando plataformas como Kubernetes e Docker Swarm. Esse serviço geralmente é oferecido por provedores de nuvem, que lidam com toda a infraestrutura de contêineres, permitindo que os usuários se concentrem no desenvolvimento e entrega de suas aplicações.
+
+### Referências
+
+- [IBM about CaaS](https://www.ibm.com/br-pt/topics/containers-as-a-service);
+- [RedHat about CaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-caas);
+- [Atlassian about CaaS](https://www.atlassian.com/br/microservices/cloud-computing/containers-as-a-service);
+- [Checkpoint about CaaS](https://www.checkpoint.com/pt/cyber-hub/cloud-security/what-is-container-security/what-is-container-as-a-service-caas/);
+- [HP about CaaS](https://www.hpe.com/us/en/what-is/caas.html);
+- [DIO about difference between types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-entendendo-os-diferentes-modelos-de-computacao-em-nuvem-em-um-mundo-multi-cloud);
+- [DIO about different types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-conceitos-exemplos-e-diferencas);
+
+---
+## Data Control Language (DCL)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Data Control Language (DCL)* é uma subcategoria da linguagem SQL dedicada ao controle de acesso aos dados em bancos de dados. Ela é composta principalmente por comandos como `GRANT` e `REVOKE`, que controlam permissões de acesso aos dados e recursos do banco.
+
+Esses comandos são essenciais para a segurança do banco de dados, pois permitem definir quem pode realizar operações específicas, como ler, escrever ou modificar dados. A DCL ajuda os DBAs a gerenciar e proteger o acesso aos dados de maneira estruturada e segura.
+
+### Referências
+
+- [Wikipedia about DCL](https://en.wikipedia.org/wiki/Data_control_language);
+- [GeekForGeeks about DCL](https://www.geeksforgeeks.org/dcl-full-form/);
+
+---
+## Data Definition Language (DDL)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Data Definition Language (DDL)* é uma linguagem utilizada para definir a estrutura e os objetos de um banco de dados, incluindo tabelas, índices e esquemas. Os comandos DDL, como `CREATE`, `ALTER` e `DROP`, permitem criar, modificar e excluir estruturas de dados.
+
+A DDL é fundamental para configurar e organizar o banco de dados, sendo usada para estabelecer a base de armazenamento de dados. Além disso, esses comandos são executados em transações que são imediatamente aplicadas, garantindo que as definições de dados estejam sempre atualizadas.
+
+### Referências
+
+- [Wikipedia about DDL](https://en.wikipedia.org/wiki/Data_definition_language);
+- [DIO about DDL](https://www.dio.me/articles/data-definition-language-ddl);
+
+---
+## Data Manipulation Language (DML)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Data Manipulation Language (DML)* é uma subcategoria da linguagem SQL usada para manipular dados em bancos de dados. Com comandos como INSERT, UPDATE, DELETE, e SELECT, a DML permite a inserção, atualização, exclusão e consulta de dados.
+
+A DML é o núcleo da interação com os dados armazenados e é essencial para operações transacionais. Ela permite que os usuários consultem e modifiquem dados em tempo real, de acordo com as necessidades do negócio.
+
+### Referências
+
+- [Wikipedia about DML](https://en.wikipedia.org/wiki/Data_manipulation_language);
+- [GeeksForGeeks about DML](https://www.geeksforgeeks.org/dml-full-form/);
+
+---
 ## Data Migration (Migração de Dados)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -106,6 +253,55 @@ Durante a migração de dados, é comum realizar mapeamento de dados e testes ex
 - [Wikipedia about Data Migration](https://en.wikipedia.org/wiki/Data_migration);
 
 ---
+## Data Query Language (DQL)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Data Query Language (DQL)* é uma subcategoria da SQL usada exclusivamente para consultas de dados. O comando `SELECT` é o principal comando DQL, permitindo que os usuários recuperem dados específicos de tabelas no banco de dados.
+
+A DQL é fundamental para recuperar informações do banco de dados sem alterar sua estrutura. Com ela, é possível realizar consultas simples e complexas, filtrando e organizando os dados conforme necessário.
+
+### Referências
+
+- [DIO about DQL](https://www.dio.me/articles/dql-data-query-language);
+- [Wikipedia about DQL](https://en.wikipedia.org/wiki/Data_query_language);
+- [GeekForGeeks about DQL](https://www.geeksforgeeks.org/dql-full-form/);
+
+---
+## Data Transformation Language (DTL)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Data Transformation Language (DTL)* é um termo usado para definir operações que transformam dados de um formato para outro, geralmente dentro de processos de ETL (Extração, Transformação e Carga). Essas transformações são aplicadas para adaptar os dados às necessidades de um sistema ou aplicativo específico.
+
+A DTL é essencial para manter a consistência e integridade dos dados em ambientes onde a integração de diferentes fontes é necessária. Ela pode incluir operações de formatação, limpeza, agregação e enriquecimento de dados, sendo amplamente utilizada em processos de migração e integração.
+
+### Referências
+
+- [Wikipedia about DTL](https://en.wikipedia.org/wiki/Model_transformation_language);
+
+---
+## Database Administrator (DBA)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+O *Database Administrator (DBA)* é o profissional responsável pela administração de bancos de dados, cuidando da configuração, manutenção, segurança e otimização do desempenho. Este profissional é fundamental para garantir a disponibilidade e integridade dos dados em uma organização.
+
+Além de gerenciar as operações diárias do banco de dados, o DBA também participa do planejamento e implementação de atualizações e migrações. Ele colabora com desenvolvedores para otimizar consultas e garantir a eficiência do sistema de gerenciamento de banco de dados (SGBD).
+
+### Referências
+
+- [Oracle about DBA](https://www.oracle.com/br/database/what-is-a-dba/);
+- [Wikipedia about DBA](https://pt.wikipedia.org/wiki/Administrador_de_banco_de_dados);
+- [DIO about DBA](https://www.dio.me/articles/tudo-o-que-voce-precisa-saber-sobre-dba-data-base-administrator);
+
+---
 ## Database Migration (Migração de Banco de Dados)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -121,6 +317,63 @@ A migração pode incluir mudanças no schema de dados, mapeamento entre tipos d
 - [Google Cloud about Database Migration](https://cloud.google.com/architecture/database-migration-concepts-principles-part-1?hl=pt-br);
 - [Amazon AWS Database Migration Service (DMS)](https://aws.amazon.com/pt/dms/);
 
+
+---
+## Dead Letter Queue (DLQ)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Dead Letter Queue (DLQ)* é uma fila de mensagens em sistemas de mensageria que armazena mensagens que não puderam ser entregues ou processadas com sucesso. As DLQs são usadas para rastrear e resolver falhas, garantindo que mensagens problemáticas não prejudiquem o fluxo geral de dados no sistema.
+
+A DLQ é uma ferramenta importante para sistemas que exigem alta confiabilidade e monitoramento constante. Ela permite que as equipes identifiquem e corrijam problemas, garantindo a integridade e continuidade das operações de mensagens.
+
+### Referências
+
+- [Amazon AWS about DLQ](https://aws.amazon.com/what-is/dead-letter-queue/);
+- [Wikipedia about DLQ](https://en.wikipedia.org/wiki/Dead_letter_queue);
+
+---
+## Demilitarized Zone (DMZ)
+
+Autor: [Leonardo Pangaio][1] - Data:
+
+### Descrição
+
+A *Demilitarized Zone (DMZ)* é uma área de rede que adiciona uma camada extra de segurança, isolando servidores externos da rede interna. Em uma DMZ, servidores de acesso público, como web servers e servidores de e-mail, estão expostos à Internet, mas são separados por firewalls para evitar acessos não autorizados à rede interna.
+
+Essa configuração é comum em redes corporativas para proteger dados confidenciais, mantendo serviços de acesso público separados dos recursos internos. A DMZ é uma parte essencial da arquitetura de segurança de rede, garantindo que serviços críticos sejam acessíveis sem comprometer a segurança.
+
+### Referências
+
+- [Fortinet about DMZ (pt-br)](https://www.fortinet.com/br/resources/cyberglossary/what-is-dmz);
+- [Wikipedia about DMZ](https://pt.wikipedia.org/wiki/DMZ_(computa%C3%A7%C3%A3o));
+- [Checkpoint about DMZ](https://www.checkpoint.com/pt/cyber-hub/network-security/what-is-a-dmz-network/);
+- [Fortinet about DMZ](https://www.fortinet.com/resources/cyberglossary/what-is-dmz);
+- [F5 about DMZ](https://www.f5.com/glossary/demilitarized-zone-dmz);
+- [Barracuda about DMZ](https://www.barracuda.com/support/glossary/dmz-network);
+
+---
+## Domain Name System (DNS)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+O *Domain Name System (DNS)* é um sistema de resolução de nomes que traduz nomes de domínio legíveis para endereços IP. Quando um usuário acessa um site pelo nome, o DNS converte esse nome no IP correspondente, permitindo que o navegador localize o servidor correto. O DNS opera na camada de aplicação e utiliza a porta 53, funcionando sobre os protocolos TCP e UDP.
+
+Esse protocolo é essencial para a navegação na web, e sua estrutura hierárquica garante que nomes de domínio sejam resolvidos de forma rápida e eficiente. O DNS também inclui registros que definem o roteamento e a segurança dos domínios.
+
+### Referências
+
+- [Cloudflare about DNS](https://www.cloudflare.com/pt-br/learning/dns/what-is-dns/);
+- [Amazon AWS about DNS](https://aws.amazon.com/pt/route53/what-is-dns/);
+- [Wikipedia about DNS](https://pt.wikipedia.org/wiki/Sistema_de_Nomes_de_Dom%C3%ADnio);
+- [IBM about DNS](https://www.ibm.com/br-pt/topics/dns);
+- [IBM about DNS](https://www.ibm.com/br-pt/topics/dns-protocol);
+- [Kaspersky about DNS](https://www.kaspersky.com.br/resource-center/definitions/dns);
+- [Fortinet about DNS](https://www.fortinet.com/br/resources/cyberglossary/what-is-dns);
 
 ---
 ## Dynamic Application Security Testing (DAST)
@@ -141,6 +394,45 @@ Ferramentas DAST populares incluem OWASP ZAP, Burp Suite e Acunetix, que oferece
 - [Circleci about DAST](https://circleci.com/blog/sast-vs-dast-when-to-use-them/);
 - [Sonar about DAST](https://www.sonatype.com/resources/articles/what-is-dast);
 - [Check Point about DAST](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-dynamic-application-security-testing-dast/);
+
+---
+## Dynamic Host Configuration Protocol (DHCP)
+
+Autor: [Leonardo Pangaio][1] - Data:
+
+### Descrição
+
+O *Dynamic Host Configuration Protocol (DHCP)* é um protocolo de rede que permite a configuração automática de endereços IP para dispositivos em uma rede. Ele opera na camada de aplicação e atribui automaticamente endereços IP, gateways e outros parâmetros de rede para dispositivos conectados, facilitando a administração da rede.
+
+O DHCP utiliza as portas UDP 67 (servidor) e 68 (cliente) e é essencial para redes dinâmicas, especialmente em ambientes empresariais e residenciais. Esse protocolo simplifica a configuração de rede, evitando a necessidade de configurar IPs manualmente em cada dispositivo.
+
+### Referências
+
+- [Microsoft about DHCP](https://learn.microsoft.com/pt-br/windows-server/networking/technologies/dhcp/dhcp-top);
+- [Wikipedia about DHCP (pt-br)](https://pt.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
+- [NordVPN about DHCP](https://nordvpn.com/pt-br/blog/o-que-e-dhcp/);
+- [Wikipedia about DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
+- [Fortinet about DHCP](https://www.fortinet.com/br/resources/cyberglossary/dynamic-host-configuration-protocol-dhcp);
+- [GeeksForGeeks about DHCP](https://www.geeksforgeeks.org/dynamic-host-configuration-protocol-dhcp/);
+
+---
+## Dynamic Link Library (DLL)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Dynamic Link Library (DLL)* é um tipo de biblioteca de código compartilhável no sistema operacional Windows que permite que múltiplos programas acessem o mesmo código. As DLLs contêm funções e recursos que podem ser reutilizados por diferentes aplicações, economizando espaço de armazenamento e melhorando a eficiência de desenvolvimento.
+
+A DLL permite que os desenvolvedores compartilhem código entre programas, facilitando a manutenção e atualização de software. No entanto, o uso de DLLs também pode gerar problemas de compatibilidade, especialmente quando versões diferentes são usadas em sistemas.
+
+### Referências
+
+- [Wikipedia about DLL (pt-br)](https://pt.wikipedia.org/wiki/DLL);
+- [Wikipedia about DLL](https://en.wikipedia.org/wiki/Dynamic-link_library);
+- [Lenovo about DLL](https://www.lenovo.com/in/en/glossary/dynamic-link-library/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopkYkxhNTImE3Je5cXh1nx9lZ9CONmEy20SR2Mhxvpnd4q1xAAF);
+- [Indeed about DLL](https://www.indeed.com/career-advice/career-development/what-is-dll-file);
+- [Microsoft about DLL](https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/dynamic-link-library);
 
 ---
 ## Enterprise Resource Planning (ERP)
@@ -618,6 +910,28 @@ Os NDAs ajudam a proteger o know-how, segredos comerciais e outros dados crític
 - [Wikipedia about NDA](https://pt.wikipedia.org/wiki/Acordo_de_n%C3%A3o-divulga%C3%A7%C3%A3o);
 
 ---
+## Not Only SQL (NOSQL)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Not Only SQL (NOSQL)* refere-se a uma categoria de bancos de dados projetados para lidar com grandes volumes de dados não estruturados ou semi-estruturados e escaláveis horizontalmente. Diferentemente do SQL, os bancos de dados NoSQL não utilizam um esquema de tabelas fixo; eles são flexíveis e permitem que os dados sejam armazenados em estruturas como documentos (MongoDB), grafos (Neo4j), colunas (Cassandra), ou pares chave-valor (Redis). Isso permite que eles lidem com grandes volumes de dados de maneira rápida e eficiente, sem as limitações de uma estrutura rígida.
+
+NoSQL é comumente utilizado em aplicações modernas e sistemas distribuídos, onde a velocidade e a escalabilidade são essenciais. Ele oferece modelos de consistência eventualmente diferentes do ACID, como o modelo BASE (Basically Available, Soft State, Eventually Consistent), que prioriza a disponibilidade e a performance em detrimento da consistência em tempo real.
+
+### Referências
+
+- [MongoDB about NoSQL](https://www.mongodb.com/resources/basics/databases/nosql-explained);
+- [Wikipedia about NoSQL](https://en.wikipedia.org/wiki/NoSQL);
+- [IBM about NoSQL](https://www.ibm.com/topics/nosql-databases);
+- [Google Cloud about NoSQL](https://cloud.google.com/discover/what-is-nosql?hl=pt_br);
+- [Amazon AWS about NoSQL](https://aws.amazon.com/pt/nosql/);
+- [GeeksForGeeks about NoSQL](https://www.geeksforgeeks.org/introduction-to-nosql/);
+- [Oracle about NoSQL](https://www.oracle.com/database/nosql/what-is-nosql/);
+- [Microsoft Azure about NoSQL](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-nosql-database);
+
+---
 ## Object-Relational Mapping (ORM)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
@@ -951,6 +1265,25 @@ STOMP opera na camada de aplicação do modelo OSI (Camada 7) e é utilizado em 
 
 - [Wikipedia about STOMP](https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol);
 - [GeeksForGeeks about STOMP](https://www.geeksforgeeks.org/stomp-protocol/);
+
+---
+## Structured Query Language (SQL)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Structured Query Language (SQL)* é uma linguagem de programação padrão para gerenciar e manipular dados em bancos de dados relacionais, onde os dados são organizados em tabelas com linhas e colunas. Criada para permitir a execução de consultas e comandos como `SELECT`, `INSERT`, `UPDATE` e `DELETE`, o SQL é amplamente utilizado em sistemas de bancos de dados como MySQL, PostgreSQL, Oracle, e SQL Server. Além de manipulação de dados, o SQL também inclui comandos para definir e controlar o acesso e estrutura dos dados.
+
+Em termos de arquitetura, o SQL é estruturado para transações ACID (Atomicidade, Consistência, Isolamento, Durabilidade), garantindo confiabilidade em operações complexas, especialmente em sistemas financeiros e empresariais. A estrutura do SQL e a conformidade com o modelo relacional ajudam a garantir integridade referencial e a organizar dados em um modelo consistente.
+
+### Referências
+
+- [w3schools about SQL](https://www.w3schools.com/sql/sql_intro.asp);
+- [Amazon AWS about SQL](https://aws.amazon.com/what-is/sql/);
+- [Wikipedia about SQL](https://en.wikipedia.org/wiki/SQL);
+- [IBM about SQL](https://www.ibm.com/think/topics/structured-query-language);
+- [GeeksForGeeks about SQL](https://www.geeksforgeeks.org/what-is-sql/);
 
 ---
 ## Transmission Control Protocol (TCP)
