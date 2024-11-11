@@ -15,8 +15,8 @@ version: ## Mostra a versão do arquivo makefile
 	@echo "A versão da aplicação é: $(ver)"
 
 git: ## Executa um commit padrão com um push
-	@git add .  \
-		&& git commit -m "$(MSG)"  \
-		&& git fetch origin  \
-		&& git pull --no-rebase origin  \
+	@git add . \
+		&& git commit -m $(MSG) \
+		&& git fetch origin \
+		&& git pull --no-rebase origin \
 		&& git push origin
