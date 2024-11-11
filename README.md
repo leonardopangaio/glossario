@@ -14,6 +14,23 @@ Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores,
 <!-- início glossário -->
 
 ---
+## Address Resolution Protocol (ARP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+O *Address Resolution Protocol (ARP)* é um protocolo de rede utilizado para mapear endereços IP em endereços MAC dentro de uma rede local. Isso é essencial para que dispositivos na mesma rede se comuniquem de forma eficiente. O ARP consulta o endereço IP de um dispositivo e o converte em seu endereço MAC, permitindo a transmissão de dados no nível de enlace.
+
+No modelo OSI, o ARP atua na Camada 2 (Enlace), pois envolve a comunicação direta entre dispositivos em uma rede local. É utilizado principalmente em redes Ethernet para garantir que os dados sejam entregues corretamente aos dispositivos de destino.
+
+### Referências
+
+- [Fortinet about ARP](https://www.fortinet.com/resources/cyberglossary/what-is-arp);
+- [Wikipedia about ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol);
+- [GeeksForGeeks about ARP](https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/);
+
+---
 ## Apache Kafka
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -474,6 +491,23 @@ Um ESB pode oferecer funcionalidades como roteamento, transformação de dados, 
 - [SAP about ESB](https://learning.sap.com/learning-journeys/developing-business-processes-with-sap-process-orchestration/explaining-the-enterprise-service-bus_b3d8c932-83e8-4e7d-a982-6599f75a9032);
 
 ---
+## Ethernet
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+Ethernet (Ethernet) é uma tecnologia de rede com fio amplamente utilizada para redes locais (LANs). Ela define os padrões para comunicação em redes cabeadas, incluindo tipos de cabos, velocidades e formatos de frame. A Ethernet permite que dispositivos compartilhem dados em uma rede local, conectando-se a switches ou roteadores.
+
+No modelo OSI, a Ethernet opera na Camada 2 (Enlace) e parcialmente na Camada 1 (Física), pois abrange desde o meio físico até a forma de transmissão de dados entre dispositivos.
+
+### Referências
+
+- [Wikipedia about Ethernet](https://en.wikipedia.org/wiki/Ethernet);
+- [CISCO about Ethernet](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-ethernet.html);
+- [GeeksForGeeks about Ethernet](https://www.geeksforgeeks.org/what-is-ethernet/);
+
+---
 ## Extract, Transform and Load (ETL)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -528,6 +562,23 @@ A porta padrão para o FTP é a porta 21 para o canal de controle. No modo ativo
 - [GeeksForGeeks about FTP](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/);
 - [Hostinger about FTP](https://www.hostinger.com/tutorials/what-is-ftp);
 - [Solarwinds about FTP](https://www.solarwinds.com/resources/it-glossary/ftp-server);
+
+---
+## Gateway Load Balancing Protocol (GLBP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+O *Gateway Load Balancing Protocol (GLBP)* é um protocolo da Cisco que permite balanceamento de carga entre vários gateways, proporcionando alta disponibilidade e redundância. Diferente do HSRP ou VRRP, que têm apenas um gateway ativo por vez, o GLBP permite que múltiplos gateways atuem simultaneamente, melhorando o desempenho e a distribuição de tráfego.
+
+No modelo OSI, o GLBP atua na Camada 3 (Rede), gerenciando o encaminhamento e o balanceamento de tráfego entre diferentes roteadores dentro da rede.
+
+### Referências
+
+- [CISCO about GLBP](https://www.cisco.com/en/US/docs/ios/12_2t/12_2t15/feature/guide/ft_glbp.html);
+- [Wikipedia about GLBP](https://en.wikipedia.org/wiki/Gateway_Load_Balancing_Protocol);
+- [GeeksForGeeks about GLBP](https://www.geeksforgeeks.org/gateway-load-balancing-protocol-glbp/);
 
 ---
 ## Geographic Information System (GIS)
@@ -698,6 +749,43 @@ O ICMP não é utilizado para a transferência de dados de usuário, mas sim par
 - [Wikipedia about ICMP](https://pt.wikipedia.org/wiki/Internet_Control_Message_Protocol);
 
 ---
+## Internet Information Services (IIS)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Internet Information Services (IIS)* é um servidor web desenvolvido pela Microsoft para hospedar sites e aplicações na web, especialmente em ambientes Windows. Ele oferece suporte a diversos protocolos, como HTTP, HTTPS, FTP, e SMTP, e é amplamente utilizado para hospedar aplicações ASP.NET e páginas estáticas.
+
+Como servidor web, o IIS opera na Camada 7 (Aplicação) do modelo OSI, lidando com o gerenciamento e entrega de conteúdo web aos clientes.
+
+### Referências
+
+- [Solarwinds about IIS](https://www.solarwinds.com/resources/it-glossary/iis-server);
+- [Microsoft about IIS](https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-web-server-overview);
+- [Wikipedia about IIS](https://en.wikipedia.org/wiki/Internet_Information_Services);
+- [IIS official website](https://www.iis.net/);
+
+---
+## Internet Message Access Protocol (IMAP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+O (Internet Message Access Protocol (IMAP)) é um protocolo de e-mail que permite o acesso e gerenciamento de mensagens de e-mail armazenadas em um servidor. Diferente do POP, o IMAP permite que os e-mails sejam acessados de vários dispositivos, mantendo uma cópia centralizada no servidor.
+
+IMAP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 143 (ou 993 para IMAP sobre SSL/TLS).
+
+### Referências
+
+- [Hostinger about IMAP](https://www.hostinger.com/tutorials/pop3-vs-imap);
+- [Microsoft about IMAP](https://support.microsoft.com/en-us/office/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9);
+- [Wikipedia about IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol);
+- [Cloudflare about IMAP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-imap/);
+- [MailChimp about IMAP](https://mailchimp.com/resources/imap-vs-pop3/);
+
+---
 ## Internet Protocol (IP)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-06
@@ -731,6 +819,27 @@ A interoperabilidade é vital para integrar dados de várias fontes e possibilit
 - [Sankhya about Interoperability](https://www.sankhya.com.br/blog/interoperabilidade/);
 - [TOTVS about Interoperability](https://www.totvs.com/blog/instituicoes-de-saude/interoperabilidade-na-saude/);
 - [GOV.BR about Interoperability](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/interoperabilidade/copy_of_interoperabilidade);
+
+---
+## Jumbo Frames
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+Um jumbo frame é um pacote de dados maior que o tamanho padrão do MTU, que é de 1500 bytes em redes Ethernet convencionais. Jumbo frames geralmente têm MTUs de 9000 bytes ou mais. Eles são usados em ambientes de rede de alta performance, como data centers ou redes de armazenamento, onde há necessidade de movimentação de grandes volumes de dados com menos sobrecarga.
+
+Os benefícios de jumbo frames incluem:
+- Redução da sobrecarga: Como há menos cabeçalhos a cada pacote, há menor uso da CPU e mais eficiência de rede;
+- Desempenho melhorado: Com pacotes maiores, há menos fragmentação e mais dados transmitidos por pacote, o que melhora a taxa de transferência em redes que suportam jumbo frames;
+
+Entretanto, todos os dispositivos na rota de uma transmissão de dados precisam suportar o mesmo MTU para que os jumbo frames sejam transmitidos corretamente.
+
+### Referências
+
+- [Wikipedia about Jumbo Frames](https://en.wikipedia.org/wiki/Jumbo_frame);
+- [CBT Nuggets about Jumbo Frames](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-jumbo-frame);
+- [FS about Jumbo Frame](https://community.fs.com/article/what-is-jumbo-frame.html);
 
 ---
 ## Kernel-based Virtual Machine (KVM)
@@ -786,6 +895,62 @@ Em ambientes corporativos e de saúde, a LGPD impõe requisitos rigorosos para o
 - [Wikipedia about LGPD](https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais#:~:text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o,do%20Marco%20Civil%20da%20Internet.);
 
 ---
+## Lightweight Directory Access Protocol (LDAP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+O *Lightweight Directory Access Protocol (LDAP)* é um protocolo de diretórios que permite acessar e gerenciar serviços de diretórios em uma rede. Ele é amplamente usado em ambientes corporativos para autenticação e autorização, fornecendo uma estrutura para armazenar informações sobre usuários, grupos e dispositivos.
+
+LDAP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 389 (ou 636 para LDAP sobre SSL/TLS).
+
+### Referências
+
+- [Okta about LDAP](https://www.okta.com/identity-101/what-is-ldap/);
+- [Wikipedia about LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol);
+- [RedHat about LDAP](https://www.redhat.com/en/topics/security/what-is-ldap-authentication);
+- [IBM about LDAP](https://www.ibm.com/docs/en/zos/3.1.0?topic=server-what-is-ldap);
+- [Microsoft about LDAP](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ldap/lightweight-directory-access-protocol-ldap-api);
+- [Fortinet about LDAP](https://www.fortinet.com/resources/cyberglossary/ldap-authentication);
+
+---
+## Local Area Network (LAN)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Local Area Network (LAN)* é uma rede que conecta dispositivos dentro de uma área geográfica limitada, como um escritório, escola ou casa. Ela permite a comunicação rápida e a troca de dados entre dispositivos, sendo normalmente restrita a um único local físico.
+
+A LAN opera principalmente nas Camadas 1 (Física) e 2 (Enlace) do modelo OSI, fornecendo conectividade de rede e determinando o meio físico e os métodos de acesso ao canal de comunicação.
+
+### Referências
+
+- [CISCO about LAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-lan-local-area-network.html);
+- [Wikipedia about LAN](https://en.wikipedia.org/wiki/Local_area_network);
+- [Cloudflare about LAN](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-lan/);
+- [CompTIA about LAN](https://www.comptia.org/content/guides/what-is-a-local-area-network);
+- [GeeksForGeeks about LAN](https://www.geeksforgeeks.org/lan-full-form/);
+
+---
+## Logical Volume Manager (LVM)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Logical Volume Manager (LVM*) é uma tecnologia de gerenciamento de armazenamento que permite a criação de volumes lógicos em vez de partições fixas, proporcionando flexibilidade para expandir ou reduzir volumes conforme necessário. O LVM facilita o gerenciamento de armazenamento em sistemas Linux, permitindo que volumes sejam redimensionados sem interromper o sistema.
+
+### Referências
+
+- [Wikipedia about LVM](https://en.wikipedia.org/wiki/Logical_Volume_Manager_(Linux));
+- [Ubuntu about LVM](https://ubuntu.com/server/docs/about-logical-volume-management-lvm);
+- [RedHat about LVM](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/deployment_guide/ch-lvm);
+- [Wikipedia about LVM (2)](https://en.wikipedia.org/wiki/Logical_volume_management);
+- [RedHat about the difference between LVM and Standard Partitioning](https://www.redhat.com/en/blog/lvm-vs-partitioning);
+
+---
 ## Master Data Management (MDM)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -801,6 +966,25 @@ Um sistema de MDM centraliza o gerenciamento de dados principais, permitindo que
 - [IBM about MDM](https://www.ibm.com/think/topics/master-data-management);
 - [Oracle about MDM](https://www.oracle.com/br/scm/product-lifecycle-management/master-data-management/);
 - [Wikipedia about MDM](https://pt.wikipedia.org/wiki/Master_Data_Management);
+
+---
+## Maximum Transmission Unit (MTU)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*Maximum Transmission Unit (MTU)* define o tamanho máximo de um pacote que pode ser transmitido em uma rede. Ajustar a MTU de forma adequada pode melhorar o desempenho da rede, reduzindo a fragmentação de pacotes.
+
+A MTU está relacionada à Camada 2 (Enlace) do modelo OSI, onde o controle de tamanho de quadro é gerenciado para otimizar o envio de dados. Ele tem relação com vários protocolos, especialmente aqueles que transportam grandes volumes de dados. Protocolos como o *TCP (Transmission Control Protocol)* e o *UDP (User Datagram Protocol)*, ambos da Camada 4 (Transporte), utilizam o MTU para determinar o tamanho máximo de cada pacote antes de transmiti-lo. O *IP (Internet Protocol)*, da Camada 3 (Rede), também é influenciado pelo MTU, pois os pacotes IP precisam ser fragmentados em tamanhos que respeitem o MTU da rede para evitar perda de dados.
+
+### Referências
+
+- [Cloudflare about MTU](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtu/);
+- [Wikipedia about MTU](https://en.wikipedia.org/wiki/Maximum_transmission_unit);
+- [Okta about MTU](https://www.okta.com/identity-101/mtu/);
+- [GeeksForGeeks about MTU](https://www.geeksforgeeks.org/what-is-mtumaximum-transmission-unit/);
+- [Huawei about MTU](https://info.support.huawei.com/info-finder/encyclopedia/en/MTU.html);
 
 ---
 ## Mergers and Acquisitions (M&A)
@@ -828,7 +1012,7 @@ Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
 
 O *Message Queuing Telemetry Transport (MQTT)* é um protocolo de comunicação leve e eficiente para transferência de dados em redes com baixa largura de banda ou conectividade instável. Muito utilizado em IoT (Internet of Things), ele permite que dispositivos se comuniquem por meio de um modelo de publicação e assinatura, onde dados são publicados em tópicos e assinantes podem receber as atualizações desses tópicos.
 
-Operando na camada de aplicação do modelo OSI (Camada 7), o MQTT é utilizado em cenários onde a largura de banda é limitada e o consumo de energia precisa ser mínimo, como em dispositivos IoT que monitoram condições ambientais ou enviam informações para sistemas centrais.
+Operando na camada de aplicação do modelo OSI (Camada 7) e geralmente utiliza a porta padrão 1883 (ou 8883 para MQTT sobre SSL/TLS). O MQTT é utilizado em cenários onde a largura de banda é limitada e o consumo de energia precisa ser mínimo, como em dispositivos IoT que monitoram condições ambientais ou enviam informações para sistemas centrais.
 
 ### Referências
 
@@ -875,6 +1059,59 @@ Através de sua interface gráfica, o Mirth facilita o mapeamento de dados e a c
 - [Mirth e-book](https://www.nextgen.com/-/media/DAM/Collateral/E-Books/CH_FundamentalBuildingBlocksofInterop_Ebook.pdf);
 
 ---
+## Multi-Factor Authentication (MFA)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Multi-Factor Authentication (MFA)* é uma técnica de autenticação que utiliza múltiplos fatores para verificar a identidade de um usuário. Além da senha, MFA pode exigir um segundo fator, como um código enviado ao telefone, uma impressão digital, ou outra forma de autenticação, aumentando a segurança do acesso.
+
+### Referências
+
+- [Wikipedia about MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication);
+- [Amazon AWS about MFA](https://aws.amazon.com/what-is/mfa/);
+- [Microsoft about MFA](https://support.microsoft.com/en-us/topic/what-is-multifactor-authentication-e5e39437-121c-be60-d123-eda06bddf661);
+- [IBM about MFA](https://www.ibm.com/topics/multi-factor-authentication);
+- [CISCO about MFA](https://www.cisco.com/c/en/us/products/security/what-is-multi-factor-authentication.html);
+
+---
+## Multiprotocol Label Switching (MPLS)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Multiprotocol Label Switching (MPLS)* é um método para acelerar e controlar o fluxo de tráfego em redes, especialmente em redes de longa distância (WANs). Ele utiliza rótulos para direcionar o tráfego, permitindo roteamento mais rápido e eficiente sem depender exclusivamente dos endereços IP.
+
+O MPLS opera entre a Camada 2 (Enlace) e Camada 3 (Rede) do modelo OSI, sendo considerado uma tecnologia de camada intermediária que combina elementos de ambas as camadas para otimização de tráfego.
+
+### Referências
+
+- [Wikipedia about MPLS](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching);
+- [Cloudflare about MPLS](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mpls/);
+- [CISCO about MPLS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/multiprotocol-label-switching-mpls/index.html);
+
+---
+## My Traceroute (MTR)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*My Traceroute (MTR)* é uma ferramenta de diagnóstico de rede que combina as funcionalidades dos comandos traceroute e ping, permitindo monitorar a rota e o tempo de resposta de pacotes para um destino específico. É útil para identificar gargalos ou problemas de conexão.
+
+O MTR não se enquadra diretamente no modelo OSI, mas sua função está associada à Camada 3 (Rede), onde o roteamento de pacotes é monitorado.
+
+### Referências
+
+- [Cloudflare about MTR](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtr/);
+- [Wikipedia about MTR](https://en.wikipedia.org/wiki/MTR_(software));
+- [Oracle man of MTR](https://docs.oracle.com/cd/E88353_01/html/E72487/mtr-8.html);
+- [RedHat how to use MTR](https://www.redhat.com/en/blog/linux-mtr-command);
+- [Die man of MTR](https://linux.die.net/man/8/mtr);
+
+---
 ## Network File System (NFS)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
@@ -891,6 +1128,24 @@ O NFS é amplamente utilizado em ambientes de rede Linux, permitindo o compartil
 - [NordVPN about NFS](https://nordvpn.com/pt-br/blog/network-file-system/);
 - [Wikipedia about NFS (pt-br)](https://pt.wikipedia.org/wiki/Network_File_System);
 - [Wikipedia about NFS](https://en.wikipedia.org/wiki/Network_File_System);
+
+---
+## Network Mapper (Nmap)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*Network Mapper (Nmap)* é uma ferramenta de código aberto para varredura de redes que permite mapear dispositivos conectados, descobrir serviços e verificar a segurança dos sistemas. Com o Nmap, é possível identificar portas abertas e detectar vulnerabilidades de rede.
+
+O Nmap opera principalmente na Camada 3 (Rede) e Camada 4 (Transporte) do modelo OSI, pois ele verifica portas TCP/UDP para encontrar serviços em execução.
+
+### Referências
+
+- [NMAP official website](https://nmap.org/);
+- [Wikipedia about NMAP](https://en.wikipedia.org/wiki/Nmap);
+- [Die NMAP man](https://linux.die.net/man/1/nmap);
+- [NMAP official man](https://nmap.org/man/pt_PT/index.html);
 
 ---
 ## Non-Disclosure Agreement (NDA)
@@ -1015,6 +1270,24 @@ O *Platform as a Service (PaaS)* oferece uma plataforma completa para desenvolvi
 - [HP about PaaS](https://www.hpe.com/us/en/what-is/paas.html);
 
 ---
+## Post Office Protocol (POP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*Post Office Protocol (POP)* é um protocolo de e-mail usado para baixar mensagens de um servidor para o cliente de e-mail. Uma vez baixadas, as mensagens são removidas do servidor, ao contrário do IMAP, que mantém cópias centralizadas.
+
+O POP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 110 (ou 995 para POP sobre SSL/TLS).
+
+### Referências
+
+- [Wikipedia about POP](https://en.wikipedia.org/wiki/Post_Office_Protocol);
+- [Wikipedia about POP (pt-br)](https://pt.wikipedia.org/wiki/Post_Office_Protocol);
+- [Javatpoint about POP](https://www.javatpoint.com/pop-protocol);
+- [GeeksForGeeks about POP](https://www.geeksforgeeks.org/what-is-pop3-post-office-protocol-version-3/);
+
+---
 ## Prontuário Eletrônico do Paciente (PEP)
 
 Autor: [Leonardo Pangaio][1] - Data:
@@ -1069,6 +1342,25 @@ Esses sistemas são essenciais para documentar procedimentos, arquivar imagens m
 - [Star about RIS](https://star.med.br/o-que-e-ris/);
 
 ---
+## Remote Desktop Protocol (RDP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*Remote Desktop Protocol (RDP)* é um protocolo desenvolvido pela Microsoft que permite que usuários acessem e controlem computadores remotamente, oferecendo interface gráfica e suporte a múltiplos dispositivos. Ele é amplamente utilizado para suporte técnico e acesso remoto em ambientes corporativos.
+
+O RDP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 3389.
+
+### Referências
+
+- [Cloudflare about RDP](https://www.cloudflare.com/pt-br/learning/access-management/what-is-the-remote-desktop-protocol/);
+- [Wikipedia about RDP](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol);
+- [Microsoft about RDP](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol);
+- [Solarwinds about RDP](https://www.solarwinds.com/resources/it-glossary/remote-desktop-protocol);
+- [Fortinet about RDP](https://www.fortinet.com/resources/cyberglossary/remote-desktop-protocol);
+
+---
 ## Samba
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
@@ -1086,6 +1378,28 @@ SAMBA é amplamente utilizado em ambientes empresariais para integrar redes base
 - [RedHat about Samba](https://www.redhat.com/en/blog/getting-started-samba);
 - [Ubuntu about Samba](https://ubuntu.com/server/docs/introduction-to-samba);
 - [Wikipedia about Samba](https://en.wikipedia.org/wiki/Samba_(software));
+
+---
+## Secure Copy Protocol (SCP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*Secure Copy Protocol (SCP)* é um protocolo de transferência de arquivos seguro baseado no SSH. Ele permite copiar arquivos entre máquinas de forma criptografada, garantindo segurança e autenticidade dos dados transmitidos.
+
+O SCP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 22 (compartilhada com o SSH).
+
+### Referências
+
+- [Wikipedia about SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol);
+- [Wikipedia about SCP (pt-br)](https://pt.wikipedia.org/wiki/Secure_copy);
+- [NordVPN about SCP](https://nordvpn.com/pt-br/cybersecurity/glossary/secure-copy-protocol/);
+- [Die SCP man](https://linux.die.net/man/1/scp);
+- [Man page of SCP](https://man7.org/linux/man-pages/man1/scp.1.html);
+- [Oracle SCP man](https://docs.oracle.com/cd/E36784_01/html/E36870/scp-1.html);
+
+
 
 ---
 ## Secure File Transfer Protocol (SFTP)
@@ -1286,6 +1600,40 @@ Em termos de arquitetura, o SQL é estruturado para transações ACID (Atomicida
 - [GeeksForGeeks about SQL](https://www.geeksforgeeks.org/what-is-sql/);
 
 ---
+## Switch Top of Rack (ToR)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+O *Switch Top of Rack (ToR)* é um tipo de switch utilizado na parte superior de um rack (estrutura que agrupa servidores e equipamentos de rede em datacenters), oferecendo conexões diretas para os servidores abaixo dele. Ele ajuda a reduzir a quantidade de cabos, já que os servidores de um rack inteiro se conectam diretamente ao ToR, que então se comunica com os switches centrais. Esse modelo melhora a organização e facilita a manutenção e a escalabilidade da infraestrutura de rede em datacenters.
+
+Switches ToR geralmente operam na Camada 2 (Enlace) e/ou Camada 3 (Rede) do modelo OSI, pois muitos suportam roteamento para gerenciar o tráfego de dados. Sua posição estratégica dentro do rack também permite melhor controle de latência e alta velocidade de conexão.
+
+### Referências
+
+- [CBT Nuggets about Switch ToR](https://www.cbtnuggets.com/blog/technology/networking/top-of-rack-switching);
+- [FS about Switch ToR](https://community.fs.com/article/popular-tor-and-tor-switch-in-data-center-architectures.html);
+
+---
+## Time to Live (TTL)
+
+Autor: [Leonardo Pangaio][1] - Data:
+
+### Descrição
+
+*Time to Live (TTL)* é um valor em redes de computadores que indica o tempo máximo de "vida" de um pacote de dados. A cada roteador que um pacote atravessa, o TTL é decrementado em uma unidade, e quando atinge zero, o pacote é descartado, evitando loops infinitos na rede. Esse valor é muito importante para a eficiência da rede, garantindo que pacotes não fiquem circulando indefinidamente e ocupando largura de banda.
+
+O TTL é uma característica presente na Camada 3 (Rede) do modelo OSI, onde é aplicado em protocolos como o IP (Internet Protocol). No caso de protocolos de rede como o DNS, o TTL também é usado para definir o tempo que um registro pode ser mantido em cache, otimizando o acesso a informações.
+
+### Referências
+
+- [Cloudflare about TTL](https://www.cloudflare.com/pt-br/learning/cdn/glossary/time-to-live-ttl/);
+- [Wikipedia about TTL](https://en.wikipedia.org/wiki/Time_to_live);
+- [Fortinet about TTL](https://www.fortinet.com/resources/cyberglossary/what-is-ttl);
+- [IBM about TTL](https://www.ibm.com/topics/time-to-live);
+
+---
 ## Transmission Control Protocol (TCP)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-06
@@ -1316,6 +1664,65 @@ O *Transport Layer Security (TLS)* é a evolução do SSL e o protocolo atualmen
 - [Wikipedia about TLS (pt-br)](https://pt.wikipedia.org/wiki/Transport_Layer_Security);
 - [CloudFlare about TLS](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/);
 - [Amazon AWS about the difference between SSL and TLS](https://aws.amazon.com/pt/compare/the-difference-between-ssl-and-tls/);
+
+---
+## Unified Modeling Language (UML)
+
+Autor: [Leonardo Pangaio][1] - Data:
+
+### Descrição
+
+*Unified Modeling Language (UML)* é uma linguagem de modelagem que oferece uma maneira padronizada de visualizar o design de um sistema. Ela é amplamente utilizada na engenharia de software para representar sistemas complexos por meio de diagramas. A UML ajuda desenvolvedores a entender, documentar e comunicar a estrutura, o comportamento e a arquitetura de um sistema antes de sua implementação.
+
+Com diversos tipos de diagramas, como de classes, sequência, caso de uso e atividades, a UML facilita a criação de modelos visuais que ajudam no planejamento e na gestão de projetos, promovendo uma linguagem comum entre profissionais de TI.
+
+### Referências
+
+- [Wikipedia about UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language);
+- [Lucidchart about UML](https://www.lucidchart.com/pages/what-is-UML-unified-modeling-language);
+- [GeeksForGeeks about UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/);
+- [UML official website](https://www.uml.org/what-is-uml.htm);
+- [Miro about UML](https://miro.com/diagramming/what-is-a-uml-diagram/);
+- [IBM about UML](https://developer.ibm.com/articles/an-introduction-to-uml/);
+- [Indeed about UML](https://www.indeed.com/career-advice/career-development/what-is-uml);
+
+---
+## Uniform Resource Identifier (URI)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Uniform Resource Identifier (URI)* é um identificador padrão utilizado para nomear recursos de forma única e acessível em redes de computadores, especialmente na web. Uma URI pode indicar a localização de um recurso (como um site), uma abstração ou uma entidade física. A URI possui dois tipos principais: URLs e URNs. A URL (Uniform Resource Locator) é um tipo de URI que especifica como acessar um recurso, enquanto a URN (Uniform Resource Name) identifica o recurso de forma única.
+
+Por exemplo, a URI `http://example.com/page` indica tanto o protocolo quanto a localização de um recurso específico na web. A URI é essencial para a padronização e acesso aos recursos distribuídos em redes.
+
+### Referências
+
+- [Hostinger about the difference between URI and URL (pt-br)](https://www.hostinger.com.br/tutoriais/uri-e-url);
+- [Wikipedia about URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier);
+- [MDN about URI](https://developer.mozilla.org/en-US/docs/Web/URI);
+- [Wikipedia about URI (pt-br)](https://pt.wikipedia.org/wiki/URI);
+- [Hostinger about the difference between URI and URL](https://www.hostinger.com/tutorials/uri-vs-url);
+
+---
+## Uniform Resource Locator (URL)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Uniform Resource Locator (URL)* é um tipo de URI que especifica o local exato de um recurso em uma rede e como acessá-lo, geralmente na internet. A URL inclui o esquema de acesso (como `http` ou `https`), o nome do host e, opcionalmente, o caminho para o recurso e parâmetros de consulta.
+
+Por exemplo, na URL `https://example.com/path?query=123`, `https` indica o protocolo, `example.com` o domínio, e `/path?query=123` o caminho para o recurso específico. As URLs são componentes fundamentais para navegação e recursos web, permitindo acesso a páginas e arquivos em servidores.
+
+### Referências
+
+- [MDN about URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL);
+- [Wikipedia about URL](https://en.wikipedia.org/wiki/URL);
+- [Hostinger about URL](https://www.hostinger.com/tutorials/what-is-a-url);
+- [Lenovo about URL](https://www.lenovo.com/us/en/glossary/what-is-url/);
+- [GeeksForGeeks about URL](https://www.geeksforgeeks.org/what-is-url-uniform-resource-locator/);
 
 ---
 ## User Datagram Protocol (UDP)
@@ -1349,6 +1756,159 @@ Em ambientes de saúde, o VNA facilita o armazenamento centralizado de imagens m
 
 - [Wikipedia about VNA](https://en.wikipedia.org/wiki/Vendor_Neutral_Archive);
 - [Intelerad about VNA](https://www.intelerad.com/en/2023/04/20/what-is-vendor-neutral-archive/);
+
+---
+## Virtual Local Area Network (VLAN)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Virtual Local Area Network (VLAN)* é uma técnica de segmentação de rede que permite dividir uma rede física em várias redes lógicas. Com VLANs, é possível segmentar a rede de acordo com necessidades de segurança, eficiência e organização, isolando grupos de dispositivos ou departamentos sem precisar de redes físicas separadas.
+
+VLANs operam na Camada 2 (Enlace) do modelo OSI e são configuradas em switches de rede. Essa segmentação também melhora a performance da rede e facilita o gerenciamento e a aplicação de políticas de segurança.
+
+### Referências
+
+- [Solarwinds about VLAN](https://www.solarwinds.com/resources/it-glossary/vlan);
+- [Wikipedia about VLAN](https://en.wikipedia.org/wiki/VLAN);
+- [Huawei about VLAN](https://info.support.huawei.com/info-finder/encyclopedia/en/VLAN.html);
+- [GeeksForGeeks about VLAN](https://www.geeksforgeeks.org/virtual-lan-vlan/);
+- [CBTNuggets about VLAN](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-vlan-and-how-they-work);
+
+---
+## Virtual Network Computing (VNC)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Virtual Network Computing (VNC)* é um protocolo de compartilhamento de área de trabalho que permite a usuários visualizar e interagir com um desktop remoto através da rede. Ele funciona transmitindo eventos de teclado e mouse para o sistema remoto e mostrando a tela do dispositivo remoto na máquina do usuário.
+
+O VNC opera principalmente na Camada 7 (Aplicação) do modelo OSI, utilizando a porta padrão 5900 para comunicação. É amplamente usado para suporte técnico e acesso remoto a computadores, especialmente em ambientes corporativos e educacionais.
+
+### Referências
+
+- [Wikipedia about VNC](https://en.wikipedia.org/wiki/VNC);
+- [MIT about VNC](http://web.mit.edu/cdsdev/src/howitworks.html);
+
+---
+## Virtual Private Network (VPN)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Virtual Private Network (VPN)* é uma tecnologia que permite criar uma conexão segura e privada entre um dispositivo e a internet através de um túnel encriptado. Com VPN, usuários podem acessar redes remotas com segurança, ideal para colaboradores que precisam acessar recursos corporativos de fora do ambiente físico da empresa.
+
+A VPN atua principalmente na Camada 3 (Rede) do modelo OSI e utiliza protocolos de tunelamento, como L2TP, PPTP ou IPsec. Além de segurança, ela oferece privacidade ao mascarar o endereço IP do usuário, tornando-se útil também para acessar conteúdos restritos geograficamente.
+
+### Referências
+
+- [Kaspersky about VPN](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn);
+- [Wikipedia about VPN](https://en.wikipedia.org/wiki/Virtual_private_network);
+- [Microsoft Azure about VPN](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn);
+- [CISCO about VPN](https://www.cisco.com/c/en/us/products/security/vpn-endpoint-security-clients/what-is-vpn.html);
+- [NordVPN about VPN](https://nordvpn.com/pt-br/what-is-a-vpn/);
+- [Amazon AWS about VPN](https://aws.amazon.com/what-is/vpn/);
+- [Fortinet about VPN](https://www.fortinet.com/br/resources/cyberglossary/what-is-a-vpn);
+- [CNET about VPN](https://www.cnet.com/tech/services-and-software/what-is-a-vpn/);
+- [GeeksForGeeks about VPN](https://www.geeksforgeeks.org/what-is-vpn-and-how-it-works/);
+
+---
+## Visual Basic Script (VBScript)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Visual Basic Script (VBScript)* é uma linguagem de script baseada no Visual Basic, projetada para automação em sistemas Windows e em navegadores que suportam scripts. É amplamente utilizada em scripts administrativos e, anteriormente, em páginas da web para criar funcionalidades interativas, embora hoje tenha sido em grande parte substituída pelo JavaScript.
+
+No contexto de automação, o VBScript permite que administradores de sistemas Windows realizem tarefas repetitivas, como gerenciamento de arquivos e configurações de rede, diretamente a partir do prompt de comando ou de scripts executáveis.
+
+### Referências
+
+- [Wikipedia about VBScript](https://en.wikipedia.org/wiki/VBScript);
+- [GeeksForGeeks about VBScript](https://www.geeksforgeeks.org/vbscript-introduction/);
+
+---
+## Visual Basic for Applications (VBA)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Visual Basic for Applications (VBA)* é uma linguagem de programação desenvolvida pela Microsoft para automatizar tarefas e estender as funcionalidades de aplicativos do Microsoft Office, como Excel, Word e Access. Com o VBA, os usuários podem criar macros que automatizam processos repetitivos, além de desenvolver funcionalidades personalizadas.
+
+Muito utilizado por profissionais de negócios e analistas de dados, o VBA permite manipulação de dados, criação de relatórios automatizados e construção de soluções personalizadas, aumentando a produtividade em ambientes corporativos.
+
+### Referências
+
+- [Microsoft about VBA](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office);
+- [Wikipedia about VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications);
+- [CFI about VBA](https://corporatefinanceinstitute.com/resources/excel/excel-vba/);
+- [Microsoft VBA reference](https://learn.microsoft.com/en-us/office/vba/api/overview/language-reference);
+- [Indeed about VBA](https://uk.indeed.com/career-advice/career-development/what-is-vba-macro);
+
+---
+## Wide Area Network (WAN)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*Wide Area Network (WAN)* é uma rede que cobre grandes áreas geográficas, conectando redes locais (LANs) através de longas distâncias. A internet é o exemplo mais conhecido de uma WAN. Essas redes permitem a comunicação entre dispositivos e usuários localizados em diferentes regiões, permitindo a integração de empresas globais.
+
+Com a utilização de várias tecnologias, incluindo roteamento e links de dados dedicados, a WAN opera em várias camadas do modelo OSI, mas sua função principal está na Camada 3 (Rede), pois envolve roteamento e conexão de redes distantes.
+
+### Referências
+
+- [Amazon AWS about WAN](https://aws.amazon.com/what-is/wan/);
+- [CISCO about WAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-wan-wide-area-network.html);
+- [Wikipedia about WAN](https://en.wikipedia.org/wiki/Wide_area_network);
+- [Cloudflare about WAN](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-wan/);
+- [CompTIA about WAN](https://www.comptia.org/content/guides/what-is-a-wide-area-network);
+- [Fortinet about WAN](https://www.fortinet.com/resources/cyberglossary/wan);
+- [HP about WAN](https://www.hpe.com/br/en/what-is/wide-area-network.html);
+
+---
+## YAML Ain't Markup Language (YAML)
+
+Autor: [Leonardo Pangaio][1] - Data:
+
+### Descrição
+
+*YAML Ain't Markup Language (YAML)* é uma linguagem de serialização de dados legível por humanos, usada para configurações e troca de informações entre sistemas. Com uma sintaxe simples e intuitiva, YAML é popular em arquivos de configuração para automação e infraestrutura como código (IAC), como no Kubernetes e Ansible.
+
+Por sua simplicidade e suporte a listas e mapeamentos, YAML facilita o gerenciamento de configurações complexas, sendo uma alternativa a XML e JSON em aplicações onde a clareza e a facilidade de edição são prioridades.
+
+### Referências
+
+- [Wikipedia about YAML](https://en.wikipedia.org/wiki/YAML);
+- [RedHat about YAML](https://www.redhat.com/en/topics/automation/what-is-yaml);
+- [IBM about YAML](https://www.ibm.com/topics/yaml);
+- [YAML official website](https://yaml.org/);
+
+---
+## eXtensible Markup Language (XML)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
+
+### Descrição
+
+*eXtensible Markup Language (XML)* é uma linguagem de marcação que organiza dados de maneira hierárquica e legível por humanos e máquinas. É amplamente utilizada para armazenamento, troca e serialização de dados, especialmente em aplicações web e bancos de dados. XML permite definir elementos personalizados e criar estruturas de dados flexíveis.
+
+XML é frequentemente usado em sistemas de configuração, protocolos de mensagens (como SOAP) e arquivos de dados, promovendo interoperabilidade entre sistemas e permitindo uma estrutura padronizada para dados.
+
+### Referências
+
+- [W3Schools about XML](https://www.w3schools.com/xml/xml_whatis.asp);
+- [Wikipedia about XML](https://en.wikipedia.org/wiki/XML);
+- [Amazon AWS about XML](https://aws.amazon.com/what-is/xml/);
+- [MDN about XML](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction);
+- [MailChimp about XML](https://mailchimp.com/pt-br/marketing-glossary/xml/);
+- [Postman about XML](https://blog.postman.com/what-is-xml/);
+- [Javapoint about XML](https://www.javatpoint.com/what-is-xml);
 
 <!-- término glossário -->
 
