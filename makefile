@@ -16,7 +16,7 @@ version: ## Mostra a versão do arquivo makefile
 
 git: ## Executa um commit padrão com um push
 	@git add .  \
-		&& git commit -m $(MSG)  \
+		&& git commit -m "$(MSG)"  \
 		&& git fetch origin  \
 		&& git pull --no-rebase origin  \
 		&& git push origin
