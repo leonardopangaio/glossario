@@ -1,9 +1,12 @@
 Glossário prático: 
 
 - [ ] .dockerignore
+- [ ] .env
 - [ ] .gitignore
+- [ ] .net
 - [ ] 7z
 - [ ] Active Directory
+- [ ] Activity diagram
 - [ ] AE_Title
 - [ ] Agile
 - [ ] angular
@@ -18,7 +21,9 @@ Glossário prático:
 - [ ] apt
 - [ ] apt-get
 - [ ] argocd
-- [ ] arp
+- [ ] arp-scan
+- [ ] arping
+- [ ] asp
 - [ ] atm
 - [ ] aws
 - [ ] azure
@@ -33,29 +38,33 @@ Glossário prático:
 - [ ] bash
 - [ ] bi
 - [ ] bigip
+- [ ] BIOS
 - [ ] bitmap (bmp)
 - [ ] bits
+- [ ] bittorrent
 - [ ] blockchain
-- [ ] bloco
 - [ ] bluetooth
 - [ ] bpm
 - [ ] bpmn
 - [ ] Breach and Attack Simulation (BAS)
+- [ ] bsd
 - [ ] btop
 - [ ] bytes
 - [ ] c
 - [ ] c#
 - [ ] c++
+- [ ] callcenter
 - [ ] CCNA
-- [ ] cd
+- [ ] cdn
 - [ ] CEO
-- [ ] certificado
+- [ ] certificado digital
 - [ ] cfind
 - [ ] CFO
 - [ ] chave
 - [ ] chunck
 - [ ] ci/cd
 - [ ] cilindro
+- [ ] Class diagram
 - [ ] classes de IP
 - [ ] cli
 - [ ] cliper
@@ -66,12 +75,14 @@ Glossário prático:
 - [ ] cna
 - [ ] cobit
 - [ ] cobol
+- [ ] Communication diagram
+- [ ] Component diagram
+- [ ] Composite structure diagram
 - [ ] conda
 - [ ] console
 - [ ] container
 - [ ] controladora
 - [ ] COO
-- [ ] cp
 - [ ] cpu
 - [ ] cpu wait
 - [ ] criptografia
@@ -96,18 +107,19 @@ Glossário prático:
 - [ ] delete
 - [ ] DELL
 - [ ] delphi
+- [ ] Deployment diagram
 - [ ] devops
 - [ ] devsecops
 - [ ] df
+- [ ] dhcpdump
 - [ ] diagrama de fluxo
 - [ ] diagrama de sequência
 - [ ] diagrama de venn
 - [ ] dicom
-- [ ] doc
+- [ ] doc/docx
 - [ ] docker
 - [ ] docker-compose.yml
 - [ ] Dockerfile
-- [ ] docx
 - [ ] download
 - [ ] download latency
 - [ ] dpkg
@@ -115,13 +127,13 @@ Glossário prático:
 - [ ] Dynatrace
 - [ ] echo
 - [ ] ecma
+- [ ] ecn
 - [ ] elasticksearch
 - [ ] elk
 - [ ] endpoint
 - [ ] engenheiro de dados
 - [ ] entidade relacionamento
 - [ ] etherape
-- [ ] ethernet
 - [ ] express
 - [ ] ext3
 - [ ] ext4
@@ -131,6 +143,7 @@ Glossário prático:
 - [ ] FAT32
 - [ ] FDA
 - [ ] fddi
+- [ ] FHRP
 - [ ] fifo
 - [ ] figma
 - [ ] fila
@@ -139,11 +152,11 @@ Glossário prático:
 - [ ] firewall
 - [ ] flex group
 - [ ] flex volume
+- [ ] formulário
 - [ ] fortran
 - [ ] frame
-- [ ] frame
 - [ ] framework
-- [ ] free
+- [ ] free (memory linux)
 - [ ] frontend
 - [ ] Fusion Inventory
 - [ ] gateway
@@ -153,7 +166,6 @@ Glossário prático:
 - [ ] GitHub
 - [ ] gitlab
 - [ ] glances
-- [ ] glbp
 - [ ] GLPI
 - [ ] golang
 - [ ] google
@@ -165,33 +177,31 @@ Glossário prático:
 - [ ] gRPC
 - [ ] hash
 - [ ] hdlc
+- [ ] helpdesk
 - [ ] hostname
 - [ ] HP
+- [ ] HSRP
 - [ ] html
 - [ ] htop
 - [ ] http-ping
 - [ ] hyper-v
 - [ ] IaC
 - [ ] IBM
-- [ ] id
 - [ ] ide
 - [ ] idle latency
 - [ ] ieee
-- [ ] ieee
 - [ ] ifconfig
-- [ ] iis
-- [ ] imap (protocolo de e-mail)
+- [ ] igmp
 - [ ] ini
 - [ ] inodes
+- [ ] Interaction overview diagram
 - [ ] io
 - [ ] iops
 - [ ] iostat
 - [ ] IoT
 - [ ] iotop
-- [ ] IP
+- [ ] IP (protocol)
 - [ ] ip addr
-- [ ] ip v4
-- [ ] ip v6
 - [ ] ipconfig
 - [ ] iperf3
 - [ ] ipo
@@ -214,25 +224,24 @@ Glossário prático:
 - [ ] jpg (jpeg)
 - [ ] jquery
 - [ ] json
-- [ ] jumbo frame
 - [ ] junit
 - [ ] jupter notebook
 - [ ] jwt
 - [ ] kanban
 - [ ] kerberos
+- [ ] kernel
 - [ ] key
 - [ ] knex.js
 - [ ] kpi
 - [ ] ksar
 - [ ] kubernetes
 - [ ] kvm
-- [ ] lan
+- [ ] L2TP
 - [ ] laravel
 - [ ] largura de banda
 - [ ] latência
 - [ ] latência carregada
 - [ ] latência não carregada
-- [ ] ldap
 - [ ] lean
 - [ ] lean six sigma
 - [ ] lidar (radar por luz)
@@ -244,54 +253,57 @@ Glossário prático:
 - [ ] logstash
 - [ ] lpi
 - [ ] lua
-- [ ] lvm
 - [ ] mac address
 - [ ] Machine learning
 - [ ] makedir
 - [ ] makefile
+- [ ] man (metropolitan area network)
 - [ ] markdown
 - [ ] MBytes
 - [ ] md5
 - [ ] mermaid
+- [ ] mesh network
 - [ ] metricbeat
-- [ ] MFA
 - [ ] MiB
 - [ ] midleware
 - [ ] mongodb
 - [ ] mount
-- [ ] mpls
-- [ ] MQTT
 - [ ] mssp
-- [ ] mtr
-- [ ] mtu
 - [ ] mv
 - [ ] mysql
 - [ ] nagios
 - [ ] NaN
 - [ ] nano
 - [ ] nat
-- [ ] nc
+- [ ] nbtscan
+- [ ] ndp
 - [ ] neo vim
 - [ ] nest.js
 - [ ] netapp
 - [ ] netbeui
+- [ ] NetBIOS
+- [ ] netcat
+- [ ] netdiscover
 - [ ] netmask
 - [ ] next.js
 - [ ] nexus
+- [ ] nfc
 - [ ] nfsstat
 - [ ] nfstop
 - [ ] nginx
-- [ ] nmap
-- [ ] nntp, bittorrent
+- [ ] nntp
 - [ ] node.js
 - [ ] nping
 - [ ] NTFS
+- [ ] ntp
 - [ ] null
 - [ ] nutanix
 - [ ] oauth
+- [ ] Object diagram
 - [ ] OCR
 - [ ] OCS Inventory
 - [ ] okr
+- [ ] onc
 - [ ] openshift
 - [ ] openssh
 - [ ] openssl
@@ -300,7 +312,10 @@ Glossário prático:
 - [ ] oracle
 - [ ] Orion
 - [ ] orthanc
+- [ ] ospf
+- [ ] oto
 - [ ] Out-of-Band Application Security Testing (OAST)
+- [ ] Package diagram
 - [ ] pacotes dropados
 - [ ] pacs
 - [ ] pascal
@@ -316,13 +331,14 @@ Glossário prático:
 - [ ] pmi
 - [ ] pmp
 - [ ] png
-- [ ] POP (protocolo de e-mail)
 - [ ] porta
 - [ ] postgres
+- [ ] postscript (impressoras)
 - [ ] powerbi
 - [ ] ppp
-- [ ] ppt
-- [ ] pptx
+- [ ] ppt/pptx
+- [ ] PPTP
+- [ ] Profile diagram
 - [ ] protocolos
 - [ ] Proxmox
 - [ ] proxy
@@ -334,12 +350,12 @@ Glossário prático:
 - [ ] python
 - [ ] QA
 - [ ] query builder
+- [ ] quic
 - [ ] rack
 - [ ] ram
 - [ ] rar
 - [ ] rarp
 - [ ] raw sql
-- [ ] rdp
 - [ ] react
 - [ ] registry
 - [ ] regular expression
@@ -356,8 +372,10 @@ Glossário prático:
 - [ ] rpc
 - [ ] rpm
 - [ ] rsa
+- [ ] rsvp
 - [ ] rsync
 - [ ] rtp
+- [ ] rtsp
 - [ ] rub on rails
 - [ ] rundec
 - [ ] s3
@@ -369,20 +387,22 @@ Glossário prático:
 - [ ] sass
 - [ ] sata
 - [ ] schema
-- [ ] scp
 - [ ] script
 - [ ] scrum
 - [ ] sctp
 - [ ] sdk
 - [ ] selinux
+- [ ] Sequence diagram
+- [ ] servicedesk
 - [ ] Servidor
 - [ ] sessão
 - [ ] sha256
-- [ ] sha256
+- [ ] Shadow image (contexto de backup)
 - [ ] shell
 - [ ] sip
 - [ ] slack
 - [ ] smem
+- [ ] sna
 - [ ] snap
 - [ ] sns
 - [ ] socket
@@ -394,8 +414,9 @@ Glossário prático:
 - [ ] sqs
 - [ ] ss
 - [ ] ssd
+- [ ] ssd m2
+- [ ] State diagram
 - [ ] storage
-- [ ] stricto senso
 - [ ] subnet
 - [ ] sudo
 - [ ] sudoers
@@ -405,12 +426,8 @@ Glossário prático:
 - [ ] swapon
 - [ ] swapout
 - [ ] switch
-- [ ] switch
-- [ ] switch core
 - [ ] switch core
 - [ ] switch de acesso
-- [ ] switch de acesso
-- [ ] switch tor
 - [ ] tar
 - [ ] tar.gz
 - [ ] taxa de transferência
@@ -418,8 +435,13 @@ Glossário prático:
 - [ ] tcping
 - [ ] telnet
 - [ ] terminal
+- [ ] terraform
 - [ ] throughput
 - [ ] ti
+- [ ] time to analysis (tta)
+- [ ] time to mitigate (ttm)
+- [ ] time to solution (tts)
+- [ ] Timing diagram
 - [ ] token
 - [ ] toml
 - [ ] top (linux)
@@ -427,26 +449,23 @@ Glossário prático:
 - [ ] traceroute
 - [ ] Trivy
 - [ ] tsql
-- [ ] ttl
 - [ ] ttm
 - [ ] Tty
+- [ ] tunnels
 - [ ] txt
 - [ ] typescript
 - [ ] ui
-- [ ] uml
 - [ ] update
 - [ ] upload
 - [ ] upload latency
 - [ ] uptime
-- [ ] URI
-- [ ] URL
+- [ ] ura
 - [ ] usb
+- [ ] Use case diagram
 - [ ] utf-8
 - [ ] uuid
 - [ ] ux
 - [ ] variaveis de performance de redes
-- [ ] vba
-- [ ] vbs
 - [ ] venv
 - [ ] vhops
 - [ ] vi
@@ -455,17 +474,14 @@ Glossário prático:
 - [ ] visual basic
 - [ ] visual studio
 - [ ] visudo
-- [ ] vlan
 - [ ] vm
 - [ ] vmstat
 - [ ] vmware
-- [ ] vnc
+- [ ] voip
 - [ ] vpc
-- [ ] vpn
 - [ ] vsun
 - [ ] VxRail
 - [ ] wado
-- [ ] wan
 - [ ] WatterFall
 - [ ] webapplication
 - [ ] webservice
@@ -475,20 +491,21 @@ Glossário prático:
 - [ ] win1252
 - [ ] wireless
 - [ ] wireshark
+- [ ] wlan
 - [ ] Workspace one
+- [ ] wsl
 - [ ] www
+- [ ] xampp
 - [ ] xdr
 - [ ] xfs
-- [ ] xls
-- [ ] xlsx
-- [ ] xml
-- [ ] xml
-- [ ] yaml
+- [ ] xls/xlsx
+- [ ] xmpp
 - [ ] yum
 - [ ] zabbix
 - [ ] zen
 - [ ] ZFS
 - [ ] zip
+- [X] arp
 - [X] bgp
 - [X] CaaS
 - [X] CAD
@@ -506,12 +523,14 @@ Glossário prático:
 - [X] dql
 - [X] dtl
 - [X] erp
+- [X] ethernet
 - [X] etl
 - [X] fhir
 - [X] ftp
 - [X] FTPS
 - [X] ged
 - [X] GIS
+- [X] glbp
 - [X] hci
 - [X] hiperconvergente
 - [X] his
@@ -520,18 +539,33 @@ Glossário prático:
 - [X] https
 - [X] IaaS
 - [X] icmp
+- [X] iis
+- [X] imap (protocolo de e-mail)
+- [X] jumbo frame
+- [X] lan
+- [X] ldap
+- [X] lvm
 - [X] M&A
+- [X] MFA
 - [X] modelo osi
+- [X] mpls
+- [X] MQTT
+- [X] mtr
+- [X] mtu
 - [X] mvp
 - [X] NDA
 - [X] nfs
+- [X] nmap
 - [X] orm
 - [X] PaaS
 - [X] pep
+- [X] POP (protocolo de e-mail)
+- [X] rdp
 - [X] ris
 - [X] SaaS
 - [X] sadt
 - [X] samba
+- [X] scp
 - [X] sftp
 - [X] smb
 - [X] smtp
@@ -539,7 +573,20 @@ Glossário prático:
 - [X] sre
 - [X] ssh
 - [X] ssl
+- [X] switch tor
 - [X] tcp
 - [X] tls
+- [X] ttl
 - [X] udp
+- [X] uml
+- [X] URI
+- [X] URL
+- [X] vba
+- [X] vbs
+- [X] vlan
 - [X] VNA
+- [X] vnc
+- [X] vpn
+- [X] wan
+- [X] xml
+- [X] yaml

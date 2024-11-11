@@ -1,8 +1,4 @@
-ethernet, gcp, glbp, IaC, ide, iis, imap(e-mail), IoT, jdbc, json, jwt, kpi, kvm, lan, ldap, 
----
-lvm, mfa, mpls, mqtt, mtr, mtu, nmap, okr, pop(e-mail), rdp, rfp, rsa, scp, sdk, toml, arp, css, html
----
-switch tor, ttl, uml, uri, url, vba, vbs, vlan, vpn, vnc, wan, xml, yaml
----
-csa
-cva
+css, html, ide, jdbc, json, jwt, kvm, gcp, kpi, IoT, IaC, okr, rfp, rsa, sdk e toml 
+
+
+
