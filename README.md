@@ -54,7 +54,7 @@ Kafka é frequentemente usado em arquiteturas de microservices e data lakes, e s
 ---
 ## Atomicidade, Consistência, Isolamento e Durabilidade (ACID)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ### Descrição
 
@@ -77,7 +77,7 @@ Essas propriedades são essenciais para aplicativos que requerem alta confiabili
 ---
 ## Basically Available, Soft State, Eventual Consistency (BASE)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ### Descrição
 
@@ -150,7 +150,7 @@ O CSV é amplamente utilizado para transferência de dados entre diferentes sist
 ---
 ## Common Internet File System (CIFS)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
 
 ### Descrição
 
@@ -185,7 +185,7 @@ Esses sistemas oferecem funcionalidades como edição precisa de geometria, visu
 ---
 ## Container as a Service (CaaS)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ### Descrição
 
@@ -354,7 +354,7 @@ A DLQ é uma ferramenta importante para sistemas que exigem alta confiabilidade 
 ---
 ## Demilitarized Zone (DMZ)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ### Descrição
 
@@ -415,7 +415,7 @@ Ferramentas DAST populares incluem OWASP ZAP, Burp Suite e Acunetix, que oferece
 ---
 ## Dynamic Host Configuration Protocol (DHCP)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ### Descrição
 
@@ -734,6 +734,8 @@ O *Infrastructure as a Service (IaaS)* fornece infraestrutura de TI (servidores,
 
 ---
 ## Internet Control Message Protocol (ICMP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
 
 ### Descrição
 
@@ -1290,7 +1292,7 @@ O POP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 11
 ---
 ## Prontuário Eletrônico do Paciente (PEP)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
 
 ### Descrição
 
@@ -1618,7 +1620,7 @@ Switches ToR geralmente operam na Camada 2 (Enlace) e/ou Camada 3 (Rede) do mode
 ---
 ## Time to Live (TTL)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ### Descrição
 
@@ -1668,7 +1670,7 @@ O *Transport Layer Security (TLS)* é a evolução do SSL e o protocolo atualmen
 ---
 ## Unified Modeling Language (UML)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
 
 ### Descrição
 
@@ -1874,7 +1876,7 @@ Com a utilização de várias tecnologias, incluindo roteamento e links de dados
 ---
 ## YAML Ain't Markup Language (YAML)
 
-Autor: [Leonardo Pangaio][1] - Data:
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ### Descrição
 
