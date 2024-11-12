@@ -5,10 +5,12 @@ Glossário prático:
 - [ ] .gitignore
 - [ ] .net
 - [ ] 7z
+- [ ] acr
 - [ ] Active Directory
 - [ ] Activity diagram
 - [ ] AE_Title
 - [ ] Agile
+- [ ] AI
 - [ ] angular
 - [ ] ansible
 - [ ] apache
@@ -18,25 +20,33 @@ Glossário prático:
 - [ ] api rest
 - [ ] api soap
 - [ ] apm
+- [ ] appliance
 - [ ] apt
 - [ ] apt-get
 - [ ] argocd
 - [ ] arp-scan
 - [ ] arping
+- [ ] Ascii
 - [ ] asp
 - [ ] atm
 - [ ] aws
 - [ ] azure
+- [ ] B2B
+- [ ] B2C
 - [ ] backbone
 - [ ] backend
 - [ ] backup diferencial
 - [ ] backup full
 - [ ] backup incremental
+- [ ] banco não relacional
+- [ ] banco relacional
 - [ ] bandwidth
 - [ ] Bare Metal
 - [ ] base 64
 - [ ] bash
+- [ ] BDD (Behavior driven development)
 - [ ] bi
+- [ ] bigdata
 - [ ] bigip
 - [ ] BIOS
 - [ ] bitmap (bmp)
@@ -47,6 +57,7 @@ Glossário prático:
 - [ ] bpm
 - [ ] bpmn
 - [ ] Breach and Attack Simulation (BAS)
+- [ ] BSC
 - [ ] bsd
 - [ ] btop
 - [ ] bytes
@@ -54,8 +65,10 @@ Glossário prático:
 - [ ] c#
 - [ ] c++
 - [ ] callcenter
+- [ ] CAPEX
 - [ ] CCNA
 - [ ] cdn
+- [ ] Cdn
 - [ ] CEO
 - [ ] certificado digital
 - [ ] cfind
@@ -68,6 +81,8 @@ Glossário prático:
 - [ ] classes de IP
 - [ ] cli
 - [ ] cliper
+- [ ] clt
+- [ ] Cluster
 - [ ] Cluster
 - [ ] CMDB
 - [ ] CMO
@@ -83,6 +98,8 @@ Glossário prático:
 - [ ] container
 - [ ] controladora
 - [ ] COO
+- [ ] Cookies
+- [ ] Cors
 - [ ] cpu
 - [ ] cpu wait
 - [ ] criptografia
@@ -91,23 +108,35 @@ Glossário prático:
 - [ ] cronjob
 - [ ] CrowdStrike
 - [ ] crt
+- [ ] crt
 - [ ] csa
 - [ ] css
 - [ ] CTO
 - [ ] curl
 - [ ] cva
+- [ ] Cypress
 - [ ] daemon
+- [ ] Dart
 - [ ] Data briks
 - [ ] Data lake
+- [ ] Data lake
+- [ ] Data lakehouse
 - [ ] data science
+- [ ] Data wharehouse
 - [ ] Datadog
+- [ ] datascience
 - [ ] dccp
 - [ ] dd
+- [ ] Ddd (domain driven design)
+- [ ] DDD (Domain-Driven Design)
+- [ ] Ddos
+- [ ] Debug
 - [ ] delay
 - [ ] delete
 - [ ] DELL
 - [ ] delphi
 - [ ] Deployment diagram
+- [ ] Design patterns
 - [ ] devops
 - [ ] devsecops
 - [ ] df
@@ -120,18 +149,22 @@ Glossário prático:
 - [ ] docker
 - [ ] docker-compose.yml
 - [ ] Dockerfile
+- [ ] Dom (focument object model)
 - [ ] download
 - [ ] download latency
 - [ ] dpkg
 - [ ] drawio
+- [ ] Dsp (development staging and production)
 - [ ] Dynatrace
 - [ ] echo
 - [ ] ecma
 - [ ] ecn
+- [ ] eink
 - [ ] elasticksearch
 - [ ] elk
 - [ ] endpoint
 - [ ] engenheiro de dados
+- [ ] entidade relacionamento
 - [ ] entidade relacionamento
 - [ ] etherape
 - [ ] express
@@ -226,12 +259,14 @@ Glossário prático:
 - [ ] json
 - [ ] junit
 - [ ] jupter notebook
+- [ ] JVM
 - [ ] jwt
 - [ ] kanban
 - [ ] kerberos
 - [ ] kernel
 - [ ] key
 - [ ] knex.js
+- [ ] kotlin
 - [ ] kpi
 - [ ] ksar
 - [ ] kubernetes
@@ -242,12 +277,14 @@ Glossário prático:
 - [ ] latência
 - [ ] latência carregada
 - [ ] latência não carregada
+- [ ] lcd
 - [ ] lean
 - [ ] lean six sigma
 - [ ] lidar (radar por luz)
 - [ ] link
 - [ ] link agregate
 - [ ] link ativo-ativo
+- [ ] Lint
 - [ ] load
 - [ ] logica fuzzy
 - [ ] logstash
@@ -266,8 +303,10 @@ Glossário prático:
 - [ ] metricbeat
 - [ ] MiB
 - [ ] midleware
+- [ ] ML
 - [ ] mongodb
 - [ ] mount
+- [ ] MPI
 - [ ] mssp
 - [ ] mv
 - [ ] mysql
@@ -302,13 +341,16 @@ Glossário prático:
 - [ ] Object diagram
 - [ ] OCR
 - [ ] OCS Inventory
+- [ ] ODBC
 - [ ] okr
+- [ ] oled
 - [ ] onc
 - [ ] openshift
 - [ ] openssh
 - [ ] openssl
 - [ ] openstack
 - [ ] openvpn
+- [ ] OPEX
 - [ ] oracle
 - [ ] Orion
 - [ ] orthanc
@@ -369,6 +411,7 @@ Glossário prático:
 - [ ] ROM
 - [ ] roteamento
 - [ ] route
+- [ ] RPA
 - [ ] rpc
 - [ ] rpm
 - [ ] rsa
@@ -378,6 +421,7 @@ Glossário prático:
 - [ ] rtsp
 - [ ] rub on rails
 - [ ] rundec
+- [ ] rust
 - [ ] s3
 - [ ] SAFe
 - [ ] sap
@@ -386,6 +430,7 @@ Glossário prático:
 - [ ] SASE
 - [ ] sass
 - [ ] sata
+- [ ] scala
 - [ ] schema
 - [ ] script
 - [ ] scrum
@@ -400,7 +445,10 @@ Glossário prático:
 - [ ] Shadow image (contexto de backup)
 - [ ] shell
 - [ ] sip
+- [ ] SLA
 - [ ] slack
+- [ ] SLI
+- [ ] SLO
 - [ ] smem
 - [ ] sna
 - [ ] snap
@@ -425,14 +473,17 @@ Glossário prático:
 - [ ] swapoff
 - [ ] swapon
 - [ ] swapout
+- [ ] swift
 - [ ] switch
 - [ ] switch core
 - [ ] switch de acesso
+- [ ] tar
 - [ ] tar
 - [ ] tar.gz
 - [ ] taxa de transferência
 - [ ] tcpdump
 - [ ] tcping
+- [ ] TDD (Test-driven development)
 - [ ] telnet
 - [ ] terminal
 - [ ] terraform
@@ -454,6 +505,7 @@ Glossário prático:
 - [ ] tunnels
 - [ ] txt
 - [ ] typescript
+- [ ] typescript
 - [ ] ui
 - [ ] update
 - [ ] upload
@@ -466,6 +518,7 @@ Glossário prático:
 - [ ] uuid
 - [ ] ux
 - [ ] variaveis de performance de redes
+- [ ] VDI
 - [ ] venv
 - [ ] vhops
 - [ ] vi
@@ -489,6 +542,7 @@ Glossário prático:
 - [ ] wget
 - [ ] wifi
 - [ ] win1252
+- [ ] WIP
 - [ ] wireless
 - [ ] wireshark
 - [ ] wlan
@@ -505,88 +559,3 @@ Glossário prático:
 - [ ] zen
 - [ ] ZFS
 - [ ] zip
-- [X] arp
-- [X] bgp
-- [X] CaaS
-- [X] CAD
-- [X] cdc
-- [X] cifs
-- [X] csv
-- [X] dba
-- [X] dcl
-- [X] ddl
-- [X] dhcp
-- [X] dll
-- [X] dml
-- [X] dmz
-- [X] dns
-- [X] dql
-- [X] dtl
-- [X] erp
-- [X] ethernet
-- [X] etl
-- [X] fhir
-- [X] ftp
-- [X] FTPS
-- [X] ged
-- [X] GIS
-- [X] glbp
-- [X] hci
-- [X] hiperconvergente
-- [X] his
-- [X] hl7
-- [X] http
-- [X] https
-- [X] IaaS
-- [X] icmp
-- [X] iis
-- [X] imap (protocolo de e-mail)
-- [X] jumbo frame
-- [X] lan
-- [X] ldap
-- [X] lvm
-- [X] M&A
-- [X] MFA
-- [X] modelo osi
-- [X] mpls
-- [X] MQTT
-- [X] mtr
-- [X] mtu
-- [X] mvp
-- [X] NDA
-- [X] nfs
-- [X] nmap
-- [X] orm
-- [X] PaaS
-- [X] pep
-- [X] POP (protocolo de e-mail)
-- [X] rdp
-- [X] ris
-- [X] SaaS
-- [X] sadt
-- [X] samba
-- [X] scp
-- [X] sftp
-- [X] smb
-- [X] smtp
-- [X] snmp
-- [X] sre
-- [X] ssh
-- [X] ssl
-- [X] switch tor
-- [X] tcp
-- [X] tls
-- [X] ttl
-- [X] udp
-- [X] uml
-- [X] URI
-- [X] URL
-- [X] vba
-- [X] vbs
-- [X] vlan
-- [X] VNA
-- [X] vnc
-- [X] vpn
-- [X] wan
-- [X] xml
-- [X] yaml
