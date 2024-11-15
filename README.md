@@ -13,6 +13,8 @@ Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores,
 
 Artigo atualizado em: 2024-11-15 02:23:33 -0300
 
+Total de termos: XXX
+
 <!-- início glossário -->
 
 ---
