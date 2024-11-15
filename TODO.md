@@ -180,6 +180,7 @@ Glossário prático:
 - [ ] docker
 - [ ] docker-compose.yml
 - [ ] Dockerfile
+- [ ] Docstrings
 - [ ] Dom (focument object model)
 - [ ] download
 - [ ] download latency
@@ -641,6 +642,7 @@ Glossário prático:
 - [ ] tunnels
 - [ ] turnover
 - [ ] txt
+- [ ] Type Annotation
 - [ ] typescript
 - [ ] ui
 - [ ] update
