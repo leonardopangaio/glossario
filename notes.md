@@ -1,7 +1,3 @@
-css, html, ide, jdbc, json, jwt, kvm, gcp, kpi, IoT, IaC, okr, rfp, rsa, sdk e toml 
-
-
-
 Regex to find duplicate lines
 ^(.*)(\n\1)+$
 

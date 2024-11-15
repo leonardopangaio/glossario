@@ -45,7 +45,7 @@ jobs:
       # 6. Altera o valor de data e hora no readme.md
       - name: Set date and time on readme.md
         run: |
-          sed -i "s|Artigo atualizado em: .*|Artigo atualizado em: ${DataHora}|" README.md
+          sed -i "s|\*\*Artigo atualizado em:\*\* .*|\*\*Artigo atualizado em:\*\* ${DataHora}|" README.md
 
       # 7. Seta uma variável com a quantidade de termos
       - name: Set amount of docs
@@ -56,7 +56,7 @@ jobs:
       # 8. Altera o valor da quantidade de termos no readme.md
       - name: Set the amount of docs on readme.md
         run: |
-          sed -i "s|Total de termos: .*|Total de termos: ${MD_COUNT}|" README.md
+          sed -i "s|\*\*Total de termos:\*\* .*|\*\*Total de termos:\*\* ${MD_COUNT}|" README.md
 
       # 9. Preparando para commit e push
       - name: Configure git for pushing
