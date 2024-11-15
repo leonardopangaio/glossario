@@ -11,7 +11,7 @@ Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores,
 ![Watchers](https://img.shields.io/github/watchers/leonardopangaio/glossario.svg) - 
 ![Followers](https://img.shields.io/github/followers/leonardopangaio.svg?style=social&label=Follow&maxAge=2592000) -->
 
-Artigo atualizado em: XXX
+Artigo atualizado em: 2024-11-15 02:23:33 -0300
 
 <!-- início glossário -->
 
@@ -128,13 +128,13 @@ CSS é amplamente utilizado em conjunto com HTML e JavaScript para criar website
 
 ### Referências
 
-- [W3Schools about CSS](https://www.w3schools.com/css/css_intro.asp);
-- [MDN about CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS);
-- [Wikipedia about CSS](https://en.wikipedia.org/wiki/CSS);
-- [MDN about CSS (2)](https://developer.mozilla.org/en-US/docs/Web/CSS);
-- [GeeksForGeeks about CSS](https://www.geeksforgeeks.org/css-introduction/);
-- [Hostinger about CSS](https://www.hostinger.com/tutorials/what-is-css);
-- [Javatpoint about CSS](https://www.javatpoint.com/what-is-css);
+- [W3Schools sobre CSS](https://www.w3schools.com/css/css_intro.asp);
+- [MDN sobre CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS);
+- [Wikipedia sobre CSS](https://en.wikipedia.org/wiki/CSS);
+- [MDN sobre CSS (2)](https://developer.mozilla.org/en-US/docs/Web/CSS);
+- [GeeksForGeeks sobre CSS](https://www.geeksforgeeks.org/css-introduction/);
+- [Hostinger sobre CSS](https://www.hostinger.com/tutorials/what-is-css);
+- [Javatpoint sobre CSS](https://www.javatpoint.com/what-is-css);
 
 ---
 ## Change Data Capture (CDC)
@@ -657,9 +657,9 @@ O GCP oferece recursos que vão desde infraestrutura básica, como VMs e armazen
 ### Referências
 
 - [Google Cloud official website](https://cloud.google.com/docs/overview);
-- [Wikipedia about GCP](https://en.wikipedia.org/wiki/Google_Cloud_Platform);
-- [GeeksForGeeks about GCP](https://www.geeksforgeeks.org/google-cloud-platform-gcp/);
-- [Miro about GCP](https://miro.com/diagramming/what-is-google-cloud-platform/);
+- [Wikipedia sobre GCP](https://en.wikipedia.org/wiki/Google_Cloud_Platform);
+- [GeeksForGeeks sobre GCP](https://www.geeksforgeeks.org/google-cloud-platform-gcp/);
+- [Miro sobre GCP](https://miro.com/diagramming/what-is-google-cloud-platform/);
 
 ---
 ## Health Level Seven (HL7)
@@ -725,13 +725,13 @@ HTML é frequentemente utilizado junto com CSS e JavaScript para criar interface
 
 ### Referências
 
-- [W3Schools about HTML](https://www.w3schools.com/whatis/whatis_html.asp);
-- [GeeksForGeeks about HTML](https://www.geeksforgeeks.org/html-introduction/);
-- [Hostinger about HTML](https://www.hostinger.com/tutorials/what-is-html);
-- [W3Schools about HTML (2)](https://www.w3schools.com/html/html_intro.asp);
-- [Wikipedia about HTML](https://en.wikipedia.org/wiki/HTML);
-- [MDN about HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics);
-- [MDN about HTML (2)](https://developer.mozilla.org/en-US/docs/Web/HTML);
+- [W3Schools sobre HTML](https://www.w3schools.com/whatis/whatis_html.asp);
+- [GeeksForGeeks sobre HTML](https://www.geeksforgeeks.org/html-introduction/);
+- [Hostinger sobre HTML](https://www.hostinger.com/tutorials/what-is-html);
+- [W3Schools sobre HTML (2)](https://www.w3schools.com/html/html_intro.asp);
+- [Wikipedia sobre HTML](https://en.wikipedia.org/wiki/HTML);
+- [MDN sobre HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics);
+- [MDN sobre HTML (2)](https://developer.mozilla.org/en-US/docs/Web/HTML);
 
 ---
 ## Hypertext Transfer Protocol (HTTP)
@@ -774,6 +774,28 @@ A porta padrão do protocolo HTTPS é a porta 443.
 - [CloudFlare sobre HTTPS](https://www.cloudflare.com/pt-br/learning/ssl/what-is-https/);
 
 ---
+## Infrastructure as Code (IaC)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
+
+### Descrição
+
+*Infrastructure as Code (IaC)* é a prática de gerenciar e provisionar a infraestrutura de TI usando código, permitindo automatizar processos e gerenciar recursos de forma eficiente. Ferramentas como Terraform e Ansible facilitam a configuração, atualização e destruição de recursos em cloud e ambientes on-premises.
+
+IaC ajuda a tornar as operações mais ágeis e controladas, especialmente em ambientes de desenvolvimento e produção em nuvem.
+
+### Referências
+
+- [HP sobre IaC](https://www.hpe.com/br/en/what-is/infrastructure-as-code.html);
+- [Wikipedia sobre IaC](https://en.wikipedia.org/wiki/Infrastructure_as_code);
+- [RedHat sobre IaC](https://www.redhat.com/pt-br/topics/automation/what-is-infrastructure-as-code-iac);
+- [Amazon AWS sobre IaC](https://aws.amazon.com/pt/what-is/iac/);
+- [Microsoft Azure sobre IaC](https://learn.microsoft.com/pt-br/devops/deliver/what-is-infrastructure-as-code);
+- [ServiceNow sobre IaC](https://www.servicenow.com/br/products/devops/what-is-infrastructure-as-code.html);
+- [IBM sobre IaC](https://www.ibm.com/br-pt/topics/infrastructure-as-code);
+- [Atlassian sobre IaC](https://www.atlassian.com/br/microservices/cloud-computing/infrastructure-as-code);
+
+---
 ## Infrastructure as a Service (IaaS)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
@@ -807,12 +829,12 @@ Os IDEs facilitam a codificação ao oferecer recursos como autocompletar, suges
 
 ### Referências
 
-- [Amazon AWS about IDE](https://aws.amazon.com/what-is/ide/);
-- [Wikipedia about IDE](https://en.wikipedia.org/wiki/Integrated_development_environment);
-- [RedHat about IDE](https://www.redhat.com/en/topics/middleware/what-is-ide);
-- [CodeAcademy about IDE](https://www.codecademy.com/article/what-is-an-ide);
-- [GeeksForGeeks about IDE](https://www.geeksforgeeks.org/what-is-ide/);
-- [MongoDB about IDE](https://www.mongodb.com/resources/basics/what-is-an-ide);
+- [Amazon AWS sobre IDE](https://aws.amazon.com/what-is/ide/);
+- [Wikipedia sobre IDE](https://en.wikipedia.org/wiki/Integrated_development_environment);
+- [RedHat sobre IDE](https://www.redhat.com/en/topics/middleware/what-is-ide);
+- [CodeAcademy sobre IDE](https://www.codecademy.com/article/what-is-an-ide);
+- [GeeksForGeeks sobre IDE](https://www.geeksforgeeks.org/what-is-ide/);
+- [MongoDB sobre IDE](https://www.mongodb.com/resources/basics/what-is-an-ide);
 
 ---
 ## Internet Control Message Protocol (ICMP)
@@ -886,6 +908,30 @@ O IPv4 utiliza um sistema de endereçamento de 32 bits, o que resulta em cerca d
 - [CloudFlare sobre IP](https://www.cloudflare.com/pt-br/learning/network-layer/internet-protocol/);
 
 ---
+## Internet of Things (IoT)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
+
+### Descrição
+
+A *Internet of Things (IoT)* refere-se à rede de dispositivos físicos interconectados que podem coletar e trocar dados através da internet. A IoT abrange dispositivos como sensores, câmeras, termostatos e eletrodomésticos, que são capazes de comunicar dados entre si e com sistemas maiores.
+
+Esses dispositivos são amplamente utilizados em setores como agricultura, transporte e saúde, permitindo o monitoramento remoto e a automação de processos.
+
+### Referências
+
+- [IBM sobre IoT](https://www.ibm.com/topics/internet-of-things);
+- [Wikipedia sobre IoT](https://en.wikipedia.org/wiki/Internet_of_things);
+- [Oracle sobre IoT](https://www.oracle.com/internet-of-things/);
+- [HP sobre IoT](https://www.hpe.com/br/en/what-is/internet-of-things-iot.html);
+- [Amazon AWS sobre IoT](https://aws.amazon.com/what-is/iot/);
+- [CISCO sobre IoT](https://www.cisco.com/c/en/us/solutions/internet-of-things/what-is-iot.html);
+- [Kaspersky sobre IoT](https://www.kaspersky.com/resource-center/definitions/what-is-iot);
+- [SAP sobre IoT](https://www.sap.com/products/artificial-intelligence/what-is-iot.html);
+- [CNN sobre IoT](https://www.cnnbrasil.com.br/tecnologia/internet-das-coisas/);
+- [RedHat sobre IoT](https://www.redhat.com/pt-br/topics/internet-of-things/what-is-iot);
+
+---
 ## Interoperabilidade
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -918,11 +964,11 @@ Os JWTs são amplamente usados em sistemas de autenticação, onde podem ser tra
 ### Referências
 
 - [JWT official website](https://jwt.io/introduction);
-- [Wikipedia about JWT](https://en.wikipedia.org/wiki/JSON_Web_Token);
-- [Auth0 about JWT](https://auth0.com/docs/secure/tokens/json-web-tokens);
-- [Postman about JWT](https://blog.postman.com/what-is-jwt/);
-- [GeeksForGeeks about JWT](https://www.geeksforgeeks.org/json-web-token-jwt/);
-- [IBM about JWT](https://www.ibm.com/docs/en/cics-ts/6.x?topic=cics-json-web-token-jwt);
+- [Wikipedia sobre JWT](https://en.wikipedia.org/wiki/JSON_Web_Token);
+- [Auth0 sobre JWT](https://auth0.com/docs/secure/tokens/json-web-tokens);
+- [Postman sobre JWT](https://blog.postman.com/what-is-jwt/);
+- [GeeksForGeeks sobre JWT](https://www.geeksforgeeks.org/json-web-token-jwt/);
+- [IBM sobre JWT](https://www.ibm.com/docs/en/cics-ts/6.x?topic=cics-json-web-token-jwt);
 
 ---
 ## Java Database Connectivity (JDBC)
@@ -937,10 +983,10 @@ Com o JDBC, desenvolvedores podem criar aplicações que manipulam dados em base
 
 ### Referências
 
-- [Wikipedia about JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity);
-- [GeeksForGeeks about JDBC](https://www.geeksforgeeks.org/introduction-to-jdbc/);
-- [Oracle about JDBC](https://docs.oracle.com/javase/tutorial/jdbc/overview/index.html);
-- [Wikipedia about JDBC Driver](https://en.wikipedia.org/wiki/JDBC_driver);
+- [Wikipedia sobre JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity);
+- [GeeksForGeeks sobre JDBC](https://www.geeksforgeeks.org/introduction-to-jdbc/);
+- [Oracle sobre JDBC](https://docs.oracle.com/javase/tutorial/jdbc/overview/index.html);
+- [Wikipedia sobre JDBC Driver](https://en.wikipedia.org/wiki/JDBC_driver);
 
 ---
 ## JavaScript Object Notation (JSON)
@@ -955,13 +1001,13 @@ JSON suporta estruturas de dados simples como objetos e arrays, sendo amplamente
 
 ### Referências
 
-- [W3Schools about JSON](https://www.w3schools.com/whatis/whatis_json.asp);
-- [Wikipedia about JSON](https://en.wikipedia.org/wiki/JSON);
-- [Oracle about JSON](https://www.oracle.com/database/what-is-json/);
+- [W3Schools sobre JSON](https://www.w3schools.com/whatis/whatis_json.asp);
+- [Wikipedia sobre JSON](https://en.wikipedia.org/wiki/JSON);
+- [Oracle sobre JSON](https://www.oracle.com/database/what-is-json/);
 - [MDN aboutJSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON);
 - [JSON official website](https://www.json.org/json-en.html);
-- [MongoDB about JSON](https://www.mongodb.com/resources/languages/what-is-json);
-- [Amazon AWS about JSON](https://aws.amazon.com/pt/documentdb/what-is-json/);
+- [MongoDB sobre JSON](https://www.mongodb.com/resources/languages/what-is-json);
+- [Amazon AWS sobre JSON](https://aws.amazon.com/pt/documentdb/what-is-json/);
 
 ---
 ## Jumbo Frames
@@ -1002,6 +1048,24 @@ Com a adoção crescente de contêineres e ambientes virtualizados, o KVM é uma
 - [Hostinger sobre KVM](https://support.hostinger.com/pt/articles/6988144-o-que-e-virtualizacao-kvm);
 - [Amazon AWS sobre KVM](https://aws.amazon.com/pt/what-is/kvm/);
 - [Wikipedia sobre KVM](https://pt.wikipedia.org/wiki/Kernel-based_Virtual_Machine);
+
+---
+## Key Performance Indicator (KPI)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
+
+### Descrição
+
+*Key Performance Indicator (KPI)* são métricas utilizadas para avaliar a performance de uma empresa, equipe ou processo. Os KPIs são indicadores chave que ajudam a medir o progresso em direção a objetivos estratégicos específicos.
+
+Empresas utilizam KPIs para monitorar áreas como vendas, produtividade e satisfação do cliente, auxiliando na tomada de decisões informadas e no alcance das metas.
+
+### Referências
+
+- [KPI official website](https://www.kpi.org/kpi-basics/);
+- [Forbes sobre KPI](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/);
+- [Wikipedia sobre KPI](https://en.wikipedia.org/wiki/Performance_indicator);
+- [ServiceNow sobre KPI](https://www.servicenow.com/products/strategic-portfolio-management/what-is-kpi.html);
 
 ---
 ## Laboratory Information System (LIS)
@@ -1347,6 +1411,26 @@ Ferramentas ORM populares incluem Hibernate (para Java), Entity Framework (para 
 - [GeekForGeeks sobre ORM](https://www.geeksforgeeks.org/what-is-object-relational-mapping-orm-in-dbms/);
 
 ---
+## Objectives and Key Results (OKR)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
+
+### Descrição
+
+*Objectives and Key Results (OKR)* é uma metodologia de definição de objetivos e acompanhamento de resultados, muito utilizada para alinhar o foco de times em empresas. Composto de um objetivo claro e metas mensuráveis, o OKR ajuda a equipe a monitorar o progresso e ajustar os esforços para alcançar os resultados.
+
+Empresas de tecnologia e inovação, como Google, utilizam o OKR para alinhar as metas estratégicas de toda a organização.
+
+### Referências
+
+- [Wikipedia sobre OKR](https://en.wikipedia.org/wiki/Objectives_and_key_results);
+- [Forbes sobre OKR](https://www.forbes.com/advisor/business/what-is-an-okr-definition-examples/);
+- [Atlassian sobre OKR](https://www.atlassian.com/agile/agile-at-scale/okr);
+- [Miro sobre OKR](https://miro.com/strategic-planning/what-is-an-okr/);
+- [Zendesk sobre OKR](https://www.zendesk.com.br/blog/okr/#);
+- [Microsoft sobre OKR](https://www.microsoft.com/pt-br/microsoft-viva/what-is-okr-objective-key-results);
+
+---
 ## Open Systems Interconnection (OSI Model)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-06
@@ -1502,6 +1586,43 @@ O RDP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 33
 - [Microsoft sobre RDP](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol);
 - [Solarwinds sobre RDP](https://www.solarwinds.com/resources/it-glossary/remote-desktop-protocol);
 - [Fortinet sobre RDP](https://www.fortinet.com/resources/cyberglossary/remote-desktop-protocol);
+
+---
+## Request for Proposal (RFP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
+
+### Descrição
+
+Um *Request for Proposal (RFP)* é um documento emitido por uma empresa para convidar fornecedores a enviarem propostas de soluções para um projeto específico. Ele define os requisitos, escopo e critérios de seleção, sendo utilizado em processos de compras.
+
+O RFP é uma prática comum em projetos de TI, onde a empresa detalha suas necessidades e avalia as propostas para escolher a mais adequada.
+
+### Referências
+
+- [Wikipedia sobre RFP](https://en.wikipedia.org/wiki/Request_for_proposal);
+- [Adobe sobre RFP](https://www.adobe.com/acrobat/business/resources/rfp-meaning.html);
+- [Gartner sobre RFP](https://www.gartner.com/en/information-technology/glossary/request-proposal-rfp);
+- [Sankhya sobre RFP](https://www.sankhya.com.br/o-que-e-rfp/);
+- [MailChimp sobre RFP](https://mailchimp.com/pt-br/resources/rfq-vs-rfp/);
+
+---
+## Rivest-Shamir-Adleman (RSA)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
+
+### Descrição
+
+*Rivest-Shamir-Adleman (RSA)* é um algoritmo de criptografia assimétrica amplamente utilizado para garantir a segurança dos dados. Ele utiliza um par de chaves – pública e privada – para criptografar e descriptografar informações.
+
+O RSA é utilizado em várias aplicações de segurança, como certificados SSL/TLS e assinaturas digitais, por ser seguro e difícil de ser quebrado.
+
+### Referências
+
+- [TOTVS sobre RSA](https://www.totvs.com/blog/negocios/rsa/);
+- [Wikipedia sobre RSA (pt-br)](https://pt.wikipedia.org/wiki/RSA_(sistema_criptogr%C3%A1fico));
+- [GeeksForGeeks sobre RSA](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/);
+- [Wikipedia sobre RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem));
 
 ---
 ## Samba
@@ -1671,6 +1792,27 @@ O *Site Reliability Engineering (SRE)* é uma abordagem de engenharia de softwar
 - [Atlassian sobre SRE](https://www.atlassian.com/incident-management/devops/sre);
 
 ---
+## Software Development Kit (SDK)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
+
+### Descrição
+
+*Software Development Kit (SDK)* é um conjunto de ferramentas que permite aos desenvolvedores criar software para uma plataforma específica. O SDK inclui bibliotecas, exemplos de código, documentação, e ferramentas para facilitar o desenvolvimento.
+
+Os SDKs são fundamentais em várias plataformas, como Android e iOS, permitindo que os desenvolvedores criem aplicações e serviços específicos.
+
+### Referências
+
+- [IBM sobre SDK](https://www.ibm.com/think/topics/api-vs-sdk);
+- [Wikipedia sobre SDK](https://en.wikipedia.org/wiki/Software_development_kit);
+- [GeeksForGeeks sobre SDK](https://www.geeksforgeeks.org/what-is-software-development-kit-sdk/);
+- [Amazon AWS sobre SDK](https://aws.amazon.com/pt/what-is/sdk/);
+- [RedHat sobre SDK](https://www.redhat.com/pt-br/topics/cloud-native-apps/what-is-SDK);
+- [Amazon AWS sobre diferença entre SDK e API](https://aws.amazon.com/pt/compare/the-difference-between-sdk-and-api/);
+- [Zendesk sobre SDK](https://www.zendesk.com.br/blog/sdk-api/#);
+
+---
 ## Software as a Service (Saas)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
@@ -1775,6 +1917,23 @@ O TTL é uma característica presente na Camada 3 (Rede) do modelo OSI, onde é 
 - [Wikipedia sobre TTL](https://en.wikipedia.org/wiki/Time_to_live);
 - [Fortinet sobre TTL](https://www.fortinet.com/resources/cyberglossary/what-is-ttl);
 - [IBM sobre TTL](https://www.ibm.com/topics/time-to-live);
+
+---
+## Tom's Obvious, Minimal Language (TOML)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
+
+### Descrição
+
+*Tom's Obvious, Minimal Language (TOML)* é um formato de arquivo de configuração simples e legível, criado para facilitar a organização de dados de configuração em aplicações. TOML utiliza uma estrutura de chave-valor intuitiva, similar ao JSON e YAML.
+
+TOML é comumente utilizado em projetos Python e outras linguagens, por ser fácil de ler e editar, além de ter uma sintaxe clara e minimalista.
+
+### Referências
+
+- [Wikipedia sobre TOML (pt-br)](https://pt.wikipedia.org/wiki/TOML);
+- [Wikipedia sobre TOML](https://en.wikipedia.org/wiki/TOML);
+- [TOML official website](https://toml.io/en/);
 
 ---
 ## Transmission Control Protocol (TCP)
