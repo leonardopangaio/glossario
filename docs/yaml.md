@@ -10,7 +10,7 @@ Por sua simplicidade e suporte a listas e mapeamentos, YAML facilita o gerenciam
 
 ## Referências
 
-- [Wikipedia about YAML](https://en.wikipedia.org/wiki/YAML);
-- [RedHat about YAML](https://www.redhat.com/en/topics/automation/what-is-yaml);
-- [IBM about YAML](https://www.ibm.com/topics/yaml);
+- [Wikipedia sobre YAML](https://en.wikipedia.org/wiki/YAML);
+- [RedHat sobre YAML](https://www.redhat.com/en/topics/automation/what-is-yaml);
+- [IBM sobre YAML](https://www.ibm.com/topics/yaml);
 - [YAML official website](https://yaml.org/);

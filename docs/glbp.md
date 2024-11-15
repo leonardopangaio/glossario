@@ -10,6 +10,6 @@ No modelo OSI, o GLBP atua na Camada 3 (Rede), gerenciando o encaminhamento e o 
 
 ## Referências
 
-- [CISCO about GLBP](https://www.cisco.com/en/US/docs/ios/12_2t/12_2t15/feature/guide/ft_glbp.html);
-- [Wikipedia about GLBP](https://en.wikipedia.org/wiki/Gateway_Load_Balancing_Protocol);
-- [GeeksForGeeks about GLBP](https://www.geeksforgeeks.org/gateway-load-balancing-protocol-glbp/);
+- [CISCO sobre GLBP](https://www.cisco.com/en/US/docs/ios/12_2t/12_2t15/feature/guide/ft_glbp.html);
+- [Wikipedia sobre GLBP](https://en.wikipedia.org/wiki/Gateway_Load_Balancing_Protocol);
+- [GeeksForGeeks sobre GLBP](https://www.geeksforgeeks.org/gateway-load-balancing-protocol-glbp/);

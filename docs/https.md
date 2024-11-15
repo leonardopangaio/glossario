@@ -12,7 +12,7 @@ A porta padrão do protocolo HTTPS é a porta 443.
 
 ## Referências
 
-- [MDN Glossary about HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/HTTPS);
-- [Amazon AWS about the difference between HTTP and HTTPS](https://aws.amazon.com/pt/compare/the-difference-between-https-and-http/);
-- [Wikipedia about HTTPS](https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure);
-- [CloudFlare about HTTPS](https://www.cloudflare.com/pt-br/learning/ssl/what-is-https/);
+- [MDN Glossary sobre HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/HTTPS);
+- [Amazon AWS sobre the difference between HTTP and HTTPS](https://aws.amazon.com/pt/compare/the-difference-between-https-and-http/);
+- [Wikipedia sobre HTTPS](https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure);
+- [CloudFlare sobre HTTPS](https://www.cloudflare.com/pt-br/learning/ssl/what-is-https/);

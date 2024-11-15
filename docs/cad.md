@@ -10,5 +10,5 @@ Esses sistemas oferecem funcionalidades como edição precisa de geometria, visu
 
 ## Referências
 
-- [Wiki about CAD (pt-br)](https://pt.wikipedia.org/wiki/Desenho_assistido_por_computador);
-- [Wiki about CAD](https://en.wikipedia.org/wiki/Computer-aided_design);
+- [Wikipedia sobre CAD (pt-br)](https://pt.wikipedia.org/wiki/Desenho_assistido_por_computador);
+- [Wikipedia sobre CAD](https://en.wikipedia.org/wiki/Computer-aided_design);

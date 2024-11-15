@@ -10,8 +10,8 @@ A DLL permite que os desenvolvedores compartilhem código entre programas, facil
 
 ## Referências
 
-- [Wikipedia about DLL (pt-br)](https://pt.wikipedia.org/wiki/DLL);
-- [Wikipedia about DLL](https://en.wikipedia.org/wiki/Dynamic-link_library);
-- [Lenovo about DLL](https://www.lenovo.com/in/en/glossary/dynamic-link-library/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopkYkxhNTImE3Je5cXh1nx9lZ9CONmEy20SR2Mhxvpnd4q1xAAF);
-- [Indeed about DLL](https://www.indeed.com/career-advice/career-development/what-is-dll-file);
-- [Microsoft about DLL](https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/dynamic-link-library);
+- [Wikipedia sobre DLL (pt-br)](https://pt.wikipedia.org/wiki/DLL);
+- [Wikipedia sobre DLL](https://en.wikipedia.org/wiki/Dynamic-link_library);
+- [Lenovo sobre DLL](https://www.lenovo.com/in/en/glossary/dynamic-link-library/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopkYkxhNTImE3Je5cXh1nx9lZ9CONmEy20SR2Mhxvpnd4q1xAAF);
+- [Indeed sobre DLL](https://www.indeed.com/career-advice/career-development/what-is-dll-file);
+- [Microsoft sobre DLL](https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/dynamic-link-library);

@@ -10,8 +10,8 @@ A interoperabilidade é vital para integrar dados de várias fontes e possibilit
 
 ## Referências
 
-- [Wikipedia about Interoperability](https://pt.wikipedia.org/wiki/Interoperabilidade);
-- [Amazon AWS about Interoperability](https://aws.amazon.com/pt/what-is/interoperability/);
-- [Sankhya about Interoperability](https://www.sankhya.com.br/blog/interoperabilidade/);
-- [TOTVS about Interoperability](https://www.totvs.com/blog/instituicoes-de-saude/interoperabilidade-na-saude/);
-- [GOV.BR about Interoperability](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/interoperabilidade/copy_of_interoperabilidade);
+- [Wikipedia sobre Interoperability](https://pt.wikipedia.org/wiki/Interoperabilidade);
+- [Amazon AWS sobre Interoperability](https://aws.amazon.com/pt/what-is/interoperability/);
+- [Sankhya sobre Interoperability](https://www.sankhya.com.br/blog/interoperabilidade/);
+- [TOTVS sobre Interoperability](https://www.totvs.com/blog/instituicoes-de-saude/interoperabilidade-na-saude/);
+- [GOV.BR sobre Interoperability](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/interoperabilidade/copy_of_interoperabilidade);

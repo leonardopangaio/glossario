@@ -10,7 +10,7 @@ Ferramentas SAST populares incluem SonarQube, Checkmarx e Veracode, que ajudam a
 
 ## Referências
 
-- [Wikipedia about SAST](https://en.wikipedia.org/wiki/Static_application_security_testing);
-- [Sonar about SAST](https://www.sonarsource.com/learn/sast/);
-- [Gartner Glossary about SAST](https://www.gartner.com/en/information-technology/glossary/static-application-security-testing-sast);
-- [Opentext about SAST](https://www.opentext.com/pt-br/o-que-e/sast);
+- [Wikipedia sobre SAST](https://en.wikipedia.org/wiki/Static_application_security_testing);
+- [Sonar sobre SAST](https://www.sonarsource.com/learn/sast/);
+- [Gartner Glossary sobre SAST](https://www.gartner.com/en/information-technology/glossary/static-application-security-testing-sast);
+- [Opentext sobre SAST](https://www.opentext.com/pt-br/o-que-e/sast);

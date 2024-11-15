@@ -10,6 +10,6 @@ O HL7 é composto por várias versões e tipos de mensagens, e cada uma é desti
 
 ## Referências
 
-- [Wikipedia about HL7 (pt-br)](https://pt.wikipedia.org/wiki/Health_Level_7);
-- [Wikipedia about HL7](https://en.wikipedia.org/wiki/Health_Level_7);
+- [Wikipedia sobre HL7 (pt-br)](https://pt.wikipedia.org/wiki/Health_Level_7);
+- [Wikipedia sobre HL7](https://en.wikipedia.org/wiki/Health_Level_7);
 - [Official HL7 website](https://www.hl7.org/);

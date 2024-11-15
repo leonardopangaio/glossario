@@ -10,9 +10,9 @@ LDAP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 389
 
 ## Referências
 
-- [Okta about LDAP](https://www.okta.com/identity-101/what-is-ldap/);
-- [Wikipedia about LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol);
-- [RedHat about LDAP](https://www.redhat.com/en/topics/security/what-is-ldap-authentication);
-- [IBM about LDAP](https://www.ibm.com/docs/en/zos/3.1.0?topic=server-what-is-ldap);
-- [Microsoft about LDAP](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ldap/lightweight-directory-access-protocol-ldap-api);
-- [Fortinet about LDAP](https://www.fortinet.com/resources/cyberglossary/ldap-authentication);
+- [Okta sobre LDAP](https://www.okta.com/identity-101/what-is-ldap/);
+- [Wikipedia sobre LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol);
+- [RedHat sobre LDAP](https://www.redhat.com/en/topics/security/what-is-ldap-authentication);
+- [IBM sobre LDAP](https://www.ibm.com/docs/en/zos/3.1.0?topic=server-what-is-ldap);
+- [Microsoft sobre LDAP](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ldap/lightweight-directory-access-protocol-ldap-api);
+- [Fortinet sobre LDAP](https://www.fortinet.com/resources/cyberglossary/ldap-authentication);

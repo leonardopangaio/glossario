@@ -4,8 +4,8 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "docs/*.md"  # Qualquer mudança em .md na pasta docs
+    # paths:
+    #   - "docs/*.md"  # Qualquer mudança em .md na pasta docs
   workflow_dispatch:  # Permite rodar manualmente, se desejar
 
 jobs:
@@ -35,7 +35,20 @@ jobs:
         run: |
           python3 bin/generate_glossary.py  
 
-      # 5. Preparando para commit e push
+      # 5. Seta uma variável com data e hora
+      - name: Set date and time
+        id: datetime
+        run: |
+          export TZ=America/Sao_Paulo
+          DataHora=$(date "+%Y-%m-%d %H:%M:%S %z")
+          echo "DataHora=${DataHora}" >> $GITHUB_ENV
+      
+      # 6. Altera o valor de data e hora no readme.md
+      - name: Set date and time on readme.md
+        run: |
+          sed -i "s|Artigo atualizado em: .*|Artigo atualizado em: ${DataHora}|" README.md
+
+      # 7. Preparando para commit e push
       - name: Configure git for pushing
         run: |
           git config --global user.name "github-actions[bot]"
@@ -43,12 +56,12 @@ jobs:
           git remote set-url origin "https://${{ secrets.GH_TOKEN }}@github.com/leonardopangaio/glossario.git"
           git add README.md
 
-      # 6. Verificar arquivos adicionados (debug)
+      # 8. Verificar arquivos adicionados (debug)
       - name: Listar arquivos preparados para commit
         run: |
           git status
 
-      # 7. Commit e push, se houver mudanças
+      # 9. Commit e push, se houver mudanças
       - name: Commit and push changes
         run: |
           git commit -m "Atualização automática do índice no README.md" || echo "Nenhuma mudança para commit"

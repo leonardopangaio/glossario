@@ -10,5 +10,5 @@ Através de sua interface gráfica, o Mirth facilita o mapeamento de dados e a c
 
 ## Referências
 
-- [Wikipedia about Mirth](https://en.wikipedia.org/wiki/Mirth_Connect);
+- [Wikipedia sobre Mirth](https://en.wikipedia.org/wiki/Mirth_Connect);
 - [Mirth e-book](https://www.nextgen.com/-/media/DAM/Collateral/E-Books/CH_FundamentalBuildingBlocksofInterop_Ebook.pdf);

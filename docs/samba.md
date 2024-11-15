@@ -11,7 +11,7 @@ SAMBA é amplamente utilizado em ambientes empresariais para integrar redes base
 ## Referências
 
 - [Samba official website](https://www.samba.org/samba/what_is_samba.html);
-- [University of Pennsilvania about Samba](https://cets.seas.upenn.edu/answers/samba.html);
-- [RedHat about Samba](https://www.redhat.com/en/blog/getting-started-samba);
-- [Ubuntu about Samba](https://ubuntu.com/server/docs/introduction-to-samba);
-- [Wikipedia about Samba](https://en.wikipedia.org/wiki/Samba_(software));
+- [University of Pennsilvania sobre Samba](https://cets.seas.upenn.edu/answers/samba.html);
+- [RedHat sobre Samba](https://www.redhat.com/en/blog/getting-started-samba);
+- [Ubuntu sobre Samba](https://ubuntu.com/server/docs/introduction-to-samba);
+- [Wikipedia sobre Samba](https://en.wikipedia.org/wiki/Samba_(software));

@@ -10,8 +10,8 @@ Embora o CIFS tenha sido amplamente utilizado em redes locais, o SMB mais modern
 
 ## Referências
 
-- [Wikipedia about SMB](https://pt.wikipedia.org/wiki/Server_Message_Block);
-- [F5 Glossary about CIFS](https://www.f5.com/pt_br/glossary/cifs-smb);
-- [GeeksForGeeks about CIFS](https://www.geeksforgeeks.org/what-is-cifs-common-internet-file-system/);
-- [Amazon AWS about the difference between CIFS and NFS](https://aws.amazon.com/pt/compare/the-difference-between-nfs-and-cifs/);
-- [Lenovo about CIFS](https://www.lenovo.com/us/en/glossary/what-is-common-internet-file-system-cifs/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoquJ-4XD39N68vDzYqropme-52PQ_JzVRuVU1Yk1bpu1jhcpi_A);
+- [Wikipedia sobre SMB](https://pt.wikipedia.org/wiki/Server_Message_Block);
+- [F5 Glossary sobre CIFS](https://www.f5.com/pt_br/glossary/cifs-smb);
+- [GeeksForGeeks sobre CIFS](https://www.geeksforgeeks.org/what-is-cifs-common-internet-file-system/);
+- [Amazon AWS sobre the difference between CIFS and NFS](https://aws.amazon.com/pt/compare/the-difference-between-nfs-and-cifs/);
+- [Lenovo sobre CIFS](https://www.lenovo.com/us/en/glossary/what-is-common-internet-file-system-cifs/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoquJ-4XD39N68vDzYqropme-52PQ_JzVRuVU1Yk1bpu1jhcpi_A);

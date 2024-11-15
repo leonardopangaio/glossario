@@ -10,8 +10,8 @@ Por exemplo, a URI `http://example.com/page` indica tanto o protocolo quanto a l
 
 ## Referências
 
-- [Hostinger about the difference between URI and URL (pt-br)](https://www.hostinger.com.br/tutoriais/uri-e-url);
-- [Wikipedia about URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier);
-- [MDN about URI](https://developer.mozilla.org/en-US/docs/Web/URI);
-- [Wikipedia about URI (pt-br)](https://pt.wikipedia.org/wiki/URI);
-- [Hostinger about the difference between URI and URL](https://www.hostinger.com/tutorials/uri-vs-url);
+- [Hostinger sobre the difference between URI and URL (pt-br)](https://www.hostinger.com.br/tutoriais/uri-e-url);
+- [Wikipedia sobre URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier);
+- [MDN sobre URI](https://developer.mozilla.org/en-US/docs/Web/URI);
+- [Wikipedia sobre URI (pt-br)](https://pt.wikipedia.org/wiki/URI);
+- [Hostinger sobre the difference between URI and URL](https://www.hostinger.com/tutorials/uri-vs-url);

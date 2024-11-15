@@ -10,5 +10,5 @@ No contexto de automação, o VBScript permite que administradores de sistemas W
 
 ## Referências
 
-- [Wikipedia about VBScript](https://en.wikipedia.org/wiki/VBScript);
-- [GeeksForGeeks about VBScript](https://www.geeksforgeeks.org/vbscript-introduction/);
+- [Wikipedia sobre VBScript](https://en.wikipedia.org/wiki/VBScript);
+- [GeeksForGeeks sobre VBScript](https://www.geeksforgeeks.org/vbscript-introduction/);

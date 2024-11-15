@@ -10,11 +10,11 @@ NoSQL é comumente utilizado em aplicações modernas e sistemas distribuídos, 
 
 ## Referências
 
-- [MongoDB about NoSQL](https://www.mongodb.com/resources/basics/databases/nosql-explained);
-- [Wikipedia about NoSQL](https://en.wikipedia.org/wiki/NoSQL);
-- [IBM about NoSQL](https://www.ibm.com/topics/nosql-databases);
-- [Google Cloud about NoSQL](https://cloud.google.com/discover/what-is-nosql?hl=pt_br);
-- [Amazon AWS about NoSQL](https://aws.amazon.com/pt/nosql/);
-- [GeeksForGeeks about NoSQL](https://www.geeksforgeeks.org/introduction-to-nosql/);
-- [Oracle about NoSQL](https://www.oracle.com/database/nosql/what-is-nosql/);
-- [Microsoft Azure about NoSQL](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-nosql-database);
+- [MongoDB sobre NoSQL](https://www.mongodb.com/resources/basics/databases/nosql-explained);
+- [Wikipedia sobre NoSQL](https://en.wikipedia.org/wiki/NoSQL);
+- [IBM sobre NoSQL](https://www.ibm.com/topics/nosql-databases);
+- [Google Cloud sobre NoSQL](https://cloud.google.com/discover/what-is-nosql?hl=pt_br);
+- [Amazon AWS sobre NoSQL](https://aws.amazon.com/pt/nosql/);
+- [GeeksForGeeks sobre NoSQL](https://www.geeksforgeeks.org/introduction-to-nosql/);
+- [Oracle sobre NoSQL](https://www.oracle.com/database/nosql/what-is-nosql/);
+- [Microsoft Azure sobre NoSQL](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-nosql-database);

@@ -2,3 +2,11 @@ css, html, ide, jdbc, json, jwt, kvm, gcp, kpi, IoT, IaC, okr, rfp, rsa, sdk e t
 
 
 
+Regex to find duplicate lines
+^(.*)(\n\1)+$
+
+Regex to find about on link blocks
+(\[\s*.*\s+)(about)(\s+.*\s*\])
+
+Regex to overwrite the about
+$1sobre$3

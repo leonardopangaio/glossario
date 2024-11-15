@@ -8,10 +8,10 @@ O *Software as a Service (Saas)* é um modelo de computação em nuvem onde o so
 
 ## Referências
 
-- [Microsoft Azure about SaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas);
-- [Salesforce about SaaS](https://www.salesforce.com/saas/);
-- [Wikipedia about SaaS](https://en.wikipedia.org/wiki/Software_as_a_service);
-- [Amazon AWS about SaaS](https://aws.amazon.com/what-is/saas/);
-- [IBM about SaaS](https://www.ibm.com/topics/saas);
-- [Cloudflare about SaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-saas/);
-- [Oracla about SaaS](https://www.oracle.com/ng/applications/what-is-saas/);
+- [Microsoft Azure sobre SaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas);
+- [Salesforce sobre SaaS](https://www.salesforce.com/saas/);
+- [Wikipedia sobre SaaS](https://en.wikipedia.org/wiki/Software_as_a_service);
+- [Amazon AWS sobre SaaS](https://aws.amazon.com/what-is/saas/);
+- [IBM sobre SaaS](https://www.ibm.com/topics/saas);
+- [Cloudflare sobre SaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-saas/);
+- [Oracla sobre SaaS](https://www.oracle.com/ng/applications/what-is-saas/);

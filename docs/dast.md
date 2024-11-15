@@ -10,9 +10,9 @@ Ferramentas DAST populares incluem OWASP ZAP, Burp Suite e Acunetix, que oferece
 
 ## Referências
 
-- [Opentext about DAST](https://www.opentext.com/pt-br/o-que-e/dast);
-- [Wikipedia about DAST](https://en.wikipedia.org/wiki/Dynamic_application_security_testing);
-- [IBM about DAST](https://www.ibm.com/topics/dynamic-application-security-testing);
-- [Circleci about DAST](https://circleci.com/blog/sast-vs-dast-when-to-use-them/);
-- [Sonar about DAST](https://www.sonatype.com/resources/articles/what-is-dast);
-- [Check Point about DAST](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-dynamic-application-security-testing-dast/);
+- [Opentext sobre DAST](https://www.opentext.com/pt-br/o-que-e/dast);
+- [Wikipedia sobre DAST](https://en.wikipedia.org/wiki/Dynamic_application_security_testing);
+- [IBM sobre DAST](https://www.ibm.com/topics/dynamic-application-security-testing);
+- [Circleci sobre DAST](https://circleci.com/blog/sast-vs-dast-when-to-use-them/);
+- [Sonar sobre DAST](https://www.sonatype.com/resources/articles/what-is-dast);
+- [Check Point sobre DAST](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-dynamic-application-security-testing-dast/);

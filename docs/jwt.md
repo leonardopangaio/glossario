@@ -11,8 +11,8 @@ Os JWTs são amplamente usados em sistemas de autenticação, onde podem ser tra
 ## Referências
 
 - [JWT official website](https://jwt.io/introduction);
-- [Wikipedia about JWT](https://en.wikipedia.org/wiki/JSON_Web_Token);
-- [Auth0 about JWT](https://auth0.com/docs/secure/tokens/json-web-tokens);
-- [Postman about JWT](https://blog.postman.com/what-is-jwt/);
-- [GeeksForGeeks about JWT](https://www.geeksforgeeks.org/json-web-token-jwt/);
-- [IBM about JWT](https://www.ibm.com/docs/en/cics-ts/6.x?topic=cics-json-web-token-jwt);
+- [Wikipedia sobre JWT](https://en.wikipedia.org/wiki/JSON_Web_Token);
+- [Auth0 sobre JWT](https://auth0.com/docs/secure/tokens/json-web-tokens);
+- [Postman sobre JWT](https://blog.postman.com/what-is-jwt/);
+- [GeeksForGeeks sobre JWT](https://www.geeksforgeeks.org/json-web-token-jwt/);
+- [IBM sobre JWT](https://www.ibm.com/docs/en/cics-ts/6.x?topic=cics-json-web-token-jwt);

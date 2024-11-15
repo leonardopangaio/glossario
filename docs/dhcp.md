@@ -10,9 +10,9 @@ O DHCP utiliza as portas UDP 67 (servidor) e 68 (cliente) e é essencial para re
 
 ## Referências
 
-- [Microsoft about DHCP](https://learn.microsoft.com/pt-br/windows-server/networking/technologies/dhcp/dhcp-top);
-- [Wikipedia about DHCP (pt-br)](https://pt.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
-- [NordVPN about DHCP](https://nordvpn.com/pt-br/blog/o-que-e-dhcp/);
-- [Wikipedia about DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
-- [Fortinet about DHCP](https://www.fortinet.com/br/resources/cyberglossary/dynamic-host-configuration-protocol-dhcp);
-- [GeeksForGeeks about DHCP](https://www.geeksforgeeks.org/dynamic-host-configuration-protocol-dhcp/);
+- [Microsoft sobre DHCP](https://learn.microsoft.com/pt-br/windows-server/networking/technologies/dhcp/dhcp-top);
+- [Wikipedia sobre DHCP (pt-br)](https://pt.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
+- [NordVPN sobre DHCP](https://nordvpn.com/pt-br/blog/o-que-e-dhcp/);
+- [Wikipedia sobre DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
+- [Fortinet sobre DHCP](https://www.fortinet.com/br/resources/cyberglossary/dynamic-host-configuration-protocol-dhcp);
+- [GeeksForGeeks sobre DHCP](https://www.geeksforgeeks.org/dynamic-host-configuration-protocol-dhcp/);

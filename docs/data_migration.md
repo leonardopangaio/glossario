@@ -10,7 +10,7 @@ Durante a migração de dados, é comum realizar mapeamento de dados e testes ex
 
 ## Referências
 
-- [Microsoft Azure about Data Migration](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-data-migration);
-- [IBM about Data Migration](https://www.ibm.com/topics/data-migration);
-- [Netapp about Data Migration](https://www.netapp.com/data-management/what-is-data-migration/);
-- [Wikipedia about Data Migration](https://en.wikipedia.org/wiki/Data_migration);
+- [Microsoft Azure sobre Data Migration](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-data-migration);
+- [IBM sobre Data Migration](https://www.ibm.com/topics/data-migration);
+- [Netapp sobre Data Migration](https://www.netapp.com/data-management/what-is-data-migration/);
+- [Wikipedia sobre Data Migration](https://en.wikipedia.org/wiki/Data_migration);

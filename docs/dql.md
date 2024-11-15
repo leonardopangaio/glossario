@@ -10,6 +10,6 @@ A DQL é fundamental para recuperar informações do banco de dados sem alterar 
 
 ## Referências
 
-- [DIO about DQL](https://www.dio.me/articles/dql-data-query-language);
-- [Wikipedia about DQL](https://en.wikipedia.org/wiki/Data_query_language);
-- [GeekForGeeks about DQL](https://www.geeksforgeeks.org/dql-full-form/);
+- [DIO sobre DQL](https://www.dio.me/articles/dql-data-query-language);
+- [Wikipedia sobre DQL](https://en.wikipedia.org/wiki/Data_query_language);
+- [GeekForGeeks sobre DQL](https://www.geeksforgeeks.org/dql-full-form/);

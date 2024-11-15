@@ -10,8 +10,8 @@ O MTR não se enquadra diretamente no modelo OSI, mas sua função está associa
 
 ## Referências
 
-- [Cloudflare about MTR](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtr/);
-- [Wikipedia about MTR](https://en.wikipedia.org/wiki/MTR_(software));
+- [Cloudflare sobre MTR](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtr/);
+- [Wikipedia sobre MTR](https://en.wikipedia.org/wiki/MTR_(software));
 - [Oracle man of MTR](https://docs.oracle.com/cd/E88353_01/html/E72487/mtr-8.html);
 - [RedHat how to use MTR](https://www.redhat.com/en/blog/linux-mtr-command);
 - [Die man of MTR](https://linux.die.net/man/8/mtr);

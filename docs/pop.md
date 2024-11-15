@@ -10,7 +10,7 @@ O POP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 11
 
 ## Referências
 
-- [Wikipedia about POP](https://en.wikipedia.org/wiki/Post_Office_Protocol);
-- [Wikipedia about POP (pt-br)](https://pt.wikipedia.org/wiki/Post_Office_Protocol);
-- [Javatpoint about POP](https://www.javatpoint.com/pop-protocol);
-- [GeeksForGeeks about POP](https://www.geeksforgeeks.org/what-is-pop3-post-office-protocol-version-3/);
+- [Wikipedia sobre POP](https://en.wikipedia.org/wiki/Post_Office_Protocol);
+- [Wikipedia sobre POP (pt-br)](https://pt.wikipedia.org/wiki/Post_Office_Protocol);
+- [Javatpoint sobre POP](https://www.javatpoint.com/pop-protocol);
+- [GeeksForGeeks sobre POP](https://www.geeksforgeeks.org/what-is-pop3-post-office-protocol-version-3/);

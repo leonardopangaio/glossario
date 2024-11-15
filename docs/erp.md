@@ -10,8 +10,8 @@ As soluções ERP, como SAP, Oracle e Microsoft Dynamics, são amplamente utiliz
 
 ## Referências
 
-- [SAP about ERP](https://www.sap.com/brazil/products/erp/what-is-erp.html#:~:text=O%20planejamento%20de%20recursos%20empresariais,servi%C3%A7os%2C%20procurement%20e%20muito%20mais.);
-- [TOTVS about ERP](https://www.totvs.com/blog/erp/o-que-e-erp/);
-- [Oracle about ERP](https://www.oracle.com/br/erp/what-is-erp/);
-- [Wikipedia about ERP](https://pt.wikipedia.org/wiki/Sistema_integrado_de_gest%C3%A3o_empresarial);
-- [Sankhia about ERP](https://www.sankhya.com.br/erp/);
+- [SAP sobre ERP](https://www.sap.com/brazil/products/erp/what-is-erp.html#:~:text=O%20planejamento%20de%20recursos%20empresariais,servi%C3%A7os%2C%20procurement%20e%20muito%20mais.);
+- [TOTVS sobre ERP](https://www.totvs.com/blog/erp/o-que-e-erp/);
+- [Oracle sobre ERP](https://www.oracle.com/br/erp/what-is-erp/);
+- [Wikipedia sobre ERP](https://pt.wikipedia.org/wiki/Sistema_integrado_de_gest%C3%A3o_empresarial);
+- [Sankhia sobre ERP](https://www.sankhya.com.br/erp/);

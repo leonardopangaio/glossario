@@ -10,5 +10,5 @@ Em ambientes de saúde, o VNA facilita o armazenamento centralizado de imagens m
 
 ## Referências
 
-- [Wikipedia about VNA](https://en.wikipedia.org/wiki/Vendor_Neutral_Archive);
-- [Intelerad about VNA](https://www.intelerad.com/en/2023/04/20/what-is-vendor-neutral-archive/);
+- [Wikipedia sobre VNA](https://en.wikipedia.org/wiki/Vendor_Neutral_Archive);
+- [Intelerad sobre VNA](https://www.intelerad.com/en/2023/04/20/what-is-vendor-neutral-archive/);

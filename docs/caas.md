@@ -10,10 +10,10 @@ Ao usar CaaS, os desenvolvedores conseguem configurar, escalar e gerenciar contÃ
 
 ## ReferÃªncias
 
-- [IBM about CaaS](https://www.ibm.com/br-pt/topics/containers-as-a-service);
-- [RedHat about CaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-caas);
-- [Atlassian about CaaS](https://www.atlassian.com/br/microservices/cloud-computing/containers-as-a-service);
-- [Checkpoint about CaaS](https://www.checkpoint.com/pt/cyber-hub/cloud-security/what-is-container-security/what-is-container-as-a-service-caas/);
-- [HP about CaaS](https://www.hpe.com/us/en/what-is/caas.html);
-- [DIO about difference between types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-entendendo-os-diferentes-modelos-de-computacao-em-nuvem-em-um-mundo-multi-cloud);
-- [DIO about different types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-conceitos-exemplos-e-diferencas);
+- [IBM sobre CaaS](https://www.ibm.com/br-pt/topics/containers-as-a-service);
+- [RedHat sobre CaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-caas);
+- [Atlassian sobre CaaS](https://www.atlassian.com/br/microservices/cloud-computing/containers-as-a-service);
+- [Checkpoint sobre CaaS](https://www.checkpoint.com/pt/cyber-hub/cloud-security/what-is-container-security/what-is-container-as-a-service-caas/);
+- [HP sobre CaaS](https://www.hpe.com/us/en/what-is/caas.html);
+- [DIO sobre difference between types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-entendendo-os-diferentes-modelos-de-computacao-em-nuvem-em-um-mundo-multi-cloud);
+- [DIO sobre different types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-conceitos-exemplos-e-diferencas);

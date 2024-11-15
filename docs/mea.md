@@ -10,6 +10,6 @@ As fusões geralmente envolvem empresas que se combinam em uma nova organizaçã
 
 ## Referências
 
-- [Wikipedia about M&A (pt-br)](https://pt.wikipedia.org/wiki/Fus%C3%B5es_e_aquisi%C3%A7%C3%B5es);
-- [FIA about M&A](https://fia.com.br/blog/ma-o-que-e-tipos-exemplos-e-etapas-do-processo/);
-- [Wikipedia about M&A](https://en.wikipedia.org/wiki/Mergers_and_acquisitions);
+- [Wikipedia sobre M&A (pt-br)](https://pt.wikipedia.org/wiki/Fus%C3%B5es_e_aquisi%C3%A7%C3%B5es);
+- [FIA sobre M&A](https://fia.com.br/blog/ma-o-que-e-tipos-exemplos-e-etapas-do-processo/);
+- [Wikipedia sobre M&A](https://en.wikipedia.org/wiki/Mergers_and_acquisitions);

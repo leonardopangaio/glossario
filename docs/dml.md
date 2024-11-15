@@ -10,5 +10,5 @@ A DML é o núcleo da interação com os dados armazenados e é essencial para o
 
 ## Referências
 
-- [Wikipedia about DML](https://en.wikipedia.org/wiki/Data_manipulation_language);
-- [GeeksForGeeks about DML](https://www.geeksforgeeks.org/dml-full-form/);
+- [Wikipedia sobre DML](https://en.wikipedia.org/wiki/Data_manipulation_language);
+- [GeeksForGeeks sobre DML](https://www.geeksforgeeks.org/dml-full-form/);

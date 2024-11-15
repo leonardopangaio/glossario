@@ -12,5 +12,5 @@ O *Change Data Capture (CDC)* é uma funcionalidade do *Microsoft SQL Server* qu
 
 ## Referências
 
-- [Wikipedia about CDC](https://en.wikipedia.org/wiki/Change_data_capture);
-- [Microsoft about CDC](https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver16);
+- [Wikipedia sobre CDC](https://en.wikipedia.org/wiki/Change_data_capture);
+- [Microsoft sobre CDC](https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver16);

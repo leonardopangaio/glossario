@@ -10,10 +10,10 @@ Com diversos tipos de diagramas, como de classes, sequência, caso de uso e ativ
 
 ## Referências
 
-- [Wikipedia about UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language);
-- [Lucidchart about UML](https://www.lucidchart.com/pages/what-is-UML-unified-modeling-language);
-- [GeeksForGeeks about UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/);
+- [Wikipedia sobre UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language);
+- [Lucidchart sobre UML](https://www.lucidchart.com/pages/what-is-UML-unified-modeling-language);
+- [GeeksForGeeks sobre UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/);
 - [UML official website](https://www.uml.org/what-is-uml.htm);
-- [Miro about UML](https://miro.com/diagramming/what-is-a-uml-diagram/);
-- [IBM about UML](https://developer.ibm.com/articles/an-introduction-to-uml/);
-- [Indeed about UML](https://www.indeed.com/career-advice/career-development/what-is-uml);
+- [Miro sobre UML](https://miro.com/diagramming/what-is-a-uml-diagram/);
+- [IBM sobre UML](https://developer.ibm.com/articles/an-introduction-to-uml/);
+- [Indeed sobre UML](https://www.indeed.com/career-advice/career-development/what-is-uml);

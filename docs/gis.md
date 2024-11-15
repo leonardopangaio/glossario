@@ -10,9 +10,9 @@ Os GIS podem ser usados para diversas finalidades, desde o mapeamento de rotas e
 
 ## Referências
 
-- [ESRI about GIS](https://www.esri.com/pt-br/what-is-gis/overview);
-- [Imagem about GIS](https://www.img.com.br/pt-br/o-que-e-gis/visao-geral);
-- [Wikipedia about GIS (pt-br)](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_geogr%C3%A1fica);
-- [IBM about GIS](https://www.ibm.com/br-pt/topics/geographic-information-system);
-- [USGS about GIS](https://www.usgs.gov/faqs/what-geographic-information-system-gis);
-- [Wikipedia about GIS](https://en.wikipedia.org/wiki/Geographic_information_system);
+- [ESRI sobre GIS](https://www.esri.com/pt-br/what-is-gis/overview);
+- [Imagem sobre GIS](https://www.img.com.br/pt-br/o-que-e-gis/visao-geral);
+- [Wikipedia sobre GIS (pt-br)](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_geogr%C3%A1fica);
+- [IBM sobre GIS](https://www.ibm.com/br-pt/topics/geographic-information-system);
+- [USGS sobre GIS](https://www.usgs.gov/faqs/what-geographic-information-system-gis);
+- [Wikipedia sobre GIS](https://en.wikipedia.org/wiki/Geographic_information_system);

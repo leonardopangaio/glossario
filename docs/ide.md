@@ -10,9 +10,9 @@ Os IDEs facilitam a codificação ao oferecer recursos como autocompletar, suges
 
 ## Referências
 
-- [Amazon AWS about IDE](https://aws.amazon.com/what-is/ide/);
-- [Wikipedia about IDE](https://en.wikipedia.org/wiki/Integrated_development_environment);
-- [RedHat about IDE](https://www.redhat.com/en/topics/middleware/what-is-ide);
-- [CodeAcademy about IDE](https://www.codecademy.com/article/what-is-an-ide);
-- [GeeksForGeeks about IDE](https://www.geeksforgeeks.org/what-is-ide/);
-- [MongoDB about IDE](https://www.mongodb.com/resources/basics/what-is-an-ide);
+- [Amazon AWS sobre IDE](https://aws.amazon.com/what-is/ide/);
+- [Wikipedia sobre IDE](https://en.wikipedia.org/wiki/Integrated_development_environment);
+- [RedHat sobre IDE](https://www.redhat.com/en/topics/middleware/what-is-ide);
+- [CodeAcademy sobre IDE](https://www.codecademy.com/article/what-is-an-ide);
+- [GeeksForGeeks sobre IDE](https://www.geeksforgeeks.org/what-is-ide/);
+- [MongoDB sobre IDE](https://www.mongodb.com/resources/basics/what-is-an-ide);

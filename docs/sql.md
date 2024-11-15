@@ -10,8 +10,8 @@ Em termos de arquitetura, o SQL é estruturado para transações ACID (Atomicida
 
 ## Referências
 
-- [w3schools about SQL](https://www.w3schools.com/sql/sql_intro.asp);
-- [Amazon AWS about SQL](https://aws.amazon.com/what-is/sql/);
-- [Wikipedia about SQL](https://en.wikipedia.org/wiki/SQL);
-- [IBM about SQL](https://www.ibm.com/think/topics/structured-query-language);
-- [GeeksForGeeks about SQL](https://www.geeksforgeeks.org/what-is-sql/);
+- [w3schools sobre SQL](https://www.w3schools.com/sql/sql_intro.asp);
+- [Amazon AWS sobre SQL](https://aws.amazon.com/what-is/sql/);
+- [Wikipedia sobre SQL](https://en.wikipedia.org/wiki/SQL);
+- [IBM sobre SQL](https://www.ibm.com/think/topics/structured-query-language);
+- [GeeksForGeeks sobre SQL](https://www.geeksforgeeks.org/what-is-sql/);

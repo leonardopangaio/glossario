@@ -10,5 +10,5 @@ Além disso, o LIS permite a integração com outros sistemas de saúde, como HI
 
 ## Referências
 
-- [Wikipedia about LIS](https://en.wikipedia.org/wiki/Laboratory_information_management_system);
-- [Orchard about LIS](https://www.orchardsoft.com/resources/learn-about-lis/);
+- [Wikipedia sobre LIS](https://en.wikipedia.org/wiki/Laboratory_information_management_system);
+- [Orchard sobre LIS](https://www.orchardsoft.com/resources/learn-about-lis/);

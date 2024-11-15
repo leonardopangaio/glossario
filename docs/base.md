@@ -13,5 +13,5 @@ O modelo BASE é comum em sistemas distribuídos que precisam ser escaláveis e 
 
 ## Referências
 
-- [GeeksForGeeks about the difference between ACID and BASE](https://www.geeksforgeeks.org/acid-model-vs-base-model-for-database/);
+- [GeeksForGeeks sobre the difference between ACID and BASE](https://www.geeksforgeeks.org/acid-model-vs-base-model-for-database/);
 - []();

@@ -10,8 +10,8 @@ A porta padrão para o FTP é a porta 21 para o canal de controle. No modo ativo
 
 ## Referências
 
-- [Wikipedia about FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol);
-- [Fortinet about FTP](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning);
-- [GeeksForGeeks about FTP](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/);
-- [Hostinger about FTP](https://www.hostinger.com/tutorials/what-is-ftp);
-- [Solarwinds about FTP](https://www.solarwinds.com/resources/it-glossary/ftp-server);
+- [Wikipedia sobre FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol);
+- [Fortinet sobre FTP](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning);
+- [GeeksForGeeks sobre FTP](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/);
+- [Hostinger sobre FTP](https://www.hostinger.com/tutorials/what-is-ftp);
+- [Solarwinds sobre FTP](https://www.solarwinds.com/resources/it-glossary/ftp-server);

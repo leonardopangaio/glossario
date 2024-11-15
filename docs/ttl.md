@@ -10,7 +10,7 @@ O TTL é uma característica presente na Camada 3 (Rede) do modelo OSI, onde é 
 
 ## Referências
 
-- [Cloudflare about TTL](https://www.cloudflare.com/pt-br/learning/cdn/glossary/time-to-live-ttl/);
-- [Wikipedia about TTL](https://en.wikipedia.org/wiki/Time_to_live);
-- [Fortinet about TTL](https://www.fortinet.com/resources/cyberglossary/what-is-ttl);
-- [IBM about TTL](https://www.ibm.com/topics/time-to-live);
+- [Cloudflare sobre TTL](https://www.cloudflare.com/pt-br/learning/cdn/glossary/time-to-live-ttl/);
+- [Wikipedia sobre TTL](https://en.wikipedia.org/wiki/Time_to_live);
+- [Fortinet sobre TTL](https://www.fortinet.com/resources/cyberglossary/what-is-ttl);
+- [IBM sobre TTL](https://www.ibm.com/topics/time-to-live);

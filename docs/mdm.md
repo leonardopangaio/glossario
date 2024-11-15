@@ -10,6 +10,6 @@ Um sistema de MDM centraliza o gerenciamento de dados principais, permitindo que
 
 ## Referências
 
-- [IBM about MDM](https://www.ibm.com/think/topics/master-data-management);
-- [Oracle about MDM](https://www.oracle.com/br/scm/product-lifecycle-management/master-data-management/);
-- [Wikipedia about MDM](https://pt.wikipedia.org/wiki/Master_Data_Management);
+- [IBM sobre MDM](https://www.ibm.com/think/topics/master-data-management);
+- [Oracle sobre MDM](https://www.oracle.com/br/scm/product-lifecycle-management/master-data-management/);
+- [Wikipedia sobre MDM](https://pt.wikipedia.org/wiki/Master_Data_Management);

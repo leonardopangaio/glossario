@@ -10,7 +10,7 @@ Como servidor web, o IIS opera na Camada 7 (Aplicação) do modelo OSI, lidando 
 
 ## Referências
 
-- [Solarwinds about IIS](https://www.solarwinds.com/resources/it-glossary/iis-server);
-- [Microsoft about IIS](https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-web-server-overview);
-- [Wikipedia about IIS](https://en.wikipedia.org/wiki/Internet_Information_Services);
+- [Solarwinds sobre IIS](https://www.solarwinds.com/resources/it-glossary/iis-server);
+- [Microsoft sobre IIS](https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-web-server-overview);
+- [Wikipedia sobre IIS](https://en.wikipedia.org/wiki/Internet_Information_Services);
 - [IIS official website](https://www.iis.net/);

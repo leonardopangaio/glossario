@@ -10,6 +10,6 @@ Os NDAs ajudam a proteger o know-how, segredos comerciais e outros dados crític
 
 ## Referências
 
-- [TOTVS about NDA](https://www.totvs.com/blog/gestao-para-assinatura-de-documentos/o-que-e-nda/);
-- [Jusbrasil about NDA](https://www.jusbrasil.com.br/artigos/o-que-e-um-nda-quando-e-como-usar/729672857);
-- [Wikipedia about NDA](https://pt.wikipedia.org/wiki/Acordo_de_n%C3%A3o-divulga%C3%A7%C3%A3o);
+- [TOTVS sobre NDA](https://www.totvs.com/blog/gestao-para-assinatura-de-documentos/o-que-e-nda/);
+- [Jusbrasil sobre NDA](https://www.jusbrasil.com.br/artigos/o-que-e-um-nda-quando-e-como-usar/729672857);
+- [Wikipedia sobre NDA](https://pt.wikipedia.org/wiki/Acordo_de_n%C3%A3o-divulga%C3%A7%C3%A3o);

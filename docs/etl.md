@@ -10,8 +10,8 @@ Durante a etapa de extração, os dados são coletados de diversas fontes, que p
 
 ## Referências
 
-- [Wikipedia about ETL](https://pt.wikipedia.org/wiki/Extract,_transform,_load);
-- [Amazon AWS about ETL](https://aws.amazon.com/pt/what-is/etl/);
-- [IBM about ETL](https://www.ibm.com/br-pt/topics/etl);
-- [Oracle about ETL](https://www.oracle.com/br/integration/what-is-etl/);
-- [Google Cloud about ETL](https://cloud.google.com/learn/what-is-etl?hl=pt-BR);
+- [Wikipedia sobre ETL](https://pt.wikipedia.org/wiki/Extract,_transform,_load);
+- [Amazon AWS sobre ETL](https://aws.amazon.com/pt/what-is/etl/);
+- [IBM sobre ETL](https://www.ibm.com/br-pt/topics/etl);
+- [Oracle sobre ETL](https://www.oracle.com/br/integration/what-is-etl/);
+- [Google Cloud sobre ETL](https://cloud.google.com/learn/what-is-etl?hl=pt-BR);

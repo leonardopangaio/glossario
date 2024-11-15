@@ -8,4 +8,4 @@ O *Secure File Transfer Protocol (SFTP)* é uma versão segura do FTP que utiliz
 
 ## Referências
 
-- [Wikipedia about SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol);
+- [Wikipedia sobre SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol);

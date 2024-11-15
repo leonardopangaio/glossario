@@ -11,6 +11,6 @@ Em ambientes corporativos e de saúde, a LGPD impõe requisitos rigorosos para o
 ## Referências
 
 - [Official LGPD article](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm);
-- [GOV.BR about LGPD](https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd);
-- [SEBRAE about LGPD](https://sebrae.com.br/sites/PortalSebrae/LGPD);
-- [Wikipedia about LGPD](https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais#:~:text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o,do%20Marco%20Civil%20da%20Internet.);
+- [GOV.BR sobre LGPD](https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd);
+- [SEBRAE sobre LGPD](https://sebrae.com.br/sites/PortalSebrae/LGPD);
+- [Wikipedia sobre LGPD](https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais#:~:text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o,do%20Marco%20Civil%20da%20Internet.);

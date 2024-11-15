@@ -10,10 +10,10 @@ CSS é amplamente utilizado em conjunto com HTML e JavaScript para criar website
 
 ## Referências
 
-- [W3Schools about CSS](https://www.w3schools.com/css/css_intro.asp);
-- [MDN about CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS);
-- [Wikipedia about CSS](https://en.wikipedia.org/wiki/CSS);
-- [MDN about CSS (2)](https://developer.mozilla.org/en-US/docs/Web/CSS);
-- [GeeksForGeeks about CSS](https://www.geeksforgeeks.org/css-introduction/);
-- [Hostinger about CSS](https://www.hostinger.com/tutorials/what-is-css);
-- [Javatpoint about CSS](https://www.javatpoint.com/what-is-css);
+- [W3Schools sobre CSS](https://www.w3schools.com/css/css_intro.asp);
+- [MDN sobre CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS);
+- [Wikipedia sobre CSS](https://en.wikipedia.org/wiki/CSS);
+- [MDN sobre CSS (2)](https://developer.mozilla.org/en-US/docs/Web/CSS);
+- [GeeksForGeeks sobre CSS](https://www.geeksforgeeks.org/css-introduction/);
+- [Hostinger sobre CSS](https://www.hostinger.com/tutorials/what-is-css);
+- [Javatpoint sobre CSS](https://www.javatpoint.com/what-is-css);

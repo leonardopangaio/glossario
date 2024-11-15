@@ -11,6 +11,8 @@ Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores,
 ![Watchers](https://img.shields.io/github/watchers/leonardopangaio/glossario.svg) - 
 ![Followers](https://img.shields.io/github/followers/leonardopangaio.svg?style=social&label=Follow&maxAge=2592000) -->
 
+Artigo atualizado em: XXX
+
 <!-- início glossário -->
 
 ---
@@ -26,9 +28,9 @@ No modelo OSI, o ARP atua na Camada 2 (Enlace), pois envolve a comunicação dir
 
 ### Referências
 
-- [Fortinet about ARP](https://www.fortinet.com/resources/cyberglossary/what-is-arp);
-- [Wikipedia about ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol);
-- [GeeksForGeeks about ARP](https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/);
+- [Fortinet sobre ARP](https://www.fortinet.com/resources/cyberglossary/what-is-arp);
+- [Wikipedia sobre ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol);
+- [GeeksForGeeks sobre ARP](https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/);
 
 ---
 ## Apache Kafka
@@ -43,13 +45,13 @@ Kafka é frequentemente usado em arquiteturas de microservices e data lakes, e s
 
 ### Referências
 
-- [Confluent about Apache Kafka](https://www.confluent.io/what-is-apache-kafka/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.kafka_mt.xct_rgn.latam_sbrgn.brazil_lng.eng_dv.all_con.kafka-general&utm_term=apache%20kafka&creative=&device=c&placement=&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hdiXdaZRLf01wpTXqWn9Bc8mqGyu0UBLTIiGwdOA7X0mBC9jEmPO4aAiNPEALw_wcB);
+- [Confluent sobre Apache Kafka](https://www.confluent.io/what-is-apache-kafka/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.kafka_mt.xct_rgn.latam_sbrgn.brazil_lng.eng_dv.all_con.kafka-general&utm_term=apache%20kafka&creative=&device=c&placement=&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hdiXdaZRLf01wpTXqWn9Bc8mqGyu0UBLTIiGwdOA7X0mBC9jEmPO4aAiNPEALw_wcB);
 - [Apache Kafka official website](https://kafka.apache.org/);
-- [RedHat about Apache Kafka](https://www.redhat.com/pt-br/topics/integration/what-is-apache-kafka);
-- [Google Cloud about Apache Kafka](https://cloud.google.com/learn/what-is-apache-kafka?hl=pt-BR);
-- [IBM about Apache Kafka](https://www.ibm.com/br-pt/topics/apache-kafka);
-- [Wikipedia about Apache Kafka](https://pt.wikipedia.org/wiki/Apache_Kafka);
-- [Oracle about Apache Kafka](https://www.oracle.com/br/cloud/apache-kafka/);
+- [RedHat sobre Apache Kafka](https://www.redhat.com/pt-br/topics/integration/what-is-apache-kafka);
+- [Google Cloud sobre Apache Kafka](https://cloud.google.com/learn/what-is-apache-kafka?hl=pt-BR);
+- [IBM sobre Apache Kafka](https://www.ibm.com/br-pt/topics/apache-kafka);
+- [Wikipedia sobre Apache Kafka](https://pt.wikipedia.org/wiki/Apache_Kafka);
+- [Oracle sobre Apache Kafka](https://www.oracle.com/br/cloud/apache-kafka/);
 
 ---
 ## Atomicidade, Consistência, Isolamento e Durabilidade (ACID)
@@ -68,11 +70,11 @@ Essas propriedades são essenciais para aplicativos que requerem alta confiabili
 
 ### Referências
 
-- [MongoDB about ACID](https://www.mongodb.com/resources/basics/databases/acid-transactions);
-- [Wikipedia about ACID](https://en.wikipedia.org/wiki/ACID);
-- [GeeksForGeeks about ACID](https://www.geeksforgeeks.org/acid-properties-in-dbms/);
-- [Amazon AWS about the difference between ACID and BASE](https://aws.amazon.com/pt/compare/the-difference-between-acid-and-base-database/);
-- [MongoDB about ACID Compliance](https://www.mongodb.com/resources/products/capabilities/acid-compliance);
+- [MongoDB sobre ACID](https://www.mongodb.com/resources/basics/databases/acid-transactions);
+- [Wikipedia sobre ACID](https://en.wikipedia.org/wiki/ACID);
+- [GeeksForGeeks sobre ACID](https://www.geeksforgeeks.org/acid-properties-in-dbms/);
+- [Amazon AWS sobre the difference between ACID and BASE](https://aws.amazon.com/pt/compare/the-difference-between-acid-and-base-database/);
+- [MongoDB sobre ACID Compliance](https://www.mongodb.com/resources/products/capabilities/acid-compliance);
 
 ---
 ## Basically Available, Soft State, Eventual Consistency (BASE)
@@ -90,7 +92,7 @@ O modelo BASE é comum em sistemas distribuídos que precisam ser escaláveis e 
 
 ### Referências
 
-- [GeeksForGeeks about the difference between ACID and BASE](https://www.geeksforgeeks.org/acid-model-vs-base-model-for-database/);
+- [GeeksForGeeks sobre the difference between ACID and BASE](https://www.geeksforgeeks.org/acid-model-vs-base-model-for-database/);
 - []();
 
 ---
@@ -106,12 +108,12 @@ Como protocolo de roteamento entre domínios, o BGP é projetado para ser robust
 
 ### Referências
 
-- [Cloudflare about BGP](https://www.cloudflare.com/pt-br/learning/security/glossary/what-is-bgp/);
-- [Amazon AWS about BGP](https://aws.amazon.com/pt/what-is/border-gateway-protocol/);
-- [Wikipedia about BGP](https://pt.wikipedia.org/wiki/Border_Gateway_Protocol);
-- [Fortinet about BGP](https://www.fortinet.com/br/resources/cyberglossary/bgp-border-gateway-protocol);
-- [CISCO about BGP](https://www.cisco.com/c/pt_br/support/docs/ip/border-gateway-protocol-bgp/5441-aggregation.html);
-- [Cloudflare about BGP kidnapping](https://www.cloudflare.com/pt-br/learning/security/glossary/bgp-hijacking/);
+- [Cloudflare sobre BGP](https://www.cloudflare.com/pt-br/learning/security/glossary/what-is-bgp/);
+- [Amazon AWS sobre BGP](https://aws.amazon.com/pt/what-is/border-gateway-protocol/);
+- [Wikipedia sobre BGP](https://pt.wikipedia.org/wiki/Border_Gateway_Protocol);
+- [Fortinet sobre BGP](https://www.fortinet.com/br/resources/cyberglossary/bgp-border-gateway-protocol);
+- [CISCO sobre BGP](https://www.cisco.com/c/pt_br/support/docs/ip/border-gateway-protocol-bgp/5441-aggregation.html);
+- [Cloudflare sobre BGP kidnapping](https://www.cloudflare.com/pt-br/learning/security/glossary/bgp-hijacking/);
 
 ---
 ## Change Data Capture (CDC)
@@ -128,8 +130,8 @@ O *Change Data Capture (CDC)* é uma funcionalidade do *Microsoft SQL Server* qu
 
 ### Referências
 
-- [Wikipedia about CDC](https://en.wikipedia.org/wiki/Change_data_capture);
-- [Microsoft about CDC](https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver16);
+- [Wikipedia sobre CDC](https://en.wikipedia.org/wiki/Change_data_capture);
+- [Microsoft sobre CDC](https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver16);
 
 ---
 ## Comma-Separated Values (CSV)
@@ -144,8 +146,8 @@ O CSV é amplamente utilizado para transferência de dados entre diferentes sist
 
 ### Referências
 
-- [Wikipedia about CSV](https://en.wikipedia.org/wiki/Comma-separated_values);
-- [Wikipedia about CSV (pt-br)](https://pt.wikipedia.org/wiki/Comma-separated_values);
+- [Wikipedia sobre CSV](https://en.wikipedia.org/wiki/Comma-separated_values);
+- [Wikipedia sobre CSV (pt-br)](https://pt.wikipedia.org/wiki/Comma-separated_values);
 
 ---
 ## Common Internet File System (CIFS)
@@ -160,11 +162,11 @@ Embora o CIFS tenha sido amplamente utilizado em redes locais, o SMB mais modern
 
 ### Referências
 
-- [Wikipedia about SMB](https://pt.wikipedia.org/wiki/Server_Message_Block);
-- [F5 Glossary about CIFS](https://www.f5.com/pt_br/glossary/cifs-smb);
-- [GeeksForGeeks about CIFS](https://www.geeksforgeeks.org/what-is-cifs-common-internet-file-system/);
-- [Amazon AWS about the difference between CIFS and NFS](https://aws.amazon.com/pt/compare/the-difference-between-nfs-and-cifs/);
-- [Lenovo about CIFS](https://www.lenovo.com/us/en/glossary/what-is-common-internet-file-system-cifs/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoquJ-4XD39N68vDzYqropme-52PQ_JzVRuVU1Yk1bpu1jhcpi_A);
+- [Wikipedia sobre SMB](https://pt.wikipedia.org/wiki/Server_Message_Block);
+- [F5 Glossary sobre CIFS](https://www.f5.com/pt_br/glossary/cifs-smb);
+- [GeeksForGeeks sobre CIFS](https://www.geeksforgeeks.org/what-is-cifs-common-internet-file-system/);
+- [Amazon AWS sobre the difference between CIFS and NFS](https://aws.amazon.com/pt/compare/the-difference-between-nfs-and-cifs/);
+- [Lenovo sobre CIFS](https://www.lenovo.com/us/en/glossary/what-is-common-internet-file-system-cifs/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoquJ-4XD39N68vDzYqropme-52PQ_JzVRuVU1Yk1bpu1jhcpi_A);
 
 ---
 ## Computer-Aided Design (CAD)
@@ -179,8 +181,8 @@ Esses sistemas oferecem funcionalidades como edição precisa de geometria, visu
 
 ### Referências
 
-- [Wiki about CAD (pt-br)](https://pt.wikipedia.org/wiki/Desenho_assistido_por_computador);
-- [Wiki about CAD](https://en.wikipedia.org/wiki/Computer-aided_design);
+- [Wikipedia sobre CAD (pt-br)](https://pt.wikipedia.org/wiki/Desenho_assistido_por_computador);
+- [Wikipedia sobre CAD](https://en.wikipedia.org/wiki/Computer-aided_design);
 
 ---
 ## Container as a Service (CaaS)
@@ -195,13 +197,13 @@ Ao usar CaaS, os desenvolvedores conseguem configurar, escalar e gerenciar cont�
 
 ### Referências
 
-- [IBM about CaaS](https://www.ibm.com/br-pt/topics/containers-as-a-service);
-- [RedHat about CaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-caas);
-- [Atlassian about CaaS](https://www.atlassian.com/br/microservices/cloud-computing/containers-as-a-service);
-- [Checkpoint about CaaS](https://www.checkpoint.com/pt/cyber-hub/cloud-security/what-is-container-security/what-is-container-as-a-service-caas/);
-- [HP about CaaS](https://www.hpe.com/us/en/what-is/caas.html);
-- [DIO about difference between types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-entendendo-os-diferentes-modelos-de-computacao-em-nuvem-em-um-mundo-multi-cloud);
-- [DIO about different types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-conceitos-exemplos-e-diferencas);
+- [IBM sobre CaaS](https://www.ibm.com/br-pt/topics/containers-as-a-service);
+- [RedHat sobre CaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-caas);
+- [Atlassian sobre CaaS](https://www.atlassian.com/br/microservices/cloud-computing/containers-as-a-service);
+- [Checkpoint sobre CaaS](https://www.checkpoint.com/pt/cyber-hub/cloud-security/what-is-container-security/what-is-container-as-a-service-caas/);
+- [HP sobre CaaS](https://www.hpe.com/us/en/what-is/caas.html);
+- [DIO sobre difference between types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-entendendo-os-diferentes-modelos-de-computacao-em-nuvem-em-um-mundo-multi-cloud);
+- [DIO sobre different types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-conceitos-exemplos-e-diferencas);
 
 ---
 ## Data Control Language (DCL)
@@ -216,8 +218,8 @@ Esses comandos são essenciais para a segurança do banco de dados, pois permite
 
 ### Referências
 
-- [Wikipedia about DCL](https://en.wikipedia.org/wiki/Data_control_language);
-- [GeekForGeeks about DCL](https://www.geeksforgeeks.org/dcl-full-form/);
+- [Wikipedia sobre DCL](https://en.wikipedia.org/wiki/Data_control_language);
+- [GeekForGeeks sobre DCL](https://www.geeksforgeeks.org/dcl-full-form/);
 
 ---
 ## Data Definition Language (DDL)
@@ -232,8 +234,8 @@ A DDL é fundamental para configurar e organizar o banco de dados, sendo usada p
 
 ### Referências
 
-- [Wikipedia about DDL](https://en.wikipedia.org/wiki/Data_definition_language);
-- [DIO about DDL](https://www.dio.me/articles/data-definition-language-ddl);
+- [Wikipedia sobre DDL](https://en.wikipedia.org/wiki/Data_definition_language);
+- [DIO sobre DDL](https://www.dio.me/articles/data-definition-language-ddl);
 
 ---
 ## Data Manipulation Language (DML)
@@ -248,8 +250,8 @@ A DML é o núcleo da interação com os dados armazenados e é essencial para o
 
 ### Referências
 
-- [Wikipedia about DML](https://en.wikipedia.org/wiki/Data_manipulation_language);
-- [GeeksForGeeks about DML](https://www.geeksforgeeks.org/dml-full-form/);
+- [Wikipedia sobre DML](https://en.wikipedia.org/wiki/Data_manipulation_language);
+- [GeeksForGeeks sobre DML](https://www.geeksforgeeks.org/dml-full-form/);
 
 ---
 ## Data Migration (Migração de Dados)
@@ -264,10 +266,10 @@ Durante a migração de dados, é comum realizar mapeamento de dados e testes ex
 
 ### Referências
 
-- [Microsoft Azure about Data Migration](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-data-migration);
-- [IBM about Data Migration](https://www.ibm.com/topics/data-migration);
-- [Netapp about Data Migration](https://www.netapp.com/data-management/what-is-data-migration/);
-- [Wikipedia about Data Migration](https://en.wikipedia.org/wiki/Data_migration);
+- [Microsoft Azure sobre Data Migration](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-data-migration);
+- [IBM sobre Data Migration](https://www.ibm.com/topics/data-migration);
+- [Netapp sobre Data Migration](https://www.netapp.com/data-management/what-is-data-migration/);
+- [Wikipedia sobre Data Migration](https://en.wikipedia.org/wiki/Data_migration);
 
 ---
 ## Data Query Language (DQL)
@@ -282,9 +284,9 @@ A DQL é fundamental para recuperar informações do banco de dados sem alterar 
 
 ### Referências
 
-- [DIO about DQL](https://www.dio.me/articles/dql-data-query-language);
-- [Wikipedia about DQL](https://en.wikipedia.org/wiki/Data_query_language);
-- [GeekForGeeks about DQL](https://www.geeksforgeeks.org/dql-full-form/);
+- [DIO sobre DQL](https://www.dio.me/articles/dql-data-query-language);
+- [Wikipedia sobre DQL](https://en.wikipedia.org/wiki/Data_query_language);
+- [GeekForGeeks sobre DQL](https://www.geeksforgeeks.org/dql-full-form/);
 
 ---
 ## Data Transformation Language (DTL)
@@ -299,7 +301,7 @@ A DTL é essencial para manter a consistência e integridade dos dados em ambien
 
 ### Referências
 
-- [Wikipedia about DTL](https://en.wikipedia.org/wiki/Model_transformation_language);
+- [Wikipedia sobre DTL](https://en.wikipedia.org/wiki/Model_transformation_language);
 
 ---
 ## Database Administrator (DBA)
@@ -314,9 +316,9 @@ Além de gerenciar as operações diárias do banco de dados, o DBA também part
 
 ### Referências
 
-- [Oracle about DBA](https://www.oracle.com/br/database/what-is-a-dba/);
-- [Wikipedia about DBA](https://pt.wikipedia.org/wiki/Administrador_de_banco_de_dados);
-- [DIO about DBA](https://www.dio.me/articles/tudo-o-que-voce-precisa-saber-sobre-dba-data-base-administrator);
+- [Oracle sobre DBA](https://www.oracle.com/br/database/what-is-a-dba/);
+- [Wikipedia sobre DBA](https://pt.wikipedia.org/wiki/Administrador_de_banco_de_dados);
+- [DIO sobre DBA](https://www.dio.me/articles/tudo-o-que-voce-precisa-saber-sobre-dba-data-base-administrator);
 
 ---
 ## Database Migration (Migração de Banco de Dados)
@@ -331,7 +333,7 @@ A migração pode incluir mudanças no schema de dados, mapeamento entre tipos d
 
 ### Referências
 
-- [Google Cloud about Database Migration](https://cloud.google.com/architecture/database-migration-concepts-principles-part-1?hl=pt-br);
+- [Google Cloud sobre Database Migration](https://cloud.google.com/architecture/database-migration-concepts-principles-part-1?hl=pt-br);
 - [Amazon AWS Database Migration Service (DMS)](https://aws.amazon.com/pt/dms/);
 
 
@@ -348,8 +350,8 @@ A DLQ é uma ferramenta importante para sistemas que exigem alta confiabilidade 
 
 ### Referências
 
-- [Amazon AWS about DLQ](https://aws.amazon.com/what-is/dead-letter-queue/);
-- [Wikipedia about DLQ](https://en.wikipedia.org/wiki/Dead_letter_queue);
+- [Amazon AWS sobre DLQ](https://aws.amazon.com/what-is/dead-letter-queue/);
+- [Wikipedia sobre DLQ](https://en.wikipedia.org/wiki/Dead_letter_queue);
 
 ---
 ## Demilitarized Zone (DMZ)
@@ -364,12 +366,12 @@ Essa configuração é comum em redes corporativas para proteger dados confidenc
 
 ### Referências
 
-- [Fortinet about DMZ (pt-br)](https://www.fortinet.com/br/resources/cyberglossary/what-is-dmz);
-- [Wikipedia about DMZ](https://pt.wikipedia.org/wiki/DMZ_(computa%C3%A7%C3%A3o));
-- [Checkpoint about DMZ](https://www.checkpoint.com/pt/cyber-hub/network-security/what-is-a-dmz-network/);
-- [Fortinet about DMZ](https://www.fortinet.com/resources/cyberglossary/what-is-dmz);
-- [F5 about DMZ](https://www.f5.com/glossary/demilitarized-zone-dmz);
-- [Barracuda about DMZ](https://www.barracuda.com/support/glossary/dmz-network);
+- [Fortinet sobre DMZ (pt-br)](https://www.fortinet.com/br/resources/cyberglossary/what-is-dmz);
+- [Wikipedia sobre DMZ](https://pt.wikipedia.org/wiki/DMZ_(computa%C3%A7%C3%A3o));
+- [Checkpoint sobre DMZ](https://www.checkpoint.com/pt/cyber-hub/network-security/what-is-a-dmz-network/);
+- [Fortinet sobre DMZ](https://www.fortinet.com/resources/cyberglossary/what-is-dmz);
+- [F5 sobre DMZ](https://www.f5.com/glossary/demilitarized-zone-dmz);
+- [Barracuda sobre DMZ](https://www.barracuda.com/support/glossary/dmz-network);
 
 ---
 ## Domain Name System (DNS)
@@ -384,13 +386,13 @@ Esse protocolo é essencial para a navegação na web, e sua estrutura hierárqu
 
 ### Referências
 
-- [Cloudflare about DNS](https://www.cloudflare.com/pt-br/learning/dns/what-is-dns/);
-- [Amazon AWS about DNS](https://aws.amazon.com/pt/route53/what-is-dns/);
-- [Wikipedia about DNS](https://pt.wikipedia.org/wiki/Sistema_de_Nomes_de_Dom%C3%ADnio);
-- [IBM about DNS](https://www.ibm.com/br-pt/topics/dns);
-- [IBM about DNS](https://www.ibm.com/br-pt/topics/dns-protocol);
-- [Kaspersky about DNS](https://www.kaspersky.com.br/resource-center/definitions/dns);
-- [Fortinet about DNS](https://www.fortinet.com/br/resources/cyberglossary/what-is-dns);
+- [Cloudflare sobre DNS](https://www.cloudflare.com/pt-br/learning/dns/what-is-dns/);
+- [Amazon AWS sobre DNS](https://aws.amazon.com/pt/route53/what-is-dns/);
+- [Wikipedia sobre DNS](https://pt.wikipedia.org/wiki/Sistema_de_Nomes_de_Dom%C3%ADnio);
+- [IBM sobre DNS](https://www.ibm.com/br-pt/topics/dns);
+- [IBM sobre DNS](https://www.ibm.com/br-pt/topics/dns-protocol);
+- [Kaspersky sobre DNS](https://www.kaspersky.com.br/resource-center/definitions/dns);
+- [Fortinet sobre DNS](https://www.fortinet.com/br/resources/cyberglossary/what-is-dns);
 
 ---
 ## Dynamic Application Security Testing (DAST)
@@ -405,12 +407,12 @@ Ferramentas DAST populares incluem OWASP ZAP, Burp Suite e Acunetix, que oferece
 
 ### Referências
 
-- [Opentext about DAST](https://www.opentext.com/pt-br/o-que-e/dast);
-- [Wikipedia about DAST](https://en.wikipedia.org/wiki/Dynamic_application_security_testing);
-- [IBM about DAST](https://www.ibm.com/topics/dynamic-application-security-testing);
-- [Circleci about DAST](https://circleci.com/blog/sast-vs-dast-when-to-use-them/);
-- [Sonar about DAST](https://www.sonatype.com/resources/articles/what-is-dast);
-- [Check Point about DAST](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-dynamic-application-security-testing-dast/);
+- [Opentext sobre DAST](https://www.opentext.com/pt-br/o-que-e/dast);
+- [Wikipedia sobre DAST](https://en.wikipedia.org/wiki/Dynamic_application_security_testing);
+- [IBM sobre DAST](https://www.ibm.com/topics/dynamic-application-security-testing);
+- [Circleci sobre DAST](https://circleci.com/blog/sast-vs-dast-when-to-use-them/);
+- [Sonar sobre DAST](https://www.sonatype.com/resources/articles/what-is-dast);
+- [Check Point sobre DAST](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-dynamic-application-security-testing-dast/);
 
 ---
 ## Dynamic Host Configuration Protocol (DHCP)
@@ -425,12 +427,12 @@ O DHCP utiliza as portas UDP 67 (servidor) e 68 (cliente) e é essencial para re
 
 ### Referências
 
-- [Microsoft about DHCP](https://learn.microsoft.com/pt-br/windows-server/networking/technologies/dhcp/dhcp-top);
-- [Wikipedia about DHCP (pt-br)](https://pt.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
-- [NordVPN about DHCP](https://nordvpn.com/pt-br/blog/o-que-e-dhcp/);
-- [Wikipedia about DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
-- [Fortinet about DHCP](https://www.fortinet.com/br/resources/cyberglossary/dynamic-host-configuration-protocol-dhcp);
-- [GeeksForGeeks about DHCP](https://www.geeksforgeeks.org/dynamic-host-configuration-protocol-dhcp/);
+- [Microsoft sobre DHCP](https://learn.microsoft.com/pt-br/windows-server/networking/technologies/dhcp/dhcp-top);
+- [Wikipedia sobre DHCP (pt-br)](https://pt.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
+- [NordVPN sobre DHCP](https://nordvpn.com/pt-br/blog/o-que-e-dhcp/);
+- [Wikipedia sobre DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol);
+- [Fortinet sobre DHCP](https://www.fortinet.com/br/resources/cyberglossary/dynamic-host-configuration-protocol-dhcp);
+- [GeeksForGeeks sobre DHCP](https://www.geeksforgeeks.org/dynamic-host-configuration-protocol-dhcp/);
 
 ---
 ## Dynamic Link Library (DLL)
@@ -445,11 +447,11 @@ A DLL permite que os desenvolvedores compartilhem código entre programas, facil
 
 ### Referências
 
-- [Wikipedia about DLL (pt-br)](https://pt.wikipedia.org/wiki/DLL);
-- [Wikipedia about DLL](https://en.wikipedia.org/wiki/Dynamic-link_library);
-- [Lenovo about DLL](https://www.lenovo.com/in/en/glossary/dynamic-link-library/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopkYkxhNTImE3Je5cXh1nx9lZ9CONmEy20SR2Mhxvpnd4q1xAAF);
-- [Indeed about DLL](https://www.indeed.com/career-advice/career-development/what-is-dll-file);
-- [Microsoft about DLL](https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/dynamic-link-library);
+- [Wikipedia sobre DLL (pt-br)](https://pt.wikipedia.org/wiki/DLL);
+- [Wikipedia sobre DLL](https://en.wikipedia.org/wiki/Dynamic-link_library);
+- [Lenovo sobre DLL](https://www.lenovo.com/in/en/glossary/dynamic-link-library/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopkYkxhNTImE3Je5cXh1nx9lZ9CONmEy20SR2Mhxvpnd4q1xAAF);
+- [Indeed sobre DLL](https://www.indeed.com/career-advice/career-development/what-is-dll-file);
+- [Microsoft sobre DLL](https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/dynamic-link-library);
 
 ---
 ## Enterprise Resource Planning (ERP)
@@ -464,11 +466,11 @@ As soluções ERP, como SAP, Oracle e Microsoft Dynamics, são amplamente utiliz
 
 ### Referências
 
-- [SAP about ERP](https://www.sap.com/brazil/products/erp/what-is-erp.html#:~:text=O%20planejamento%20de%20recursos%20empresariais,servi%C3%A7os%2C%20procurement%20e%20muito%20mais.);
-- [TOTVS about ERP](https://www.totvs.com/blog/erp/o-que-e-erp/);
-- [Oracle about ERP](https://www.oracle.com/br/erp/what-is-erp/);
-- [Wikipedia about ERP](https://pt.wikipedia.org/wiki/Sistema_integrado_de_gest%C3%A3o_empresarial);
-- [Sankhia about ERP](https://www.sankhya.com.br/erp/);
+- [SAP sobre ERP](https://www.sap.com/brazil/products/erp/what-is-erp.html#:~:text=O%20planejamento%20de%20recursos%20empresariais,servi%C3%A7os%2C%20procurement%20e%20muito%20mais.);
+- [TOTVS sobre ERP](https://www.totvs.com/blog/erp/o-que-e-erp/);
+- [Oracle sobre ERP](https://www.oracle.com/br/erp/what-is-erp/);
+- [Wikipedia sobre ERP](https://pt.wikipedia.org/wiki/Sistema_integrado_de_gest%C3%A3o_empresarial);
+- [Sankhia sobre ERP](https://www.sankhya.com.br/erp/);
 
 ---
 ## Enterprise Service Bus (ESB)
@@ -483,12 +485,12 @@ Um ESB pode oferecer funcionalidades como roteamento, transformação de dados, 
 
 ### Referências
 
-- [Amazon AWS about ESB](https://aws.amazon.com/pt/what-is/enterprise-service-bus/);
-- [Wikipedia about ESB](https://en.wikipedia.org/wiki/Enterprise_service_bus);
-- [Wikipedia about ESB (pt-br)](https://pt.wikipedia.org/wiki/Enterprise_Service_Bus);
-- [MuleSoft about ESB](https://www.mulesoft.com/pt/resources/esb/what-esb);
-- [IBM about ESB](https://www.ibm.com/br-pt/topics/esb);
-- [SAP about ESB](https://learning.sap.com/learning-journeys/developing-business-processes-with-sap-process-orchestration/explaining-the-enterprise-service-bus_b3d8c932-83e8-4e7d-a982-6599f75a9032);
+- [Amazon AWS sobre ESB](https://aws.amazon.com/pt/what-is/enterprise-service-bus/);
+- [Wikipedia sobre ESB](https://en.wikipedia.org/wiki/Enterprise_service_bus);
+- [Wikipedia sobre ESB (pt-br)](https://pt.wikipedia.org/wiki/Enterprise_Service_Bus);
+- [MuleSoft sobre ESB](https://www.mulesoft.com/pt/resources/esb/what-esb);
+- [IBM sobre ESB](https://www.ibm.com/br-pt/topics/esb);
+- [SAP sobre ESB](https://learning.sap.com/learning-journeys/developing-business-processes-with-sap-process-orchestration/explaining-the-enterprise-service-bus_b3d8c932-83e8-4e7d-a982-6599f75a9032);
 
 ---
 ## Ethernet
@@ -503,9 +505,9 @@ No modelo OSI, a Ethernet opera na Camada 2 (Enlace) e parcialmente na Camada 1 
 
 ### Referências
 
-- [Wikipedia about Ethernet](https://en.wikipedia.org/wiki/Ethernet);
-- [CISCO about Ethernet](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-ethernet.html);
-- [GeeksForGeeks about Ethernet](https://www.geeksforgeeks.org/what-is-ethernet/);
+- [Wikipedia sobre Ethernet](https://en.wikipedia.org/wiki/Ethernet);
+- [CISCO sobre Ethernet](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-ethernet.html);
+- [GeeksForGeeks sobre Ethernet](https://www.geeksforgeeks.org/what-is-ethernet/);
 
 ---
 ## Extract, Transform and Load (ETL)
@@ -520,11 +522,11 @@ Durante a etapa de extração, os dados são coletados de diversas fontes, que p
 
 ### Referências
 
-- [Wikipedia about ETL](https://pt.wikipedia.org/wiki/Extract,_transform,_load);
-- [Amazon AWS about ETL](https://aws.amazon.com/pt/what-is/etl/);
-- [IBM about ETL](https://www.ibm.com/br-pt/topics/etl);
-- [Oracle about ETL](https://www.oracle.com/br/integration/what-is-etl/);
-- [Google Cloud about ETL](https://cloud.google.com/learn/what-is-etl?hl=pt-BR);
+- [Wikipedia sobre ETL](https://pt.wikipedia.org/wiki/Extract,_transform,_load);
+- [Amazon AWS sobre ETL](https://aws.amazon.com/pt/what-is/etl/);
+- [IBM sobre ETL](https://www.ibm.com/br-pt/topics/etl);
+- [Oracle sobre ETL](https://www.oracle.com/br/integration/what-is-etl/);
+- [Google Cloud sobre ETL](https://cloud.google.com/learn/what-is-etl?hl=pt-BR);
 
 ---
 ## Fast Healthcare Interoperability Resources (FHIR)
@@ -539,10 +541,10 @@ O FHIR facilita a integração com APIs RESTful e utiliza formatos de dados como
 
 ### Referências
 
-- [Google Cloud about FHIR](https://cloud.google.com/healthcare-api/docs/concepts/fhir?hl=pt-br);
-- [HL7 Fundation about FHIR](https://hl7.org/fhir/);
+- [Google Cloud sobre FHIR](https://cloud.google.com/healthcare-api/docs/concepts/fhir?hl=pt-br);
+- [HL7 Fundation sobre FHIR](https://hl7.org/fhir/);
 - [FHIR Fundation](https://fhir.org/);
-- [Wikipedia about FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources);
+- [Wikipedia sobre FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources);
 
 ---
 ## File Transfer Protocol (FTP)
@@ -557,11 +559,11 @@ A porta padrão para o FTP é a porta 21 para o canal de controle. No modo ativo
 
 ### Referências
 
-- [Wikipedia about FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol);
-- [Fortinet about FTP](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning);
-- [GeeksForGeeks about FTP](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/);
-- [Hostinger about FTP](https://www.hostinger.com/tutorials/what-is-ftp);
-- [Solarwinds about FTP](https://www.solarwinds.com/resources/it-glossary/ftp-server);
+- [Wikipedia sobre FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol);
+- [Fortinet sobre FTP](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning);
+- [GeeksForGeeks sobre FTP](https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/);
+- [Hostinger sobre FTP](https://www.hostinger.com/tutorials/what-is-ftp);
+- [Solarwinds sobre FTP](https://www.solarwinds.com/resources/it-glossary/ftp-server);
 
 ---
 ## Gateway Load Balancing Protocol (GLBP)
@@ -576,9 +578,9 @@ No modelo OSI, o GLBP atua na Camada 3 (Rede), gerenciando o encaminhamento e o 
 
 ### Referências
 
-- [CISCO about GLBP](https://www.cisco.com/en/US/docs/ios/12_2t/12_2t15/feature/guide/ft_glbp.html);
-- [Wikipedia about GLBP](https://en.wikipedia.org/wiki/Gateway_Load_Balancing_Protocol);
-- [GeeksForGeeks about GLBP](https://www.geeksforgeeks.org/gateway-load-balancing-protocol-glbp/);
+- [CISCO sobre GLBP](https://www.cisco.com/en/US/docs/ios/12_2t/12_2t15/feature/guide/ft_glbp.html);
+- [Wikipedia sobre GLBP](https://en.wikipedia.org/wiki/Gateway_Load_Balancing_Protocol);
+- [GeeksForGeeks sobre GLBP](https://www.geeksforgeeks.org/gateway-load-balancing-protocol-glbp/);
 
 ---
 ## Geographic Information System (GIS)
@@ -593,12 +595,12 @@ Os GIS podem ser usados para diversas finalidades, desde o mapeamento de rotas e
 
 ### Referências
 
-- [ESRI about GIS](https://www.esri.com/pt-br/what-is-gis/overview);
-- [Imagem about GIS](https://www.img.com.br/pt-br/o-que-e-gis/visao-geral);
-- [Wikipedia about GIS (pt-br)](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_geogr%C3%A1fica);
-- [IBM about GIS](https://www.ibm.com/br-pt/topics/geographic-information-system);
-- [USGS about GIS](https://www.usgs.gov/faqs/what-geographic-information-system-gis);
-- [Wikipedia about GIS](https://en.wikipedia.org/wiki/Geographic_information_system);
+- [ESRI sobre GIS](https://www.esri.com/pt-br/what-is-gis/overview);
+- [Imagem sobre GIS](https://www.img.com.br/pt-br/o-que-e-gis/visao-geral);
+- [Wikipedia sobre GIS (pt-br)](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_geogr%C3%A1fica);
+- [IBM sobre GIS](https://www.ibm.com/br-pt/topics/geographic-information-system);
+- [USGS sobre GIS](https://www.usgs.gov/faqs/what-geographic-information-system-gis);
+- [Wikipedia sobre GIS](https://en.wikipedia.org/wiki/Geographic_information_system);
 
 ---
 ## Gerenciamento Eletrônico de Documentos (GED)
@@ -613,12 +615,12 @@ Esses sistemas são essenciais para empresas que precisam gerenciar grandes volu
 
 ### Referências
 
-- [TOTVS about GED](https://www.totvs.com/blog/negocios/ged/);
+- [TOTVS sobre GED](https://www.totvs.com/blog/negocios/ged/);
 - [GED Portal](https://ged.net.br/definicoes-ged.html);
-- [Wikipedia about GED](https://pt.wikipedia.org/wiki/Gerenciamento_eletr%C3%B4nico_de_documentos);
-- [Neomind about GED](https://www.neomind.com.br/blog/o-que-e-ged/);
-- [Selbetti about GED](https://selbetti.com.br/blog/ged-o-que-e-como-funciona-e-quando-usar/);
-- [Sydle about GED](https://www.sydle.com/br/blog/ged-o-que-e-e-como-funciona-5f58df091e43744c69b51502);
+- [Wikipedia sobre GED](https://pt.wikipedia.org/wiki/Gerenciamento_eletr%C3%B4nico_de_documentos);
+- [Neomind sobre GED](https://www.neomind.com.br/blog/o-que-e-ged/);
+- [Selbetti sobre GED](https://selbetti.com.br/blog/ged-o-que-e-como-funciona-e-quando-usar/);
+- [Sydle sobre GED](https://www.sydle.com/br/blog/ged-o-que-e-e-como-funciona-5f58df091e43744c69b51502);
 
 ---
 ## Health Level Seven (HL7)
@@ -633,8 +635,8 @@ O HL7 é composto por várias versões e tipos de mensagens, e cada uma é desti
 
 ### Referências
 
-- [Wikipedia about HL7 (pt-br)](https://pt.wikipedia.org/wiki/Health_Level_7);
-- [Wikipedia about HL7](https://en.wikipedia.org/wiki/Health_Level_7);
+- [Wikipedia sobre HL7 (pt-br)](https://pt.wikipedia.org/wiki/Health_Level_7);
+- [Wikipedia sobre HL7](https://en.wikipedia.org/wiki/Health_Level_7);
 - [Official HL7 website](https://www.hl7.org/);
 
 ---
@@ -650,8 +652,8 @@ Integrado a outros sistemas, como sistemas de faturamento e prontuário eletrôn
 
 ### Referências
 
-- [Talking HealthTech about HIS](https://www.talkinghealthtech.com/glossary/hospital-information-systems-his);
-- [Wikipedia about HIS](https://en.wikipedia.org/wiki/Hospital_information_system);
+- [Talking HealthTech sobre HIS](https://www.talkinghealthtech.com/glossary/hospital-information-systems-his);
+- [Wikipedia sobre HIS](https://en.wikipedia.org/wiki/Hospital_information_system);
 
 ---
 ## Hyper-Converged Infrastructure (HCI)
@@ -664,12 +666,12 @@ O *Hyper-Converged Infrastructure (HCI)* (Infraestrutura Hiperconvergente) é um
 
 ### Referências
 
-- [Wikipedia about HCI](https://en.wikipedia.org/wiki/Hyper-converged_infrastructure);
-- [VMWare about HCI](https://www.vmware.com/info/hyper-converged-infrastructure);
-- [IBM about HCI](https://www.ibm.com/topics/hyperconverged-infrastructure);
-- [HP about HCI](https://www.hpe.com/br/en/what-is/hyperconverged-infrastructure.html);
-- [Nutanix about HCI](https://www.nutanix.com/hyperconverged-infrastructure);
-- [Cisco about HCI](https://www.cisco.com/c/en/us/solutions/data-center-virtualization/what-is-hyperconverged-infrastructure.html);
+- [Wikipedia sobre HCI](https://en.wikipedia.org/wiki/Hyper-converged_infrastructure);
+- [VMWare sobre HCI](https://www.vmware.com/info/hyper-converged-infrastructure);
+- [IBM sobre HCI](https://www.ibm.com/topics/hyperconverged-infrastructure);
+- [HP sobre HCI](https://www.hpe.com/br/en/what-is/hyperconverged-infrastructure.html);
+- [Nutanix sobre HCI](https://www.nutanix.com/hyperconverged-infrastructure);
+- [Cisco sobre HCI](https://www.cisco.com/c/en/us/solutions/data-center-virtualization/what-is-hyperconverged-infrastructure.html);
 
 ---
 ## Hypertext Transfer Protocol (HTTP)
@@ -686,10 +688,10 @@ A porta padrão do protocolo HTTP é a porta 80.
 
 ### Referências
 
-- [MDN Web Docs about HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP);
+- [MDN Web Docs sobre HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP);
 - [MDN Web Docs overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview);
-- [Wikipedia about HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol);
-- [CloudFlare about HTTP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/hypertext-transfer-protocol-http/);
+- [Wikipedia sobre HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol);
+- [CloudFlare sobre HTTP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/hypertext-transfer-protocol-http/);
 
 ---
 ## Hypertext Transfer Protocol Secure (HTTPS)
@@ -706,10 +708,10 @@ A porta padrão do protocolo HTTPS é a porta 443.
 
 ### Referências
 
-- [MDN Glossary about HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/HTTPS);
-- [Amazon AWS about the difference between HTTP and HTTPS](https://aws.amazon.com/pt/compare/the-difference-between-https-and-http/);
-- [Wikipedia about HTTPS](https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure);
-- [CloudFlare about HTTPS](https://www.cloudflare.com/pt-br/learning/ssl/what-is-https/);
+- [MDN Glossary sobre HTTPS](https://developer.mozilla.org/en-US/docs/Glossary/HTTPS);
+- [Amazon AWS sobre the difference between HTTP and HTTPS](https://aws.amazon.com/pt/compare/the-difference-between-https-and-http/);
+- [Wikipedia sobre HTTPS](https://pt.wikipedia.org/wiki/Hyper_Text_Transfer_Protocol_Secure);
+- [CloudFlare sobre HTTPS](https://www.cloudflare.com/pt-br/learning/ssl/what-is-https/);
 
 ---
 ## Infrastructure as a Service (IaaS)
@@ -722,15 +724,15 @@ O *Infrastructure as a Service (IaaS)* fornece infraestrutura de TI (servidores,
 
 ### Referências
 
-- [Google Cloud about IaaS](https://cloud.google.com/learn/what-is-iaas?hl=pt_br);
-- [Microsoft Azure about IaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas);
-- [Microsoft Azure about IaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-iaas);
-- [Amazon AWS about IaaS](https://aws.amazon.com/what-is/iaas/);
-- [IBM about IaaS](https://www.ibm.com/topics/iaas);
+- [Google Cloud sobre IaaS](https://cloud.google.com/learn/what-is-iaas?hl=pt_br);
+- [Microsoft Azure sobre IaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas);
+- [Microsoft Azure sobre IaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-iaas);
+- [Amazon AWS sobre IaaS](https://aws.amazon.com/what-is/iaas/);
+- [IBM sobre IaaS](https://www.ibm.com/topics/iaas);
 - [Google Cloud difference between PaaS, IaaS, SaaS, CaaS](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=pt_br);
-- [Fortinet about IaaS](https://www.fortinet.com/br/resources/cyberglossary/infrastructure-as-a-service);
-- [Cloudflare about IaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-iaas/);
-- [Wikipedia about IaaS](https://pt.wikipedia.org/wiki/Infraestrutura_como_servi%C3%A7o);
+- [Fortinet sobre IaaS](https://www.fortinet.com/br/resources/cyberglossary/infrastructure-as-a-service);
+- [Cloudflare sobre IaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-iaas/);
+- [Wikipedia sobre IaaS](https://pt.wikipedia.org/wiki/Infraestrutura_como_servi%C3%A7o);
 
 ---
 ## Internet Control Message Protocol (ICMP)
@@ -745,10 +747,10 @@ O ICMP não é utilizado para a transferência de dados de usuário, mas sim par
 
 ### Referências
 
-- [Amazon AWS about ICMP](https://aws.amazon.com/pt/what-is/icmp/);
-- [CloudFlare about ICMP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/internet-control-message-protocol-icmp/);
-- [Fortinet about ICMP](https://www.fortinet.com/br/resources/cyberglossary/internet-control-message-protocol-icmp);
-- [Wikipedia about ICMP](https://pt.wikipedia.org/wiki/Internet_Control_Message_Protocol);
+- [Amazon AWS sobre ICMP](https://aws.amazon.com/pt/what-is/icmp/);
+- [CloudFlare sobre ICMP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/internet-control-message-protocol-icmp/);
+- [Fortinet sobre ICMP](https://www.fortinet.com/br/resources/cyberglossary/internet-control-message-protocol-icmp);
+- [Wikipedia sobre ICMP](https://pt.wikipedia.org/wiki/Internet_Control_Message_Protocol);
 
 ---
 ## Internet Information Services (IIS)
@@ -763,9 +765,9 @@ Como servidor web, o IIS opera na Camada 7 (Aplicação) do modelo OSI, lidando 
 
 ### Referências
 
-- [Solarwinds about IIS](https://www.solarwinds.com/resources/it-glossary/iis-server);
-- [Microsoft about IIS](https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-web-server-overview);
-- [Wikipedia about IIS](https://en.wikipedia.org/wiki/Internet_Information_Services);
+- [Solarwinds sobre IIS](https://www.solarwinds.com/resources/it-glossary/iis-server);
+- [Microsoft sobre IIS](https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-web-server-overview);
+- [Wikipedia sobre IIS](https://en.wikipedia.org/wiki/Internet_Information_Services);
 - [IIS official website](https://www.iis.net/);
 
 ---
@@ -781,11 +783,11 @@ IMAP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 143
 
 ### Referências
 
-- [Hostinger about IMAP](https://www.hostinger.com/tutorials/pop3-vs-imap);
-- [Microsoft about IMAP](https://support.microsoft.com/en-us/office/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9);
-- [Wikipedia about IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol);
-- [Cloudflare about IMAP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-imap/);
-- [MailChimp about IMAP](https://mailchimp.com/resources/imap-vs-pop3/);
+- [Hostinger sobre IMAP](https://www.hostinger.com/tutorials/pop3-vs-imap);
+- [Microsoft sobre IMAP](https://support.microsoft.com/en-us/office/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9);
+- [Wikipedia sobre IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol);
+- [Cloudflare sobre IMAP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-imap/);
+- [MailChimp sobre IMAP](https://mailchimp.com/resources/imap-vs-pop3/);
 
 ---
 ## Internet Protocol (IP)
@@ -800,8 +802,8 @@ O IPv4 utiliza um sistema de endereçamento de 32 bits, o que resulta em cerca d
 
 ### Referências
 
-- [Wikipedia about IP](https://pt.wikipedia.org/wiki/Endere%C3%A7o_IP);
-- [CloudFlare about IP](https://www.cloudflare.com/pt-br/learning/network-layer/internet-protocol/);
+- [Wikipedia sobre IP](https://pt.wikipedia.org/wiki/Endere%C3%A7o_IP);
+- [CloudFlare sobre IP](https://www.cloudflare.com/pt-br/learning/network-layer/internet-protocol/);
 
 ---
 ## Interoperabilidade
@@ -816,11 +818,11 @@ A interoperabilidade é vital para integrar dados de várias fontes e possibilit
 
 ### Referências
 
-- [Wikipedia about Interoperability](https://pt.wikipedia.org/wiki/Interoperabilidade);
-- [Amazon AWS about Interoperability](https://aws.amazon.com/pt/what-is/interoperability/);
-- [Sankhya about Interoperability](https://www.sankhya.com.br/blog/interoperabilidade/);
-- [TOTVS about Interoperability](https://www.totvs.com/blog/instituicoes-de-saude/interoperabilidade-na-saude/);
-- [GOV.BR about Interoperability](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/interoperabilidade/copy_of_interoperabilidade);
+- [Wikipedia sobre Interoperability](https://pt.wikipedia.org/wiki/Interoperabilidade);
+- [Amazon AWS sobre Interoperability](https://aws.amazon.com/pt/what-is/interoperability/);
+- [Sankhya sobre Interoperability](https://www.sankhya.com.br/blog/interoperabilidade/);
+- [TOTVS sobre Interoperability](https://www.totvs.com/blog/instituicoes-de-saude/interoperabilidade-na-saude/);
+- [GOV.BR sobre Interoperability](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/interoperabilidade/copy_of_interoperabilidade);
 
 ---
 ## Jumbo Frames
@@ -839,9 +841,9 @@ Entretanto, todos os dispositivos na rota de uma transmissão de dados precisam 
 
 ### Referências
 
-- [Wikipedia about Jumbo Frames](https://en.wikipedia.org/wiki/Jumbo_frame);
-- [CBT Nuggets about Jumbo Frames](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-jumbo-frame);
-- [FS about Jumbo Frame](https://community.fs.com/article/what-is-jumbo-frame.html);
+- [Wikipedia sobre Jumbo Frames](https://en.wikipedia.org/wiki/Jumbo_frame);
+- [CBT Nuggets sobre Jumbo Frames](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-jumbo-frame);
+- [FS sobre Jumbo Frame](https://community.fs.com/article/what-is-jumbo-frame.html);
 
 ---
 ## Kernel-based Virtual Machine (KVM)
@@ -856,11 +858,11 @@ Com a adoção crescente de contêineres e ambientes virtualizados, o KVM é uma
 
 ### Referências
 
-- [RedHat about KVM](https://www.redhat.com/pt-br/topics/virtualization/what-is-KVM);
+- [RedHat sobre KVM](https://www.redhat.com/pt-br/topics/virtualization/what-is-KVM);
 - [KVM official website](https://linux-kvm.org/page/Main_Page);
-- [Hostinger about KVM](https://support.hostinger.com/pt/articles/6988144-o-que-e-virtualizacao-kvm);
-- [Amazon AWS about KVM](https://aws.amazon.com/pt/what-is/kvm/);
-- [Wikipedia about KVM](https://pt.wikipedia.org/wiki/Kernel-based_Virtual_Machine);
+- [Hostinger sobre KVM](https://support.hostinger.com/pt/articles/6988144-o-que-e-virtualizacao-kvm);
+- [Amazon AWS sobre KVM](https://aws.amazon.com/pt/what-is/kvm/);
+- [Wikipedia sobre KVM](https://pt.wikipedia.org/wiki/Kernel-based_Virtual_Machine);
 
 ---
 ## Laboratory Information System (LIS)
@@ -875,8 +877,8 @@ Além disso, o LIS permite a integração com outros sistemas de saúde, como HI
 
 ### Referências
 
-- [Wikipedia about LIS](https://en.wikipedia.org/wiki/Laboratory_information_management_system);
-- [Orchard about LIS](https://www.orchardsoft.com/resources/learn-about-lis/);
+- [Wikipedia sobre LIS](https://en.wikipedia.org/wiki/Laboratory_information_management_system);
+- [Orchard sobre LIS](https://www.orchardsoft.com/resources/learn-about-lis/);
 
 ---
 ## Lei Geral de Proteção de Dados (LGPD)
@@ -892,9 +894,9 @@ Em ambientes corporativos e de saúde, a LGPD impõe requisitos rigorosos para o
 ### Referências
 
 - [Official LGPD article](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm);
-- [GOV.BR about LGPD](https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd);
-- [SEBRAE about LGPD](https://sebrae.com.br/sites/PortalSebrae/LGPD);
-- [Wikipedia about LGPD](https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais#:~:text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o,do%20Marco%20Civil%20da%20Internet.);
+- [GOV.BR sobre LGPD](https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd);
+- [SEBRAE sobre LGPD](https://sebrae.com.br/sites/PortalSebrae/LGPD);
+- [Wikipedia sobre LGPD](https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais#:~:text=A%20Lei%20Geral%20de%20Prote%C3%A7%C3%A3o,do%20Marco%20Civil%20da%20Internet.);
 
 ---
 ## Lightweight Directory Access Protocol (LDAP)
@@ -909,12 +911,12 @@ LDAP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 389
 
 ### Referências
 
-- [Okta about LDAP](https://www.okta.com/identity-101/what-is-ldap/);
-- [Wikipedia about LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol);
-- [RedHat about LDAP](https://www.redhat.com/en/topics/security/what-is-ldap-authentication);
-- [IBM about LDAP](https://www.ibm.com/docs/en/zos/3.1.0?topic=server-what-is-ldap);
-- [Microsoft about LDAP](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ldap/lightweight-directory-access-protocol-ldap-api);
-- [Fortinet about LDAP](https://www.fortinet.com/resources/cyberglossary/ldap-authentication);
+- [Okta sobre LDAP](https://www.okta.com/identity-101/what-is-ldap/);
+- [Wikipedia sobre LDAP](https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol);
+- [RedHat sobre LDAP](https://www.redhat.com/en/topics/security/what-is-ldap-authentication);
+- [IBM sobre LDAP](https://www.ibm.com/docs/en/zos/3.1.0?topic=server-what-is-ldap);
+- [Microsoft sobre LDAP](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ldap/lightweight-directory-access-protocol-ldap-api);
+- [Fortinet sobre LDAP](https://www.fortinet.com/resources/cyberglossary/ldap-authentication);
 
 ---
 ## Local Area Network (LAN)
@@ -929,11 +931,11 @@ A LAN opera principalmente nas Camadas 1 (Física) e 2 (Enlace) do modelo OSI, f
 
 ### Referências
 
-- [CISCO about LAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-lan-local-area-network.html);
-- [Wikipedia about LAN](https://en.wikipedia.org/wiki/Local_area_network);
-- [Cloudflare about LAN](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-lan/);
-- [CompTIA about LAN](https://www.comptia.org/content/guides/what-is-a-local-area-network);
-- [GeeksForGeeks about LAN](https://www.geeksforgeeks.org/lan-full-form/);
+- [CISCO sobre LAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-lan-local-area-network.html);
+- [Wikipedia sobre LAN](https://en.wikipedia.org/wiki/Local_area_network);
+- [Cloudflare sobre LAN](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-lan/);
+- [CompTIA sobre LAN](https://www.comptia.org/content/guides/what-is-a-local-area-network);
+- [GeeksForGeeks sobre LAN](https://www.geeksforgeeks.org/lan-full-form/);
 
 ---
 ## Logical Volume Manager (LVM)
@@ -946,11 +948,11 @@ Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ### Referências
 
-- [Wikipedia about LVM](https://en.wikipedia.org/wiki/Logical_Volume_Manager_(Linux));
-- [Ubuntu about LVM](https://ubuntu.com/server/docs/about-logical-volume-management-lvm);
-- [RedHat about LVM](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/deployment_guide/ch-lvm);
-- [Wikipedia about LVM (2)](https://en.wikipedia.org/wiki/Logical_volume_management);
-- [RedHat about the difference between LVM and Standard Partitioning](https://www.redhat.com/en/blog/lvm-vs-partitioning);
+- [Wikipedia sobre LVM](https://en.wikipedia.org/wiki/Logical_Volume_Manager_(Linux));
+- [Ubuntu sobre LVM](https://ubuntu.com/server/docs/about-logical-volume-management-lvm);
+- [RedHat sobre LVM](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/deployment_guide/ch-lvm);
+- [Wikipedia sobre LVM (2)](https://en.wikipedia.org/wiki/Logical_volume_management);
+- [RedHat sobre the difference between LVM and Standard Partitioning](https://www.redhat.com/en/blog/lvm-vs-partitioning);
 
 ---
 ## Master Data Management (MDM)
@@ -965,9 +967,9 @@ Um sistema de MDM centraliza o gerenciamento de dados principais, permitindo que
 
 ### Referências
 
-- [IBM about MDM](https://www.ibm.com/think/topics/master-data-management);
-- [Oracle about MDM](https://www.oracle.com/br/scm/product-lifecycle-management/master-data-management/);
-- [Wikipedia about MDM](https://pt.wikipedia.org/wiki/Master_Data_Management);
+- [IBM sobre MDM](https://www.ibm.com/think/topics/master-data-management);
+- [Oracle sobre MDM](https://www.oracle.com/br/scm/product-lifecycle-management/master-data-management/);
+- [Wikipedia sobre MDM](https://pt.wikipedia.org/wiki/Master_Data_Management);
 
 ---
 ## Maximum Transmission Unit (MTU)
@@ -982,11 +984,11 @@ A MTU está relacionada à Camada 2 (Enlace) do modelo OSI, onde o controle de t
 
 ### Referências
 
-- [Cloudflare about MTU](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtu/);
-- [Wikipedia about MTU](https://en.wikipedia.org/wiki/Maximum_transmission_unit);
-- [Okta about MTU](https://www.okta.com/identity-101/mtu/);
-- [GeeksForGeeks about MTU](https://www.geeksforgeeks.org/what-is-mtumaximum-transmission-unit/);
-- [Huawei about MTU](https://info.support.huawei.com/info-finder/encyclopedia/en/MTU.html);
+- [Cloudflare sobre MTU](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtu/);
+- [Wikipedia sobre MTU](https://en.wikipedia.org/wiki/Maximum_transmission_unit);
+- [Okta sobre MTU](https://www.okta.com/identity-101/mtu/);
+- [GeeksForGeeks sobre MTU](https://www.geeksforgeeks.org/what-is-mtumaximum-transmission-unit/);
+- [Huawei sobre MTU](https://info.support.huawei.com/info-finder/encyclopedia/en/MTU.html);
 
 ---
 ## Mergers and Acquisitions (M&A)
@@ -1001,9 +1003,9 @@ As fusões geralmente envolvem empresas que se combinam em uma nova organizaçã
 
 ### Referências
 
-- [Wikipedia about M&A (pt-br)](https://pt.wikipedia.org/wiki/Fus%C3%B5es_e_aquisi%C3%A7%C3%B5es);
-- [FIA about M&A](https://fia.com.br/blog/ma-o-que-e-tipos-exemplos-e-etapas-do-processo/);
-- [Wikipedia about M&A](https://en.wikipedia.org/wiki/Mergers_and_acquisitions);
+- [Wikipedia sobre M&A (pt-br)](https://pt.wikipedia.org/wiki/Fus%C3%B5es_e_aquisi%C3%A7%C3%B5es);
+- [FIA sobre M&A](https://fia.com.br/blog/ma-o-que-e-tipos-exemplos-e-etapas-do-processo/);
+- [Wikipedia sobre M&A](https://en.wikipedia.org/wiki/Mergers_and_acquisitions);
 
 ---
 ## Message Queuing Telemetry Transport (MQTT)
@@ -1018,10 +1020,10 @@ Operando na camada de aplicação do modelo OSI (Camada 7) e geralmente utiliza 
 
 ### Referências
 
-- [Wikipedia about MQTT](https://en.wikipedia.org/wiki/MQTT);
+- [Wikipedia sobre MQTT](https://en.wikipedia.org/wiki/MQTT);
 - [MQTT official website](https://mqtt.org/);
-- [GeeksForGooks about MQTT](https://www.geeksforgeeks.org/introduction-of-message-queue-telemetry-transport-protocol-mqtt/);
-- [Amazon AWS about MQTT](https://aws.amazon.com/what-is/mqtt/);
+- [GeeksForGooks sobre MQTT](https://www.geeksforgeeks.org/introduction-of-message-queue-telemetry-transport-protocol-mqtt/);
+- [Amazon AWS sobre MQTT](https://aws.amazon.com/what-is/mqtt/);
 
 ---
 ## Minimum Viable Product (MVP)
@@ -1036,13 +1038,13 @@ Ao lançar um MVP, as empresas podem validar hipóteses, ajustar funcionalidades
 
 ### Referências
 
-- [Wikipedia about MVP (pt-br)](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo);
-- [InfoMoney about MVP](https://www.infomoney.com.br/guias/o-que-e-como-fazer-mvp-produto-viavel-minimo/);
-- [Zendesk about MVP](https://www.zendesk.com.br/blog/o-que-e-mvp/#);
-- [Wikipedia about MVP](https://en.wikipedia.org/wiki/Minimum_viable_product);
-- [Atlassian about MVP](https://www.atlassian.com/agile/product-management/minimum-viable-product);
-- [Gartner Glossary about MVP](https://www.gartner.com/en/marketing/glossary/minimum-viable-product-mvp-);
-- [Mailchimp about MVP](https://mailchimp.com/pt-br/resources/minimum-viable-product/);
+- [Wikipedia sobre MVP (pt-br)](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo);
+- [InfoMoney sobre MVP](https://www.infomoney.com.br/guias/o-que-e-como-fazer-mvp-produto-viavel-minimo/);
+- [Zendesk sobre MVP](https://www.zendesk.com.br/blog/o-que-e-mvp/#);
+- [Wikipedia sobre MVP](https://en.wikipedia.org/wiki/Minimum_viable_product);
+- [Atlassian sobre MVP](https://www.atlassian.com/agile/product-management/minimum-viable-product);
+- [Gartner Glossary sobre MVP](https://www.gartner.com/en/marketing/glossary/minimum-viable-product-mvp-);
+- [Mailchimp sobre MVP](https://mailchimp.com/pt-br/resources/minimum-viable-product/);
 
 ---
 ## Mirth Connect
@@ -1057,7 +1059,7 @@ Através de sua interface gráfica, o Mirth facilita o mapeamento de dados e a c
 
 ### Referências
 
-- [Wikipedia about Mirth](https://en.wikipedia.org/wiki/Mirth_Connect);
+- [Wikipedia sobre Mirth](https://en.wikipedia.org/wiki/Mirth_Connect);
 - [Mirth e-book](https://www.nextgen.com/-/media/DAM/Collateral/E-Books/CH_FundamentalBuildingBlocksofInterop_Ebook.pdf);
 
 ---
@@ -1071,11 +1073,11 @@ Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ### Referências
 
-- [Wikipedia about MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication);
-- [Amazon AWS about MFA](https://aws.amazon.com/what-is/mfa/);
-- [Microsoft about MFA](https://support.microsoft.com/en-us/topic/what-is-multifactor-authentication-e5e39437-121c-be60-d123-eda06bddf661);
-- [IBM about MFA](https://www.ibm.com/topics/multi-factor-authentication);
-- [CISCO about MFA](https://www.cisco.com/c/en/us/products/security/what-is-multi-factor-authentication.html);
+- [Wikipedia sobre MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication);
+- [Amazon AWS sobre MFA](https://aws.amazon.com/what-is/mfa/);
+- [Microsoft sobre MFA](https://support.microsoft.com/en-us/topic/what-is-multifactor-authentication-e5e39437-121c-be60-d123-eda06bddf661);
+- [IBM sobre MFA](https://www.ibm.com/topics/multi-factor-authentication);
+- [CISCO sobre MFA](https://www.cisco.com/c/en/us/products/security/what-is-multi-factor-authentication.html);
 
 ---
 ## Multiprotocol Label Switching (MPLS)
@@ -1090,9 +1092,9 @@ O MPLS opera entre a Camada 2 (Enlace) e Camada 3 (Rede) do modelo OSI, sendo co
 
 ### Referências
 
-- [Wikipedia about MPLS](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching);
-- [Cloudflare about MPLS](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mpls/);
-- [CISCO about MPLS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/multiprotocol-label-switching-mpls/index.html);
+- [Wikipedia sobre MPLS](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching);
+- [Cloudflare sobre MPLS](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mpls/);
+- [CISCO sobre MPLS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/multiprotocol-label-switching-mpls/index.html);
 
 ---
 ## My Traceroute (MTR)
@@ -1107,8 +1109,8 @@ O MTR não se enquadra diretamente no modelo OSI, mas sua função está associa
 
 ### Referências
 
-- [Cloudflare about MTR](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtr/);
-- [Wikipedia about MTR](https://en.wikipedia.org/wiki/MTR_(software));
+- [Cloudflare sobre MTR](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtr/);
+- [Wikipedia sobre MTR](https://en.wikipedia.org/wiki/MTR_(software));
 - [Oracle man of MTR](https://docs.oracle.com/cd/E88353_01/html/E72487/mtr-8.html);
 - [RedHat how to use MTR](https://www.redhat.com/en/blog/linux-mtr-command);
 - [Die man of MTR](https://linux.die.net/man/8/mtr);
@@ -1126,10 +1128,10 @@ O NFS é amplamente utilizado em ambientes de rede Linux, permitindo o compartil
 
 ### Referências
 
-- [RedHat about NFS](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-nfs);
-- [NordVPN about NFS](https://nordvpn.com/pt-br/blog/network-file-system/);
-- [Wikipedia about NFS (pt-br)](https://pt.wikipedia.org/wiki/Network_File_System);
-- [Wikipedia about NFS](https://en.wikipedia.org/wiki/Network_File_System);
+- [RedHat sobre NFS](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-nfs);
+- [NordVPN sobre NFS](https://nordvpn.com/pt-br/blog/network-file-system/);
+- [Wikipedia sobre NFS (pt-br)](https://pt.wikipedia.org/wiki/Network_File_System);
+- [Wikipedia sobre NFS](https://en.wikipedia.org/wiki/Network_File_System);
 
 ---
 ## Network Mapper (Nmap)
@@ -1145,7 +1147,7 @@ O Nmap opera principalmente na Camada 3 (Rede) e Camada 4 (Transporte) do modelo
 ### Referências
 
 - [NMAP official website](https://nmap.org/);
-- [Wikipedia about NMAP](https://en.wikipedia.org/wiki/Nmap);
+- [Wikipedia sobre NMAP](https://en.wikipedia.org/wiki/Nmap);
 - [Die NMAP man](https://linux.die.net/man/1/nmap);
 - [NMAP official man](https://nmap.org/man/pt_PT/index.html);
 
@@ -1162,9 +1164,9 @@ Os NDAs ajudam a proteger o know-how, segredos comerciais e outros dados crític
 
 ### Referências
 
-- [TOTVS about NDA](https://www.totvs.com/blog/gestao-para-assinatura-de-documentos/o-que-e-nda/);
-- [Jusbrasil about NDA](https://www.jusbrasil.com.br/artigos/o-que-e-um-nda-quando-e-como-usar/729672857);
-- [Wikipedia about NDA](https://pt.wikipedia.org/wiki/Acordo_de_n%C3%A3o-divulga%C3%A7%C3%A3o);
+- [TOTVS sobre NDA](https://www.totvs.com/blog/gestao-para-assinatura-de-documentos/o-que-e-nda/);
+- [Jusbrasil sobre NDA](https://www.jusbrasil.com.br/artigos/o-que-e-um-nda-quando-e-como-usar/729672857);
+- [Wikipedia sobre NDA](https://pt.wikipedia.org/wiki/Acordo_de_n%C3%A3o-divulga%C3%A7%C3%A3o);
 
 ---
 ## Not Only SQL (NOSQL)
@@ -1179,14 +1181,14 @@ NoSQL é comumente utilizado em aplicações modernas e sistemas distribuídos, 
 
 ### Referências
 
-- [MongoDB about NoSQL](https://www.mongodb.com/resources/basics/databases/nosql-explained);
-- [Wikipedia about NoSQL](https://en.wikipedia.org/wiki/NoSQL);
-- [IBM about NoSQL](https://www.ibm.com/topics/nosql-databases);
-- [Google Cloud about NoSQL](https://cloud.google.com/discover/what-is-nosql?hl=pt_br);
-- [Amazon AWS about NoSQL](https://aws.amazon.com/pt/nosql/);
-- [GeeksForGeeks about NoSQL](https://www.geeksforgeeks.org/introduction-to-nosql/);
-- [Oracle about NoSQL](https://www.oracle.com/database/nosql/what-is-nosql/);
-- [Microsoft Azure about NoSQL](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-nosql-database);
+- [MongoDB sobre NoSQL](https://www.mongodb.com/resources/basics/databases/nosql-explained);
+- [Wikipedia sobre NoSQL](https://en.wikipedia.org/wiki/NoSQL);
+- [IBM sobre NoSQL](https://www.ibm.com/topics/nosql-databases);
+- [Google Cloud sobre NoSQL](https://cloud.google.com/discover/what-is-nosql?hl=pt_br);
+- [Amazon AWS sobre NoSQL](https://aws.amazon.com/pt/nosql/);
+- [GeeksForGeeks sobre NoSQL](https://www.geeksforgeeks.org/introduction-to-nosql/);
+- [Oracle sobre NoSQL](https://www.oracle.com/database/nosql/what-is-nosql/);
+- [Microsoft Azure sobre NoSQL](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-nosql-database);
 
 ---
 ## Object-Relational Mapping (ORM)
@@ -1201,9 +1203,9 @@ Ferramentas ORM populares incluem Hibernate (para Java), Entity Framework (para 
 
 ### Referências
 
-- [Baeldung about ORM](https://www.baeldung.com/cs/object-relational-mapping);
-- [Wikipedia about ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping);
-- [GeekForGeeks about ORM](https://www.geeksforgeeks.org/what-is-object-relational-mapping-orm-in-dbms/);
+- [Baeldung sobre ORM](https://www.baeldung.com/cs/object-relational-mapping);
+- [Wikipedia sobre ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping);
+- [GeekForGeeks sobre ORM](https://www.geeksforgeeks.org/what-is-object-relational-mapping-orm-in-dbms/);
 
 ---
 ## Open Systems Interconnection (OSI Model)
@@ -1244,11 +1246,11 @@ A camada de aplicação é onde os usuários interagem diretamente com a rede. E
 
 ### Referências
 
-- [Wikipedia about OSI Model](https://pt.wikipedia.org/wiki/Modelo_OSI);
-- [Alura about OSI Model](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi?srsltid=AfmBOoqJISb98rbDxr1dq9q1P989R40QlGegUB05RdtDsgXakhIYZvk8);
-- [CloudFlare about OSI Model](https://www.cloudflare.com/pt-br/learning/ddos/glossary/open-systems-interconnection-model-osi/);
-- [Amazon AWS about OSI Model](https://aws.amazon.com/pt/what-is/osi-model/);
-- [CISCO about OSI Model](https://community.cisco.com/t5/artigos-gerais/modelo-osi-e-suas-camadas/ta-p/5052369);
+- [Wikipedia sobre OSI Model](https://pt.wikipedia.org/wiki/Modelo_OSI);
+- [Alura sobre OSI Model](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi?srsltid=AfmBOoqJISb98rbDxr1dq9q1P989R40QlGegUB05RdtDsgXakhIYZvk8);
+- [CloudFlare sobre OSI Model](https://www.cloudflare.com/pt-br/learning/ddos/glossary/open-systems-interconnection-model-osi/);
+- [Amazon AWS sobre OSI Model](https://aws.amazon.com/pt/what-is/osi-model/);
+- [CISCO sobre OSI Model](https://community.cisco.com/t5/artigos-gerais/modelo-osi-e-suas-camadas/ta-p/5052369);
 
 ---
 ## Platform as a Service (PaaS)
@@ -1261,15 +1263,15 @@ O *Platform as a Service (PaaS)* oferece uma plataforma completa para desenvolvi
 
 ### Referências
 
-- [Microsoft Azure about PaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-paas);
-- [Google Cloud about PaaS](https://cloud.google.com/learn/what-is-paas?hl=pt-BR);
-- [Microsoft Azure about PaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas);
-- [Wikipedia about PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service);
-- [RedHat about PaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-paas);
-- [IBM about PaaS](https://www.ibm.com/topics/paas);
-- [Zendesk about PaaS](https://www.zendesk.com.br/blog/what-is-paas/);
-- [Fortinet about PaaS](https://www.fortinet.com/br/resources/cyberglossary/platform-as-a-service);
-- [HP about PaaS](https://www.hpe.com/us/en/what-is/paas.html);
+- [Microsoft Azure sobre PaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-paas);
+- [Google Cloud sobre PaaS](https://cloud.google.com/learn/what-is-paas?hl=pt-BR);
+- [Microsoft Azure sobre PaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas);
+- [Wikipedia sobre PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service);
+- [RedHat sobre PaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-paas);
+- [IBM sobre PaaS](https://www.ibm.com/topics/paas);
+- [Zendesk sobre PaaS](https://www.zendesk.com.br/blog/what-is-paas/);
+- [Fortinet sobre PaaS](https://www.fortinet.com/br/resources/cyberglossary/platform-as-a-service);
+- [HP sobre PaaS](https://www.hpe.com/us/en/what-is/paas.html);
 
 ---
 ## Post Office Protocol (POP)
@@ -1284,10 +1286,10 @@ O POP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 11
 
 ### Referências
 
-- [Wikipedia about POP](https://en.wikipedia.org/wiki/Post_Office_Protocol);
-- [Wikipedia about POP (pt-br)](https://pt.wikipedia.org/wiki/Post_Office_Protocol);
-- [Javatpoint about POP](https://www.javatpoint.com/pop-protocol);
-- [GeeksForGeeks about POP](https://www.geeksforgeeks.org/what-is-pop3-post-office-protocol-version-3/);
+- [Wikipedia sobre POP](https://en.wikipedia.org/wiki/Post_Office_Protocol);
+- [Wikipedia sobre POP (pt-br)](https://pt.wikipedia.org/wiki/Post_Office_Protocol);
+- [Javatpoint sobre POP](https://www.javatpoint.com/pop-protocol);
+- [GeeksForGeeks sobre POP](https://www.geeksforgeeks.org/what-is-pop3-post-office-protocol-version-3/);
 
 ---
 ## Prontuário Eletrônico do Paciente (PEP)
@@ -1302,10 +1304,10 @@ O PEP é uma das principais ferramentas para garantir a interoperabilidade entre
 
 ### Referências
 
-- [Wikipedia about PEP](https://pt.wikipedia.org/wiki/Prontu%C3%A1rio_Eletr%C3%B4nico);
-- [Hilab about PEP](https://hilab.com.br/blog/prontuario-eletronico-do-paciente/);
-- [Pixeon about PEP](https://www.pixeon.com/blog/prontuario-eletronico-do-paciente/);
-- [GOV.BR about PEP](https://www.gov.br/saude/pt-br/composicao/saps/informatiza-aps/prontuario-eletronico);
+- [Wikipedia sobre PEP](https://pt.wikipedia.org/wiki/Prontu%C3%A1rio_Eletr%C3%B4nico);
+- [Hilab sobre PEP](https://hilab.com.br/blog/prontuario-eletronico-do-paciente/);
+- [Pixeon sobre PEP](https://www.pixeon.com/blog/prontuario-eletronico-do-paciente/);
+- [GOV.BR sobre PEP](https://www.gov.br/saude/pt-br/composicao/saps/informatiza-aps/prontuario-eletronico);
 
 ---
 ## RabbitMQ
@@ -1321,9 +1323,9 @@ RabbitMQ implementa o protocolo *Advanced Message Queuing Protocol (AMQP)* e ofe
 ### Referências
 
 - [RabbitMQ official website](https://www.rabbitmq.com/);
-- [Wikipedia about RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ);
-- [Wikipedia about RabbitMQ (pt-br)](https://pt.wikipedia.org/wiki/RabbitMQ);
-- [FullCycle about RabbitMQ](https://fullcycle.com.br/como-funciona-o-rabbitmq/);
+- [Wikipedia sobre RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ);
+- [Wikipedia sobre RabbitMQ (pt-br)](https://pt.wikipedia.org/wiki/RabbitMQ);
+- [FullCycle sobre RabbitMQ](https://fullcycle.com.br/como-funciona-o-rabbitmq/);
 
 ---
 ## Radiology Information System (RIS)
@@ -1338,10 +1340,10 @@ Esses sistemas são essenciais para documentar procedimentos, arquivar imagens m
 
 ### Referências
 
-- [Animati about RIS](https://www.animati.com.br/ris-na-radiologia/);
-- [Pixeon about RIS](https://www.pixeon.com/blog/o-que-e-ris/);
-- [Wikipedia about RIS](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_radiol%C3%B3gica);
-- [Star about RIS](https://star.med.br/o-que-e-ris/);
+- [Animati sobre RIS](https://www.animati.com.br/ris-na-radiologia/);
+- [Pixeon sobre RIS](https://www.pixeon.com/blog/o-que-e-ris/);
+- [Wikipedia sobre RIS](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_radiol%C3%B3gica);
+- [Star sobre RIS](https://star.med.br/o-que-e-ris/);
 
 ---
 ## Remote Desktop Protocol (RDP)
@@ -1356,11 +1358,11 @@ O RDP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 33
 
 ### Referências
 
-- [Cloudflare about RDP](https://www.cloudflare.com/pt-br/learning/access-management/what-is-the-remote-desktop-protocol/);
-- [Wikipedia about RDP](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol);
-- [Microsoft about RDP](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol);
-- [Solarwinds about RDP](https://www.solarwinds.com/resources/it-glossary/remote-desktop-protocol);
-- [Fortinet about RDP](https://www.fortinet.com/resources/cyberglossary/remote-desktop-protocol);
+- [Cloudflare sobre RDP](https://www.cloudflare.com/pt-br/learning/access-management/what-is-the-remote-desktop-protocol/);
+- [Wikipedia sobre RDP](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol);
+- [Microsoft sobre RDP](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol);
+- [Solarwinds sobre RDP](https://www.solarwinds.com/resources/it-glossary/remote-desktop-protocol);
+- [Fortinet sobre RDP](https://www.fortinet.com/resources/cyberglossary/remote-desktop-protocol);
 
 ---
 ## Samba
@@ -1376,10 +1378,10 @@ SAMBA é amplamente utilizado em ambientes empresariais para integrar redes base
 ### Referências
 
 - [Samba official website](https://www.samba.org/samba/what_is_samba.html);
-- [University of Pennsilvania about Samba](https://cets.seas.upenn.edu/answers/samba.html);
-- [RedHat about Samba](https://www.redhat.com/en/blog/getting-started-samba);
-- [Ubuntu about Samba](https://ubuntu.com/server/docs/introduction-to-samba);
-- [Wikipedia about Samba](https://en.wikipedia.org/wiki/Samba_(software));
+- [University of Pennsilvania sobre Samba](https://cets.seas.upenn.edu/answers/samba.html);
+- [RedHat sobre Samba](https://www.redhat.com/en/blog/getting-started-samba);
+- [Ubuntu sobre Samba](https://ubuntu.com/server/docs/introduction-to-samba);
+- [Wikipedia sobre Samba](https://en.wikipedia.org/wiki/Samba_(software));
 
 ---
 ## Secure Copy Protocol (SCP)
@@ -1394,9 +1396,9 @@ O SCP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 22
 
 ### Referências
 
-- [Wikipedia about SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol);
-- [Wikipedia about SCP (pt-br)](https://pt.wikipedia.org/wiki/Secure_copy);
-- [NordVPN about SCP](https://nordvpn.com/pt-br/cybersecurity/glossary/secure-copy-protocol/);
+- [Wikipedia sobre SCP](https://en.wikipedia.org/wiki/Secure_copy_protocol);
+- [Wikipedia sobre SCP (pt-br)](https://pt.wikipedia.org/wiki/Secure_copy);
+- [NordVPN sobre SCP](https://nordvpn.com/pt-br/cybersecurity/glossary/secure-copy-protocol/);
 - [Die SCP man](https://linux.die.net/man/1/scp);
 - [Man page of SCP](https://man7.org/linux/man-pages/man1/scp.1.html);
 - [Oracle SCP man](https://docs.oracle.com/cd/E36784_01/html/E36870/scp-1.html);
@@ -1414,7 +1416,7 @@ O *Secure File Transfer Protocol (SFTP)* é uma versão segura do FTP que utiliz
 
 ### Referências
 
-- [Wikipedia about SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol);
+- [Wikipedia sobre SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol);
 
 ---
 ## Secure Shell (SSH)
@@ -1427,8 +1429,8 @@ O *Secure Shell (SSH)* é um protocolo de rede amplamente utilizado em ambientes
 
 ### Referências
 
-- [CloudFlare about SSH](https://www.cloudflare.com/pt-br/learning/access-management/what-is-ssh/);
-- [Wikipedia about SSH](https://pt.wikipedia.org/wiki/Secure_Shell);
+- [CloudFlare sobre SSH](https://www.cloudflare.com/pt-br/learning/access-management/what-is-ssh/);
+- [Wikipedia sobre SSH](https://pt.wikipedia.org/wiki/Secure_Shell);
 
 ---
 ## Secure Sockets Layer (SSL)
@@ -1441,9 +1443,9 @@ O *Secure Sockets Layer (SSL)* é um protocolo de segurança criado para protege
 
 ### Referências
 
-- [Amazon AWS About SSL Certificate](https://aws.amazon.com/pt/what-is/ssl-certificate/);
-- [CloudFlare About SSL Certificate](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/);
-- [Wikipedia About SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security);
+- [Amazon AWS sobre SSL Certificate](https://aws.amazon.com/pt/what-is/ssl-certificate/);
+- [CloudFlare sobre SSL Certificate](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/);
+- [Wikipedia sobre SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security);
 
 ---
 ## Server Message Block (SMB)
@@ -1458,9 +1460,9 @@ O protocolo SMB funciona na camada de aplicação do modelo OSI e é utilizado p
 
 ### Referências
 
-- [Wikipedia about SMB](https://en.wikipedia.org/wiki/Server_Message_Block);
-- [NordVPN about SMB](https://nordvpn.com/pt-br/blog/what-is-smb/);
-- [Wikiedia about SMB (pt-br)](https://pt.wikipedia.org/wiki/Server_Message_Block);
+- [Wikipedia sobre SMB](https://en.wikipedia.org/wiki/Server_Message_Block);
+- [NordVPN sobre SMB](https://nordvpn.com/pt-br/blog/what-is-smb/);
+- [Wikiedia sobre SMB (pt-br)](https://pt.wikipedia.org/wiki/Server_Message_Block);
 
 ---
 ## Simple Mail Transfer Protocol (SMTP)
@@ -1473,10 +1475,10 @@ O *Simple Mail Transfer Protocol (SMTP)* é o protocolo padrão de envio de e-ma
 
 ### Referências
 
-- [Cloudflare about SMTP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-smtp/);
-- [Wikipedia about SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol);
-- [Amazon AWS about SMTP](https://aws.amazon.com/what-is/smtp/);
-- [GeeksForGeeks about SMTP](https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/);
+- [Cloudflare sobre SMTP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-smtp/);
+- [Wikipedia sobre SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol);
+- [Amazon AWS sobre SMTP](https://aws.amazon.com/what-is/smtp/);
+- [GeeksForGeeks sobre SMTP](https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/);
 
 ---
 ## Simple Network Management Protocol (SNMP)
@@ -1491,8 +1493,8 @@ O SNMP utiliza uma arquitetura cliente-servidor, onde os dispositivos de rede, c
 
 ### Referências
 
-- [Wikipedia about SNMP](https://pt.wikipedia.org/wiki/Simple_Network_Management_Protocol);
-- [4Linux about SNMP](https://4linux.com.br/o-que-e-snmp/);
+- [Wikipedia sobre SNMP](https://pt.wikipedia.org/wiki/Simple_Network_Management_Protocol);
+- [4Linux sobre SNMP](https://4linux.com.br/o-que-e-snmp/);
 
 ---
 ## Sistema de Gerenciamento de Banco de Dados (SGDB)
@@ -1507,8 +1509,8 @@ Os SGBDs são fundamentais em praticamente todos os sistemas modernos que depend
 
 ### Referências
 
-- [Wikipedia about SGDB](https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_banco_de_dados);
-- [Alura about SGDB](https://www.alura.com.br/artigos/sgbds-relacionais?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=164212380672&hsa_ad=703829166693&hsa_src=g&hsa_tgt=dsa-425656816943&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hQc_xLuiB4fiLBFhl993s324PiO_jXpvqrOzOH7b6jXxltWiUsRw4aAug-EALw_wcB);
+- [Wikipedia sobre SGDB](https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_banco_de_dados);
+- [Alura sobre SGDB](https://www.alura.com.br/artigos/sgbds-relacionais?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=164212380672&hsa_ad=703829166693&hsa_src=g&hsa_tgt=dsa-425656816943&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hQc_xLuiB4fiLBFhl993s324PiO_jXpvqrOzOH7b6jXxltWiUsRw4aAug-EALw_wcB);
 
 ---
 ## Site Reliability Engineering (SRE)
@@ -1521,13 +1523,13 @@ O *Site Reliability Engineering (SRE)* é uma abordagem de engenharia de softwar
 
 ### Referências
 
-- [RedHat about SRE](https://www.redhat.com/en/topics/devops/what-is-sre);
-- [Amazon AWS about SRE](https://aws.amazon.com/what-is/sre/);
+- [RedHat sobre SRE](https://www.redhat.com/en/topics/devops/what-is-sre);
+- [Amazon AWS sobre SRE](https://aws.amazon.com/what-is/sre/);
 - [SRE official website](https://sre.google/);
-- [Wikipedia about SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering);
-- [IBM about SRE](https://www.ibm.com/topics/site-reliability-engineering);
-- [Dynatrace about SRE](https://www.dynatrace.com/news/blog/what-is-site-reliability-engineering/);
-- [Atlassian about SRE](https://www.atlassian.com/incident-management/devops/sre);
+- [Wikipedia sobre SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering);
+- [IBM sobre SRE](https://www.ibm.com/topics/site-reliability-engineering);
+- [Dynatrace sobre SRE](https://www.dynatrace.com/news/blog/what-is-site-reliability-engineering/);
+- [Atlassian sobre SRE](https://www.atlassian.com/incident-management/devops/sre);
 
 ---
 ## Software as a Service (Saas)
@@ -1540,13 +1542,13 @@ O *Software as a Service (Saas)* é um modelo de computação em nuvem onde o so
 
 ### Referências
 
-- [Microsoft Azure about SaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas);
-- [Salesforce about SaaS](https://www.salesforce.com/saas/);
-- [Wikipedia about SaaS](https://en.wikipedia.org/wiki/Software_as_a_service);
-- [Amazon AWS about SaaS](https://aws.amazon.com/what-is/saas/);
-- [IBM about SaaS](https://www.ibm.com/topics/saas);
-- [Cloudflare about SaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-saas/);
-- [Oracla about SaaS](https://www.oracle.com/ng/applications/what-is-saas/);
+- [Microsoft Azure sobre SaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-saas);
+- [Salesforce sobre SaaS](https://www.salesforce.com/saas/);
+- [Wikipedia sobre SaaS](https://en.wikipedia.org/wiki/Software_as_a_service);
+- [Amazon AWS sobre SaaS](https://aws.amazon.com/what-is/saas/);
+- [IBM sobre SaaS](https://www.ibm.com/topics/saas);
+- [Cloudflare sobre SaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-saas/);
+- [Oracla sobre SaaS](https://www.oracle.com/ng/applications/what-is-saas/);
 
 ---
 ## Static Application Security Testing (SAST)
@@ -1561,10 +1563,10 @@ Ferramentas SAST populares incluem SonarQube, Checkmarx e Veracode, que ajudam a
 
 ### Referências
 
-- [Wikipedia about SAST](https://en.wikipedia.org/wiki/Static_application_security_testing);
-- [Sonar about SAST](https://www.sonarsource.com/learn/sast/);
-- [Gartner Glossary about SAST](https://www.gartner.com/en/information-technology/glossary/static-application-security-testing-sast);
-- [Opentext about SAST](https://www.opentext.com/pt-br/o-que-e/sast);
+- [Wikipedia sobre SAST](https://en.wikipedia.org/wiki/Static_application_security_testing);
+- [Sonar sobre SAST](https://www.sonarsource.com/learn/sast/);
+- [Gartner Glossary sobre SAST](https://www.gartner.com/en/information-technology/glossary/static-application-security-testing-sast);
+- [Opentext sobre SAST](https://www.opentext.com/pt-br/o-que-e/sast);
 
 ---
 ## Streaming Text Oriented Messaging Protocol (STOMP)
@@ -1579,8 +1581,8 @@ STOMP opera na camada de aplicação do modelo OSI (Camada 7) e é utilizado em 
 
 ### Referências
 
-- [Wikipedia about STOMP](https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol);
-- [GeeksForGeeks about STOMP](https://www.geeksforgeeks.org/stomp-protocol/);
+- [Wikipedia sobre STOMP](https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol);
+- [GeeksForGeeks sobre STOMP](https://www.geeksforgeeks.org/stomp-protocol/);
 
 ---
 ## Structured Query Language (SQL)
@@ -1595,11 +1597,11 @@ Em termos de arquitetura, o SQL é estruturado para transações ACID (Atomicida
 
 ### Referências
 
-- [w3schools about SQL](https://www.w3schools.com/sql/sql_intro.asp);
-- [Amazon AWS about SQL](https://aws.amazon.com/what-is/sql/);
-- [Wikipedia about SQL](https://en.wikipedia.org/wiki/SQL);
-- [IBM about SQL](https://www.ibm.com/think/topics/structured-query-language);
-- [GeeksForGeeks about SQL](https://www.geeksforgeeks.org/what-is-sql/);
+- [w3schools sobre SQL](https://www.w3schools.com/sql/sql_intro.asp);
+- [Amazon AWS sobre SQL](https://aws.amazon.com/what-is/sql/);
+- [Wikipedia sobre SQL](https://en.wikipedia.org/wiki/SQL);
+- [IBM sobre SQL](https://www.ibm.com/think/topics/structured-query-language);
+- [GeeksForGeeks sobre SQL](https://www.geeksforgeeks.org/what-is-sql/);
 
 ---
 ## Switch Top of Rack (ToR)
@@ -1614,8 +1616,8 @@ Switches ToR geralmente operam na Camada 2 (Enlace) e/ou Camada 3 (Rede) do mode
 
 ### Referências
 
-- [CBT Nuggets about Switch ToR](https://www.cbtnuggets.com/blog/technology/networking/top-of-rack-switching);
-- [FS about Switch ToR](https://community.fs.com/article/popular-tor-and-tor-switch-in-data-center-architectures.html);
+- [CBT Nuggets sobre Switch ToR](https://www.cbtnuggets.com/blog/technology/networking/top-of-rack-switching);
+- [FS sobre Switch ToR](https://community.fs.com/article/popular-tor-and-tor-switch-in-data-center-architectures.html);
 
 ---
 ## Time to Live (TTL)
@@ -1630,10 +1632,10 @@ O TTL é uma característica presente na Camada 3 (Rede) do modelo OSI, onde é 
 
 ### Referências
 
-- [Cloudflare about TTL](https://www.cloudflare.com/pt-br/learning/cdn/glossary/time-to-live-ttl/);
-- [Wikipedia about TTL](https://en.wikipedia.org/wiki/Time_to_live);
-- [Fortinet about TTL](https://www.fortinet.com/resources/cyberglossary/what-is-ttl);
-- [IBM about TTL](https://www.ibm.com/topics/time-to-live);
+- [Cloudflare sobre TTL](https://www.cloudflare.com/pt-br/learning/cdn/glossary/time-to-live-ttl/);
+- [Wikipedia sobre TTL](https://en.wikipedia.org/wiki/Time_to_live);
+- [Fortinet sobre TTL](https://www.fortinet.com/resources/cyberglossary/what-is-ttl);
+- [IBM sobre TTL](https://www.ibm.com/topics/time-to-live);
 
 ---
 ## Transmission Control Protocol (TCP)
@@ -1648,8 +1650,8 @@ O protocolo TCP é amplamente utilizado em aplicações que exigem alta confiabi
 
 ### Referências
 
-- [Wikipedia about TCP](https://pt.wikipedia.org/wiki/Protocolo_de_Controle_de_Transmiss%C3%A3o);
-- [CloudFlare about TCP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/tcp-ip/);
+- [Wikipedia sobre TCP](https://pt.wikipedia.org/wiki/Protocolo_de_Controle_de_Transmiss%C3%A3o);
+- [CloudFlare sobre TCP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/tcp-ip/);
 
 ---
 ## Transport Layer Security (TLS)
@@ -1662,10 +1664,10 @@ O *Transport Layer Security (TLS)* é a evolução do SSL e o protocolo atualmen
 
 ### Referências
 
-- [Wikipedia about TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security);
-- [Wikipedia about TLS (pt-br)](https://pt.wikipedia.org/wiki/Transport_Layer_Security);
-- [CloudFlare about TLS](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/);
-- [Amazon AWS about the difference between SSL and TLS](https://aws.amazon.com/pt/compare/the-difference-between-ssl-and-tls/);
+- [Wikipedia sobre TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security);
+- [Wikipedia sobre TLS (pt-br)](https://pt.wikipedia.org/wiki/Transport_Layer_Security);
+- [CloudFlare sobre TLS](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/);
+- [Amazon AWS sobre the difference between SSL and TLS](https://aws.amazon.com/pt/compare/the-difference-between-ssl-and-tls/);
 
 ---
 ## Unified Modeling Language (UML)
@@ -1680,13 +1682,13 @@ Com diversos tipos de diagramas, como de classes, sequência, caso de uso e ativ
 
 ### Referências
 
-- [Wikipedia about UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language);
-- [Lucidchart about UML](https://www.lucidchart.com/pages/what-is-UML-unified-modeling-language);
-- [GeeksForGeeks about UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/);
+- [Wikipedia sobre UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language);
+- [Lucidchart sobre UML](https://www.lucidchart.com/pages/what-is-UML-unified-modeling-language);
+- [GeeksForGeeks sobre UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/);
 - [UML official website](https://www.uml.org/what-is-uml.htm);
-- [Miro about UML](https://miro.com/diagramming/what-is-a-uml-diagram/);
-- [IBM about UML](https://developer.ibm.com/articles/an-introduction-to-uml/);
-- [Indeed about UML](https://www.indeed.com/career-advice/career-development/what-is-uml);
+- [Miro sobre UML](https://miro.com/diagramming/what-is-a-uml-diagram/);
+- [IBM sobre UML](https://developer.ibm.com/articles/an-introduction-to-uml/);
+- [Indeed sobre UML](https://www.indeed.com/career-advice/career-development/what-is-uml);
 
 ---
 ## Uniform Resource Identifier (URI)
@@ -1701,11 +1703,11 @@ Por exemplo, a URI `http://example.com/page` indica tanto o protocolo quanto a l
 
 ### Referências
 
-- [Hostinger about the difference between URI and URL (pt-br)](https://www.hostinger.com.br/tutoriais/uri-e-url);
-- [Wikipedia about URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier);
-- [MDN about URI](https://developer.mozilla.org/en-US/docs/Web/URI);
-- [Wikipedia about URI (pt-br)](https://pt.wikipedia.org/wiki/URI);
-- [Hostinger about the difference between URI and URL](https://www.hostinger.com/tutorials/uri-vs-url);
+- [Hostinger sobre the difference between URI and URL (pt-br)](https://www.hostinger.com.br/tutoriais/uri-e-url);
+- [Wikipedia sobre URI](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier);
+- [MDN sobre URI](https://developer.mozilla.org/en-US/docs/Web/URI);
+- [Wikipedia sobre URI (pt-br)](https://pt.wikipedia.org/wiki/URI);
+- [Hostinger sobre the difference between URI and URL](https://www.hostinger.com/tutorials/uri-vs-url);
 
 ---
 ## Uniform Resource Locator (URL)
@@ -1720,11 +1722,11 @@ Por exemplo, na URL `https://example.com/path?query=123`, `https` indica o proto
 
 ### Referências
 
-- [MDN about URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL);
-- [Wikipedia about URL](https://en.wikipedia.org/wiki/URL);
-- [Hostinger about URL](https://www.hostinger.com/tutorials/what-is-a-url);
-- [Lenovo about URL](https://www.lenovo.com/us/en/glossary/what-is-url/);
-- [GeeksForGeeks about URL](https://www.geeksforgeeks.org/what-is-url-uniform-resource-locator/);
+- [MDN sobre URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL);
+- [Wikipedia sobre URL](https://en.wikipedia.org/wiki/URL);
+- [Hostinger sobre URL](https://www.hostinger.com/tutorials/what-is-a-url);
+- [Lenovo sobre URL](https://www.lenovo.com/us/en/glossary/what-is-url/);
+- [GeeksForGeeks sobre URL](https://www.geeksforgeeks.org/what-is-url-uniform-resource-locator/);
 
 ---
 ## User Datagram Protocol (UDP)
@@ -1739,9 +1741,9 @@ Apesar de sua falta de confiabilidade, o UDP é mais rápido do que o TCP, pois 
 
 ### Referências
 
-- [CloudFlare about UDP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/user-datagram-protocol-udp/);
-- [Wikipedia about UDP](https://pt.wikipedia.org/wiki/Protocolo_de_datagrama_do_usu%C3%A1rio);
-- [IBM about UDP](https://www.ibm.com/docs/pt-br/aix/7.3?topic=protocols-user-datagram-protocol);
+- [CloudFlare sobre UDP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/user-datagram-protocol-udp/);
+- [Wikipedia sobre UDP](https://pt.wikipedia.org/wiki/Protocolo_de_datagrama_do_usu%C3%A1rio);
+- [IBM sobre UDP](https://www.ibm.com/docs/pt-br/aix/7.3?topic=protocols-user-datagram-protocol);
 
 ---
 ## Vendor Neutral Archive (VNA)
@@ -1756,8 +1758,8 @@ Em ambientes de saúde, o VNA facilita o armazenamento centralizado de imagens m
 
 ### Referências
 
-- [Wikipedia about VNA](https://en.wikipedia.org/wiki/Vendor_Neutral_Archive);
-- [Intelerad about VNA](https://www.intelerad.com/en/2023/04/20/what-is-vendor-neutral-archive/);
+- [Wikipedia sobre VNA](https://en.wikipedia.org/wiki/Vendor_Neutral_Archive);
+- [Intelerad sobre VNA](https://www.intelerad.com/en/2023/04/20/what-is-vendor-neutral-archive/);
 
 ---
 ## Virtual Local Area Network (VLAN)
@@ -1772,11 +1774,11 @@ VLANs operam na Camada 2 (Enlace) do modelo OSI e são configuradas em switches 
 
 ### Referências
 
-- [Solarwinds about VLAN](https://www.solarwinds.com/resources/it-glossary/vlan);
-- [Wikipedia about VLAN](https://en.wikipedia.org/wiki/VLAN);
-- [Huawei about VLAN](https://info.support.huawei.com/info-finder/encyclopedia/en/VLAN.html);
-- [GeeksForGeeks about VLAN](https://www.geeksforgeeks.org/virtual-lan-vlan/);
-- [CBTNuggets about VLAN](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-vlan-and-how-they-work);
+- [Solarwinds sobre VLAN](https://www.solarwinds.com/resources/it-glossary/vlan);
+- [Wikipedia sobre VLAN](https://en.wikipedia.org/wiki/VLAN);
+- [Huawei sobre VLAN](https://info.support.huawei.com/info-finder/encyclopedia/en/VLAN.html);
+- [GeeksForGeeks sobre VLAN](https://www.geeksforgeeks.org/virtual-lan-vlan/);
+- [CBTNuggets sobre VLAN](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-vlan-and-how-they-work);
 
 ---
 ## Virtual Network Computing (VNC)
@@ -1791,8 +1793,8 @@ O VNC opera principalmente na Camada 7 (Aplicação) do modelo OSI, utilizando a
 
 ### Referências
 
-- [Wikipedia about VNC](https://en.wikipedia.org/wiki/VNC);
-- [MIT about VNC](http://web.mit.edu/cdsdev/src/howitworks.html);
+- [Wikipedia sobre VNC](https://en.wikipedia.org/wiki/VNC);
+- [MIT sobre VNC](http://web.mit.edu/cdsdev/src/howitworks.html);
 
 ---
 ## Virtual Private Network (VPN)
@@ -1807,15 +1809,15 @@ A VPN atua principalmente na Camada 3 (Rede) do modelo OSI e utiliza protocolos 
 
 ### Referências
 
-- [Kaspersky about VPN](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn);
-- [Wikipedia about VPN](https://en.wikipedia.org/wiki/Virtual_private_network);
-- [Microsoft Azure about VPN](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn);
-- [CISCO about VPN](https://www.cisco.com/c/en/us/products/security/vpn-endpoint-security-clients/what-is-vpn.html);
-- [NordVPN about VPN](https://nordvpn.com/pt-br/what-is-a-vpn/);
-- [Amazon AWS about VPN](https://aws.amazon.com/what-is/vpn/);
-- [Fortinet about VPN](https://www.fortinet.com/br/resources/cyberglossary/what-is-a-vpn);
-- [CNET about VPN](https://www.cnet.com/tech/services-and-software/what-is-a-vpn/);
-- [GeeksForGeeks about VPN](https://www.geeksforgeeks.org/what-is-vpn-and-how-it-works/);
+- [Kaspersky sobre VPN](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn);
+- [Wikipedia sobre VPN](https://en.wikipedia.org/wiki/Virtual_private_network);
+- [Microsoft Azure sobre VPN](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn);
+- [CISCO sobre VPN](https://www.cisco.com/c/en/us/products/security/vpn-endpoint-security-clients/what-is-vpn.html);
+- [NordVPN sobre VPN](https://nordvpn.com/pt-br/what-is-a-vpn/);
+- [Amazon AWS sobre VPN](https://aws.amazon.com/what-is/vpn/);
+- [Fortinet sobre VPN](https://www.fortinet.com/br/resources/cyberglossary/what-is-a-vpn);
+- [CNET sobre VPN](https://www.cnet.com/tech/services-and-software/what-is-a-vpn/);
+- [GeeksForGeeks sobre VPN](https://www.geeksforgeeks.org/what-is-vpn-and-how-it-works/);
 
 ---
 ## Visual Basic Script (VBScript)
@@ -1830,8 +1832,8 @@ No contexto de automação, o VBScript permite que administradores de sistemas W
 
 ### Referências
 
-- [Wikipedia about VBScript](https://en.wikipedia.org/wiki/VBScript);
-- [GeeksForGeeks about VBScript](https://www.geeksforgeeks.org/vbscript-introduction/);
+- [Wikipedia sobre VBScript](https://en.wikipedia.org/wiki/VBScript);
+- [GeeksForGeeks sobre VBScript](https://www.geeksforgeeks.org/vbscript-introduction/);
 
 ---
 ## Visual Basic for Applications (VBA)
@@ -1846,11 +1848,11 @@ Muito utilizado por profissionais de negócios e analistas de dados, o VBA permi
 
 ### Referências
 
-- [Microsoft about VBA](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office);
-- [Wikipedia about VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications);
-- [CFI about VBA](https://corporatefinanceinstitute.com/resources/excel/excel-vba/);
+- [Microsoft sobre VBA](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office);
+- [Wikipedia sobre VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications);
+- [CFI sobre VBA](https://corporatefinanceinstitute.com/resources/excel/excel-vba/);
 - [Microsoft VBA reference](https://learn.microsoft.com/en-us/office/vba/api/overview/language-reference);
-- [Indeed about VBA](https://uk.indeed.com/career-advice/career-development/what-is-vba-macro);
+- [Indeed sobre VBA](https://uk.indeed.com/career-advice/career-development/what-is-vba-macro);
 
 ---
 ## Wide Area Network (WAN)
@@ -1865,13 +1867,13 @@ Com a utilização de várias tecnologias, incluindo roteamento e links de dados
 
 ### Referências
 
-- [Amazon AWS about WAN](https://aws.amazon.com/what-is/wan/);
-- [CISCO about WAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-wan-wide-area-network.html);
-- [Wikipedia about WAN](https://en.wikipedia.org/wiki/Wide_area_network);
-- [Cloudflare about WAN](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-wan/);
-- [CompTIA about WAN](https://www.comptia.org/content/guides/what-is-a-wide-area-network);
-- [Fortinet about WAN](https://www.fortinet.com/resources/cyberglossary/wan);
-- [HP about WAN](https://www.hpe.com/br/en/what-is/wide-area-network.html);
+- [Amazon AWS sobre WAN](https://aws.amazon.com/what-is/wan/);
+- [CISCO sobre WAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-wan-wide-area-network.html);
+- [Wikipedia sobre WAN](https://en.wikipedia.org/wiki/Wide_area_network);
+- [Cloudflare sobre WAN](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-wan/);
+- [CompTIA sobre WAN](https://www.comptia.org/content/guides/what-is-a-wide-area-network);
+- [Fortinet sobre WAN](https://www.fortinet.com/resources/cyberglossary/wan);
+- [HP sobre WAN](https://www.hpe.com/br/en/what-is/wide-area-network.html);
 
 ---
 ## YAML Ain't Markup Language (YAML)
@@ -1886,9 +1888,9 @@ Por sua simplicidade e suporte a listas e mapeamentos, YAML facilita o gerenciam
 
 ### Referências
 
-- [Wikipedia about YAML](https://en.wikipedia.org/wiki/YAML);
-- [RedHat about YAML](https://www.redhat.com/en/topics/automation/what-is-yaml);
-- [IBM about YAML](https://www.ibm.com/topics/yaml);
+- [Wikipedia sobre YAML](https://en.wikipedia.org/wiki/YAML);
+- [RedHat sobre YAML](https://www.redhat.com/en/topics/automation/what-is-yaml);
+- [IBM sobre YAML](https://www.ibm.com/topics/yaml);
 - [YAML official website](https://yaml.org/);
 
 ---
@@ -1904,13 +1906,13 @@ XML é frequentemente usado em sistemas de configuração, protocolos de mensage
 
 ### Referências
 
-- [W3Schools about XML](https://www.w3schools.com/xml/xml_whatis.asp);
-- [Wikipedia about XML](https://en.wikipedia.org/wiki/XML);
-- [Amazon AWS about XML](https://aws.amazon.com/what-is/xml/);
-- [MDN about XML](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction);
-- [MailChimp about XML](https://mailchimp.com/pt-br/marketing-glossary/xml/);
-- [Postman about XML](https://blog.postman.com/what-is-xml/);
-- [Javapoint about XML](https://www.javatpoint.com/what-is-xml);
+- [W3Schools sobre XML](https://www.w3schools.com/xml/xml_whatis.asp);
+- [Wikipedia sobre XML](https://en.wikipedia.org/wiki/XML);
+- [Amazon AWS sobre XML](https://aws.amazon.com/what-is/xml/);
+- [MDN sobre XML](https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction);
+- [MailChimp sobre XML](https://mailchimp.com/pt-br/marketing-glossary/xml/);
+- [Postman sobre XML](https://blog.postman.com/what-is-xml/);
+- [Javapoint sobre XML](https://www.javatpoint.com/what-is-xml);
 
 <!-- término glossário -->
 

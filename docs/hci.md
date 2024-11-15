@@ -8,9 +8,9 @@ O *Hyper-Converged Infrastructure (HCI)* (Infraestrutura Hiperconvergente) é um
 
 ## Referências
 
-- [Wikipedia about HCI](https://en.wikipedia.org/wiki/Hyper-converged_infrastructure);
-- [VMWare about HCI](https://www.vmware.com/info/hyper-converged-infrastructure);
-- [IBM about HCI](https://www.ibm.com/topics/hyperconverged-infrastructure);
-- [HP about HCI](https://www.hpe.com/br/en/what-is/hyperconverged-infrastructure.html);
-- [Nutanix about HCI](https://www.nutanix.com/hyperconverged-infrastructure);
-- [Cisco about HCI](https://www.cisco.com/c/en/us/solutions/data-center-virtualization/what-is-hyperconverged-infrastructure.html);
+- [Wikipedia sobre HCI](https://en.wikipedia.org/wiki/Hyper-converged_infrastructure);
+- [VMWare sobre HCI](https://www.vmware.com/info/hyper-converged-infrastructure);
+- [IBM sobre HCI](https://www.ibm.com/topics/hyperconverged-infrastructure);
+- [HP sobre HCI](https://www.hpe.com/br/en/what-is/hyperconverged-infrastructure.html);
+- [Nutanix sobre HCI](https://www.nutanix.com/hyperconverged-infrastructure);
+- [Cisco sobre HCI](https://www.cisco.com/c/en/us/solutions/data-center-virtualization/what-is-hyperconverged-infrastructure.html);

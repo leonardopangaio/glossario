@@ -14,8 +14,8 @@ Essas propriedades são essenciais para aplicativos que requerem alta confiabili
 
 ## Referências
 
-- [MongoDB about ACID](https://www.mongodb.com/resources/basics/databases/acid-transactions);
-- [Wikipedia about ACID](https://en.wikipedia.org/wiki/ACID);
-- [GeeksForGeeks about ACID](https://www.geeksforgeeks.org/acid-properties-in-dbms/);
-- [Amazon AWS about the difference between ACID and BASE](https://aws.amazon.com/pt/compare/the-difference-between-acid-and-base-database/);
-- [MongoDB about ACID Compliance](https://www.mongodb.com/resources/products/capabilities/acid-compliance);
+- [MongoDB sobre ACID](https://www.mongodb.com/resources/basics/databases/acid-transactions);
+- [Wikipedia sobre ACID](https://en.wikipedia.org/wiki/ACID);
+- [GeeksForGeeks sobre ACID](https://www.geeksforgeeks.org/acid-properties-in-dbms/);
+- [Amazon AWS sobre the difference between ACID and BASE](https://aws.amazon.com/pt/compare/the-difference-between-acid-and-base-database/);
+- [MongoDB sobre ACID Compliance](https://www.mongodb.com/resources/products/capabilities/acid-compliance);

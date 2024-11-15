@@ -36,8 +36,8 @@ A camada de aplicação é onde os usuários interagem diretamente com a rede. E
 
 ## Referências
 
-- [Wikipedia about OSI Model](https://pt.wikipedia.org/wiki/Modelo_OSI);
-- [Alura about OSI Model](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi?srsltid=AfmBOoqJISb98rbDxr1dq9q1P989R40QlGegUB05RdtDsgXakhIYZvk8);
-- [CloudFlare about OSI Model](https://www.cloudflare.com/pt-br/learning/ddos/glossary/open-systems-interconnection-model-osi/);
-- [Amazon AWS about OSI Model](https://aws.amazon.com/pt/what-is/osi-model/);
-- [CISCO about OSI Model](https://community.cisco.com/t5/artigos-gerais/modelo-osi-e-suas-camadas/ta-p/5052369);
+- [Wikipedia sobre OSI Model](https://pt.wikipedia.org/wiki/Modelo_OSI);
+- [Alura sobre OSI Model](https://www.alura.com.br/artigos/conhecendo-o-modelo-osi?srsltid=AfmBOoqJISb98rbDxr1dq9q1P989R40QlGegUB05RdtDsgXakhIYZvk8);
+- [CloudFlare sobre OSI Model](https://www.cloudflare.com/pt-br/learning/ddos/glossary/open-systems-interconnection-model-osi/);
+- [Amazon AWS sobre OSI Model](https://aws.amazon.com/pt/what-is/osi-model/);
+- [CISCO sobre OSI Model](https://community.cisco.com/t5/artigos-gerais/modelo-osi-e-suas-camadas/ta-p/5052369);

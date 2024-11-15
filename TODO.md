@@ -1,15 +1,22 @@
 Glossário prático: 
 
+
 - [ ] .dockerignore
 - [ ] .env
 - [ ] .gitignore
 - [ ] .net
 - [ ] 7z
+- [ ] a/c
+- [ ] ABNT
+- [ ] Accountability
 - [ ] acr
 - [ ] Active Directory
 - [ ] Activity diagram
+- [ ] ae_title
 - [ ] AE_Title
+- [ ] afk
 - [ ] Agile
+- [ ] agile release train (art)
 - [ ] AI
 - [ ] angular
 - [ ] ansible
@@ -22,10 +29,11 @@ Glossário prático:
 - [ ] apm
 - [ ] appliance
 - [ ] apt
-- [ ] apt-get
 - [ ] argocd
 - [ ] arp-scan
 - [ ] arping
+- [ ] art sync
+- [ ] asap
 - [ ] Ascii
 - [ ] asp
 - [ ] atm
@@ -35,6 +43,8 @@ Glossário prático:
 - [ ] B2C
 - [ ] backbone
 - [ ] backend
+- [ ] backlog
+- [ ] backoffice
 - [ ] backup diferencial
 - [ ] backup full
 - [ ] backup incremental
@@ -43,8 +53,10 @@ Glossário prático:
 - [ ] bandwidth
 - [ ] Bare Metal
 - [ ] base 64
+- [ ] baseline
 - [ ] bash
 - [ ] BDD (Behavior driven development)
+- [ ] benchmark
 - [ ] bi
 - [ ] bigdata
 - [ ] bigip
@@ -52,23 +64,34 @@ Glossário prático:
 - [ ] bitmap (bmp)
 - [ ] bits
 - [ ] bittorrent
+- [ ] black belt
 - [ ] blockchain
 - [ ] bluetooth
 - [ ] bpm
 - [ ] bpmn
+- [ ] bpo
+- [ ] brainstorm
+- [ ] brb
 - [ ] Breach and Attack Simulation (BAS)
+- [ ] briefing
+- [ ] brownfiel
 - [ ] BSC
 - [ ] bsd
 - [ ] btop
+- [ ] btw
+- [ ] budget
+- [ ] bug
+- [ ] bxd
 - [ ] bytes
 - [ ] c
 - [ ] c#
 - [ ] c++
+- [ ] call
 - [ ] callcenter
 - [ ] CAPEX
 - [ ] CCNA
-- [ ] cdn
 - [ ] Cdn
+- [ ] centro de custo
 - [ ] CEO
 - [ ] certificado digital
 - [ ] cfind
@@ -83,13 +106,15 @@ Glossário prático:
 - [ ] cliper
 - [ ] clt
 - [ ] Cluster
-- [ ] Cluster
 - [ ] CMDB
 - [ ] CMO
 - [ ] cmove
 - [ ] cna
+- [ ] coach
 - [ ] cobit
 - [ ] cobol
+- [ ] CoE
+- [ ] commodity
 - [ ] Communication diagram
 - [ ] Component diagram
 - [ ] Composite structure diagram
@@ -99,6 +124,7 @@ Glossário prático:
 - [ ] controladora
 - [ ] COO
 - [ ] Cookies
+- [ ] core business
 - [ ] Cors
 - [ ] cpu
 - [ ] cpu wait
@@ -108,17 +134,18 @@ Glossário prático:
 - [ ] cronjob
 - [ ] CrowdStrike
 - [ ] crt
-- [ ] crt
 - [ ] csa
 - [ ] css
+- [ ] cta
 - [ ] CTO
 - [ ] curl
+- [ ] cutover
 - [ ] cva
 - [ ] Cypress
 - [ ] daemon
+- [ ] daily
 - [ ] Dart
 - [ ] Data briks
-- [ ] Data lake
 - [ ] Data lake
 - [ ] Data lakehouse
 - [ ] data science
@@ -135,8 +162,10 @@ Glossário prático:
 - [ ] delete
 - [ ] DELL
 - [ ] delphi
+- [ ] deploy
 - [ ] Deployment diagram
 - [ ] Design patterns
+- [ ] design thinking
 - [ ] devops
 - [ ] devsecops
 - [ ] df
@@ -145,6 +174,8 @@ Glossário prático:
 - [ ] diagrama de sequência
 - [ ] diagrama de venn
 - [ ] dicom
+- [ ] Disaster Recovery (DR)
+- [ ] diy
 - [ ] doc/docx
 - [ ] docker
 - [ ] docker-compose.yml
@@ -156,26 +187,33 @@ Glossário prático:
 - [ ] drawio
 - [ ] Dsp (development staging and production)
 - [ ] Dynatrace
+- [ ] EAP
+- [ ] Ebitda
 - [ ] echo
 - [ ] ecma
 - [ ] ecn
 - [ ] eink
 - [ ] elasticksearch
 - [ ] elk
+- [ ] Endomarketing
 - [ ] endpoint
 - [ ] engenheiro de dados
 - [ ] entidade relacionamento
-- [ ] entidade relacionamento
+- [ ] Esrutura de dados
+- [ ] estatistica
 - [ ] etherape
+- [ ] Expertise
 - [ ] express
 - [ ] ext3
 - [ ] ext4
 - [ ] f5
+- [ ] failover
 - [ ] FAQ
 - [ ] FAT
 - [ ] FAT32
 - [ ] FDA
 - [ ] fddi
+- [ ] feedback
 - [ ] FHRP
 - [ ] fifo
 - [ ] figma
@@ -185,31 +223,47 @@ Glossário prático:
 - [ ] firewall
 - [ ] flex group
 - [ ] flex volume
+- [ ] follow-up
+- [ ] forecast
 - [ ] formulário
 - [ ] fortran
 - [ ] frame
 - [ ] framework
 - [ ] free (memory linux)
 - [ ] frontend
+- [ ] ftw
 - [ ] Fusion Inventory
+- [ ] fya
+- [ ] fyi
+- [ ] gap
 - [ ] gateway
 - [ ] gcp
+- [ ] gestio
 - [ ] gif
 - [ ] git
 - [ ] GitHub
 - [ ] gitlab
 - [ ] glances
 - [ ] GLPI
+- [ ] gmud
 - [ ] golang
 - [ ] google
 - [ ] gpu
 - [ ] grafana
 - [ ] GraphQL
 - [ ] graylog
+- [ ] green belt
+- [ ] greenfield
+- [ ] greyfield
 - [ ] groups
 - [ ] gRPC
+- [ ] HA
+- [ ] hands on
+- [ ] hardskills
 - [ ] hash
+- [ ] HC
 - [ ] hdlc
+- [ ] Headhunter
 - [ ] helpdesk
 - [ ] hostname
 - [ ] HP
@@ -218,59 +272,66 @@ Glossário prático:
 - [ ] htop
 - [ ] http-ping
 - [ ] hyper-v
-- [ ] IaC
 - [ ] IBM
 - [ ] ide
+- [ ] IDK
 - [ ] idle latency
+- [ ] Idp
+- [ ] IEC
 - [ ] ieee
 - [ ] ifconfig
 - [ ] igmp
+- [ ] IMHO
+- [ ] incident
 - [ ] ini
 - [ ] inodes
+- [ ] input
+- [ ] Insight
+- [ ] inspect and adapt
 - [ ] Interaction overview diagram
+- [ ] Internship
 - [ ] io
 - [ ] iops
 - [ ] iostat
-- [ ] IoT
 - [ ] iotop
-- [ ] IP (protocol)
-- [ ] ip addr
 - [ ] ipconfig
 - [ ] iperf3
-- [ ] ipo
+- [ ] IPO
 - [ ] ipsec
 - [ ] iptables
 - [ ] irc
 - [ ] iscisii
 - [ ] isdn
-- [ ] iso
+- [ ] ISO
+- [ ] iso 20000
 - [ ] isp
 - [ ] itil
 - [ ] java
 - [ ] javascript
-- [ ] jdbc
 - [ ] jdk
 - [ ] jenkins
 - [ ] jest.js
+- [ ] JIT
 - [ ] jitter
 - [ ] jmeter
+- [ ] job rotation
+- [ ] Joint venture
 - [ ] jpg (jpeg)
 - [ ] jquery
-- [ ] json
 - [ ] junit
 - [ ] jupter notebook
 - [ ] JVM
-- [ ] jwt
+- [ ] kaizen
 - [ ] kanban
+- [ ] kb
 - [ ] kerberos
 - [ ] kernel
 - [ ] key
+- [ ] kick-off
 - [ ] knex.js
 - [ ] kotlin
-- [ ] kpi
 - [ ] ksar
 - [ ] kubernetes
-- [ ] kvm
 - [ ] L2TP
 - [ ] laravel
 - [ ] largura de banda
@@ -278,42 +339,54 @@ Glossário prático:
 - [ ] latência carregada
 - [ ] latência não carregada
 - [ ] lcd
+- [ ] lead
 - [ ] lean
 - [ ] lean six sigma
+- [ ] lean startup
 - [ ] lidar (radar por luz)
 - [ ] link
 - [ ] link agregate
 - [ ] link ativo-ativo
 - [ ] Lint
+- [ ] lmk
 - [ ] load
 - [ ] logica fuzzy
 - [ ] logstash
 - [ ] lpi
 - [ ] lua
 - [ ] mac address
-- [ ] Machine learning
-- [ ] makedir
+- [ ] machine learning (ML)
+- [ ] mailing
 - [ ] makefile
 - [ ] man (metropolitan area network)
 - [ ] markdown
+- [ ] market share
+- [ ] markup
+- [ ] matriz gut
+- [ ] matriz raci
+- [ ] mba
 - [ ] MBytes
 - [ ] md5
+- [ ] meeting
 - [ ] mermaid
 - [ ] mesh network
 - [ ] metricbeat
 - [ ] MiB
+- [ ] Microsoft Exchange
+- [ ] Microsoft sql server
 - [ ] midleware
-- [ ] ML
+- [ ] Mobile device management (MDM)
+- [ ] modus operantis
 - [ ] mongodb
 - [ ] mount
 - [ ] MPI
 - [ ] mssp
-- [ ] mv
 - [ ] mysql
 - [ ] nagios
 - [ ] NaN
 - [ ] nano
 - [ ] nat
+- [ ] NBR
 - [ ] nbtscan
 - [ ] ndp
 - [ ] neo vim
@@ -324,15 +397,20 @@ Glossário prático:
 - [ ] netcat
 - [ ] netdiscover
 - [ ] netmask
+- [ ] networking
+- [ ] newsletter
 - [ ] next.js
 - [ ] nexus
 - [ ] nfc
+- [ ] NFe
 - [ ] nfsstat
 - [ ] nfstop
+- [ ] nft
 - [ ] nginx
 - [ ] nntp
 - [ ] node.js
 - [ ] nping
+- [ ] nsfw
 - [ ] NTFS
 - [ ] ntp
 - [ ] null
@@ -342,9 +420,11 @@ Glossário prático:
 - [ ] OCR
 - [ ] OCS Inventory
 - [ ] ODBC
-- [ ] okr
 - [ ] oled
+- [ ] Omnichannel
 - [ ] onc
+- [ ] one-on-one (1:1)
+- [ ] OOO
 - [ ] openshift
 - [ ] openssh
 - [ ] openssl
@@ -357,40 +437,64 @@ Glossário prático:
 - [ ] ospf
 - [ ] oto
 - [ ] Out-of-Band Application Security Testing (OAST)
+- [ ] output
+- [ ] Outsourcing
+- [ ] Overhead
+- [ ] Overview
 - [ ] Package diagram
 - [ ] pacotes dropados
 - [ ] pacs
 - [ ] pascal
 - [ ] passwd
+- [ ] pdca
 - [ ] perfmon
+- [ ] pfa
 - [ ] pfsense
+- [ ] phd
 - [ ] php
+- [ ] pi
+- [ ] pi planning
 - [ ] pilha
 - [ ] pilha de switch
 - [ ] ping
 - [ ] pipeline
+- [ ] pitch
+- [ ] planejamento estratégico
+- [ ] plano de ação
 - [ ] pmbok
 - [ ] pmi
+- [ ] pmo
 - [ ] pmp
 - [ ] png
+- [ ] PO
+- [ ] po sync
+- [ ] pog
 - [ ] porta
+- [ ] portfolio
 - [ ] postgres
 - [ ] postscript (impressoras)
 - [ ] powerbi
 - [ ] ppp
 - [ ] ppt/pptx
 - [ ] PPTP
+- [ ] problem
+- [ ] Procedimento Operacional Padrão (POP)
 - [ ] Profile diagram
 - [ ] protocolos
 - [ ] Proxmox
 - [ ] proxy
+- [ ] proxy reverso
 - [ ] prtg
+- [ ] psa
+- [ ] psc
 - [ ] pseudo console
 - [ ] psql
 - [ ] pub
 - [ ] putty
 - [ ] python
 - [ ] QA
+- [ ] QFD
+- [ ] quarter
 - [ ] query builder
 - [ ] quic
 - [ ] rack
@@ -398,25 +502,36 @@ Glossário prático:
 - [ ] rar
 - [ ] rarp
 - [ ] raw sql
+- [ ] rdm
 - [ ] react
+- [ ] recall
+- [ ] red belt
 - [ ] registry
 - [ ] regular expression
 - [ ] relay
+- [ ] report
 - [ ] repositorio
 - [ ] retransmissão
+- [ ] retrospective
+- [ ] review
 - [ ] rfc
 - [ ] rfid
-- [ ] rfp
+- [ ] RFQ
+- [ ] rh
 - [ ] rip
+- [ ] roadmap
+- [ ] ROI
+- [ ] rollout
 - [ ] ROM
 - [ ] roteamento
 - [ ] route
 - [ ] RPA
 - [ ] rpc
+- [ ] rpi
 - [ ] rpm
-- [ ] rsa
 - [ ] rsvp
 - [ ] rsync
+- [ ] rte
 - [ ] rtp
 - [ ] rtsp
 - [ ] rub on rails
@@ -432,10 +547,11 @@ Glossário prático:
 - [ ] sata
 - [ ] scala
 - [ ] schema
+- [ ] Scholarships
 - [ ] script
 - [ ] scrum
+- [ ] scrum master
 - [ ] sctp
-- [ ] sdk
 - [ ] selinux
 - [ ] Sequence diagram
 - [ ] servicedesk
@@ -443,8 +559,10 @@ Glossário prático:
 - [ ] sessão
 - [ ] sha256
 - [ ] Shadow image (contexto de backup)
+- [ ] shareholder
 - [ ] shell
 - [ ] sip
+- [ ] skills
 - [ ] SLA
 - [ ] slack
 - [ ] SLI
@@ -455,15 +573,22 @@ Glossário prático:
 - [ ] sns
 - [ ] socket
 - [ ] Socket.io
+- [ ] softskills
 - [ ] SolarWinds
 - [ ] SonarQube
-- [ ] sql server
+- [ ] sprint planning
 - [ ] sqlite
 - [ ] sqs
+- [ ] squad
 - [ ] ss
 - [ ] ssd
 - [ ] ssd m2
+- [ ] stakeholder
+- [ ] stand by
+- [ ] startup
 - [ ] State diagram
+- [ ] status quo
+- [ ] ste
 - [ ] storage
 - [ ] subnet
 - [ ] sudo
@@ -477,34 +602,45 @@ Glossário prático:
 - [ ] switch
 - [ ] switch core
 - [ ] switch de acesso
-- [ ] tar
+- [ ] switch de borda
+- [ ] system demo
+- [ ] TAP
 - [ ] tar
 - [ ] tar.gz
+- [ ] target
 - [ ] taxa de transferência
+- [ ] tba
+- [ ] tbc
+- [ ] tbd
 - [ ] tcpdump
 - [ ] tcping
 - [ ] TDD (Test-driven development)
 - [ ] telnet
 - [ ] terminal
 - [ ] terraform
+- [ ] tgz
 - [ ] throughput
-- [ ] ti
+- [ ] TI
 - [ ] time to analysis (tta)
 - [ ] time to mitigate (ttm)
 - [ ] time to solution (tts)
+- [ ] timeline
 - [ ] Timing diagram
 - [ ] token
-- [ ] toml
 - [ ] top (linux)
+- [ ] topologia
 - [ ] TOR
+- [ ] tqm
 - [ ] traceroute
+- [ ] trainee
 - [ ] Trivy
 - [ ] tsql
 - [ ] ttm
 - [ ] Tty
+- [ ] tui
 - [ ] tunnels
+- [ ] turnover
 - [ ] txt
-- [ ] typescript
 - [ ] typescript
 - [ ] ui
 - [ ] update
@@ -519,6 +655,7 @@ Glossário prático:
 - [ ] ux
 - [ ] variaveis de performance de redes
 - [ ] VDI
+- [ ] Venture capital
 - [ ] venv
 - [ ] vhops
 - [ ] vi
@@ -540,13 +677,18 @@ Glossário prático:
 - [ ] webservice
 - [ ] WebSocket
 - [ ] wget
+- [ ] white belt
 - [ ] wifi
 - [ ] win1252
 - [ ] WIP
 - [ ] wireless
 - [ ] wireshark
 - [ ] wlan
+- [ ] workaholic
+- [ ] workflow
+- [ ] workshop
 - [ ] Workspace one
+- [ ] wps
 - [ ] wsl
 - [ ] www
 - [ ] xampp
@@ -554,6 +696,9 @@ Glossário prático:
 - [ ] xfs
 - [ ] xls/xlsx
 - [ ] xmpp
+- [ ] yellow belt
+- [ ] yoy
+- [ ] ytd
 - [ ] yum
 - [ ] zabbix
 - [ ] zen

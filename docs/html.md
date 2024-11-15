@@ -10,10 +10,10 @@ HTML é frequentemente utilizado junto com CSS e JavaScript para criar interface
 
 ## Referências
 
-- [W3Schools about HTML](https://www.w3schools.com/whatis/whatis_html.asp);
-- [GeeksForGeeks about HTML](https://www.geeksforgeeks.org/html-introduction/);
-- [Hostinger about HTML](https://www.hostinger.com/tutorials/what-is-html);
-- [W3Schools about HTML (2)](https://www.w3schools.com/html/html_intro.asp);
-- [Wikipedia about HTML](https://en.wikipedia.org/wiki/HTML);
-- [MDN about HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics);
-- [MDN about HTML (2)](https://developer.mozilla.org/en-US/docs/Web/HTML);
+- [W3Schools sobre HTML](https://www.w3schools.com/whatis/whatis_html.asp);
+- [GeeksForGeeks sobre HTML](https://www.geeksforgeeks.org/html-introduction/);
+- [Hostinger sobre HTML](https://www.hostinger.com/tutorials/what-is-html);
+- [W3Schools sobre HTML (2)](https://www.w3schools.com/html/html_intro.asp);
+- [Wikipedia sobre HTML](https://en.wikipedia.org/wiki/HTML);
+- [MDN sobre HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics);
+- [MDN sobre HTML (2)](https://developer.mozilla.org/en-US/docs/Web/HTML);

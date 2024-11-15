@@ -10,5 +10,5 @@ A DDL é fundamental para configurar e organizar o banco de dados, sendo usada p
 
 ## Referências
 
-- [Wikipedia about DDL](https://en.wikipedia.org/wiki/Data_definition_language);
-- [DIO about DDL](https://www.dio.me/articles/data-definition-language-ddl);
+- [Wikipedia sobre DDL](https://en.wikipedia.org/wiki/Data_definition_language);
+- [DIO sobre DDL](https://www.dio.me/articles/data-definition-language-ddl);

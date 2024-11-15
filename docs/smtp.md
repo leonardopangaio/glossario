@@ -8,7 +8,7 @@ O *Simple Mail Transfer Protocol (SMTP)* é o protocolo padrão de envio de e-ma
 
 ## Referências
 
-- [Cloudflare about SMTP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-smtp/);
-- [Wikipedia about SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol);
-- [Amazon AWS about SMTP](https://aws.amazon.com/what-is/smtp/);
-- [GeeksForGeeks about SMTP](https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/);
+- [Cloudflare sobre SMTP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-smtp/);
+- [Wikipedia sobre SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol);
+- [Amazon AWS sobre SMTP](https://aws.amazon.com/what-is/smtp/);
+- [GeeksForGeeks sobre SMTP](https://www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/);

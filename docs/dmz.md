@@ -10,9 +10,9 @@ Essa configuração é comum em redes corporativas para proteger dados confidenc
 
 ## Referências
 
-- [Fortinet about DMZ (pt-br)](https://www.fortinet.com/br/resources/cyberglossary/what-is-dmz);
-- [Wikipedia about DMZ](https://pt.wikipedia.org/wiki/DMZ_(computa%C3%A7%C3%A3o));
-- [Checkpoint about DMZ](https://www.checkpoint.com/pt/cyber-hub/network-security/what-is-a-dmz-network/);
-- [Fortinet about DMZ](https://www.fortinet.com/resources/cyberglossary/what-is-dmz);
-- [F5 about DMZ](https://www.f5.com/glossary/demilitarized-zone-dmz);
-- [Barracuda about DMZ](https://www.barracuda.com/support/glossary/dmz-network);
+- [Fortinet sobre DMZ (pt-br)](https://www.fortinet.com/br/resources/cyberglossary/what-is-dmz);
+- [Wikipedia sobre DMZ](https://pt.wikipedia.org/wiki/DMZ_(computa%C3%A7%C3%A3o));
+- [Checkpoint sobre DMZ](https://www.checkpoint.com/pt/cyber-hub/network-security/what-is-a-dmz-network/);
+- [Fortinet sobre DMZ](https://www.fortinet.com/resources/cyberglossary/what-is-dmz);
+- [F5 sobre DMZ](https://www.f5.com/glossary/demilitarized-zone-dmz);
+- [Barracuda sobre DMZ](https://www.barracuda.com/support/glossary/dmz-network);

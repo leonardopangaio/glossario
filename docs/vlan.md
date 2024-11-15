@@ -10,8 +10,8 @@ VLANs operam na Camada 2 (Enlace) do modelo OSI e são configuradas em switches 
 
 ## Referências
 
-- [Solarwinds about VLAN](https://www.solarwinds.com/resources/it-glossary/vlan);
-- [Wikipedia about VLAN](https://en.wikipedia.org/wiki/VLAN);
-- [Huawei about VLAN](https://info.support.huawei.com/info-finder/encyclopedia/en/VLAN.html);
-- [GeeksForGeeks about VLAN](https://www.geeksforgeeks.org/virtual-lan-vlan/);
-- [CBTNuggets about VLAN](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-vlan-and-how-they-work);
+- [Solarwinds sobre VLAN](https://www.solarwinds.com/resources/it-glossary/vlan);
+- [Wikipedia sobre VLAN](https://en.wikipedia.org/wiki/VLAN);
+- [Huawei sobre VLAN](https://info.support.huawei.com/info-finder/encyclopedia/en/VLAN.html);
+- [GeeksForGeeks sobre VLAN](https://www.geeksforgeeks.org/virtual-lan-vlan/);
+- [CBTNuggets sobre VLAN](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-vlan-and-how-they-work);

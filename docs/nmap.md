@@ -11,6 +11,6 @@ O Nmap opera principalmente na Camada 3 (Rede) e Camada 4 (Transporte) do modelo
 ## Referências
 
 - [NMAP official website](https://nmap.org/);
-- [Wikipedia about NMAP](https://en.wikipedia.org/wiki/Nmap);
+- [Wikipedia sobre NMAP](https://en.wikipedia.org/wiki/Nmap);
 - [Die NMAP man](https://linux.die.net/man/1/nmap);
 - [NMAP official man](https://nmap.org/man/pt_PT/index.html);

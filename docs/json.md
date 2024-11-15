@@ -10,10 +10,10 @@ JSON suporta estruturas de dados simples como objetos e arrays, sendo amplamente
 
 ## Referências
 
-- [W3Schools about JSON](https://www.w3schools.com/whatis/whatis_json.asp);
-- [Wikipedia about JSON](https://en.wikipedia.org/wiki/JSON);
-- [Oracle about JSON](https://www.oracle.com/database/what-is-json/);
+- [W3Schools sobre JSON](https://www.w3schools.com/whatis/whatis_json.asp);
+- [Wikipedia sobre JSON](https://en.wikipedia.org/wiki/JSON);
+- [Oracle sobre JSON](https://www.oracle.com/database/what-is-json/);
 - [MDN aboutJSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON);
 - [JSON official website](https://www.json.org/json-en.html);
-- [MongoDB about JSON](https://www.mongodb.com/resources/languages/what-is-json);
-- [Amazon AWS about JSON](https://aws.amazon.com/pt/documentdb/what-is-json/);
+- [MongoDB sobre JSON](https://www.mongodb.com/resources/languages/what-is-json);
+- [Amazon AWS sobre JSON](https://aws.amazon.com/pt/documentdb/what-is-json/);

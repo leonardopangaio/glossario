@@ -8,12 +8,12 @@ O *Infrastructure as a Service (IaaS)* fornece infraestrutura de TI (servidores,
 
 ## Referências
 
-- [Google Cloud about IaaS](https://cloud.google.com/learn/what-is-iaas?hl=pt_br);
-- [Microsoft Azure about IaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas);
-- [Microsoft Azure about IaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-iaas);
-- [Amazon AWS about IaaS](https://aws.amazon.com/what-is/iaas/);
-- [IBM about IaaS](https://www.ibm.com/topics/iaas);
+- [Google Cloud sobre IaaS](https://cloud.google.com/learn/what-is-iaas?hl=pt_br);
+- [Microsoft Azure sobre IaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas);
+- [Microsoft Azure sobre IaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-iaas);
+- [Amazon AWS sobre IaaS](https://aws.amazon.com/what-is/iaas/);
+- [IBM sobre IaaS](https://www.ibm.com/topics/iaas);
 - [Google Cloud difference between PaaS, IaaS, SaaS, CaaS](https://cloud.google.com/learn/paas-vs-iaas-vs-saas?hl=pt_br);
-- [Fortinet about IaaS](https://www.fortinet.com/br/resources/cyberglossary/infrastructure-as-a-service);
-- [Cloudflare about IaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-iaas/);
-- [Wikipedia about IaaS](https://pt.wikipedia.org/wiki/Infraestrutura_como_servi%C3%A7o);
+- [Fortinet sobre IaaS](https://www.fortinet.com/br/resources/cyberglossary/infrastructure-as-a-service);
+- [Cloudflare sobre IaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-iaas/);
+- [Wikipedia sobre IaaS](https://pt.wikipedia.org/wiki/Infraestrutura_como_servi%C3%A7o);

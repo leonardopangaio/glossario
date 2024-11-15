@@ -10,5 +10,5 @@ Esses comandos são essenciais para a segurança do banco de dados, pois permite
 
 ## Referências
 
-- [Wikipedia about DCL](https://en.wikipedia.org/wiki/Data_control_language);
-- [GeekForGeeks about DCL](https://www.geeksforgeeks.org/dcl-full-form/);
+- [Wikipedia sobre DCL](https://en.wikipedia.org/wiki/Data_control_language);
+- [GeekForGeeks sobre DCL](https://www.geeksforgeeks.org/dcl-full-form/);

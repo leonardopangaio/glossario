@@ -10,6 +10,6 @@ A migração pode incluir mudanças no schema de dados, mapeamento entre tipos d
 
 ## Referências
 
-- [Google Cloud about Database Migration](https://cloud.google.com/architecture/database-migration-concepts-principles-part-1?hl=pt-br);
+- [Google Cloud sobre Database Migration](https://cloud.google.com/architecture/database-migration-concepts-principles-part-1?hl=pt-br);
 - [Amazon AWS Database Migration Service (DMS)](https://aws.amazon.com/pt/dms/);
 

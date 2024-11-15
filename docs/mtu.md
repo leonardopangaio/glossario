@@ -10,8 +10,8 @@ A MTU está relacionada à Camada 2 (Enlace) do modelo OSI, onde o controle de t
 
 ## Referências
 
-- [Cloudflare about MTU](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtu/);
-- [Wikipedia about MTU](https://en.wikipedia.org/wiki/Maximum_transmission_unit);
-- [Okta about MTU](https://www.okta.com/identity-101/mtu/);
-- [GeeksForGeeks about MTU](https://www.geeksforgeeks.org/what-is-mtumaximum-transmission-unit/);
-- [Huawei about MTU](https://info.support.huawei.com/info-finder/encyclopedia/en/MTU.html);
+- [Cloudflare sobre MTU](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mtu/);
+- [Wikipedia sobre MTU](https://en.wikipedia.org/wiki/Maximum_transmission_unit);
+- [Okta sobre MTU](https://www.okta.com/identity-101/mtu/);
+- [GeeksForGeeks sobre MTU](https://www.geeksforgeeks.org/what-is-mtumaximum-transmission-unit/);
+- [Huawei sobre MTU](https://info.support.huawei.com/info-finder/encyclopedia/en/MTU.html);

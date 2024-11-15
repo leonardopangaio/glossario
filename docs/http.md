@@ -12,7 +12,7 @@ A porta padrão do protocolo HTTP é a porta 80.
 
 ## Referências
 
-- [MDN Web Docs about HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP);
+- [MDN Web Docs sobre HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP);
 - [MDN Web Docs overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview);
-- [Wikipedia about HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol);
-- [CloudFlare about HTTP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/hypertext-transfer-protocol-http/);
+- [Wikipedia sobre HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol);
+- [CloudFlare sobre HTTP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/hypertext-transfer-protocol-http/);

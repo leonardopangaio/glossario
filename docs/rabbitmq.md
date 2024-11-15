@@ -11,6 +11,6 @@ RabbitMQ implementa o protocolo *Advanced Message Queuing Protocol (AMQP)* e ofe
 ## Referências
 
 - [RabbitMQ official website](https://www.rabbitmq.com/);
-- [Wikipedia about RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ);
-- [Wikipedia about RabbitMQ (pt-br)](https://pt.wikipedia.org/wiki/RabbitMQ);
-- [FullCycle about RabbitMQ](https://fullcycle.com.br/como-funciona-o-rabbitmq/);
+- [Wikipedia sobre RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ);
+- [Wikipedia sobre RabbitMQ (pt-br)](https://pt.wikipedia.org/wiki/RabbitMQ);
+- [FullCycle sobre RabbitMQ](https://fullcycle.com.br/como-funciona-o-rabbitmq/);

@@ -10,8 +10,8 @@ Com a adoção crescente de contêineres e ambientes virtualizados, o KVM é uma
 
 ## Referências
 
-- [RedHat about KVM](https://www.redhat.com/pt-br/topics/virtualization/what-is-KVM);
+- [RedHat sobre KVM](https://www.redhat.com/pt-br/topics/virtualization/what-is-KVM);
 - [KVM official website](https://linux-kvm.org/page/Main_Page);
-- [Hostinger about KVM](https://support.hostinger.com/pt/articles/6988144-o-que-e-virtualizacao-kvm);
-- [Amazon AWS about KVM](https://aws.amazon.com/pt/what-is/kvm/);
-- [Wikipedia about KVM](https://pt.wikipedia.org/wiki/Kernel-based_Virtual_Machine);
+- [Hostinger sobre KVM](https://support.hostinger.com/pt/articles/6988144-o-que-e-virtualizacao-kvm);
+- [Amazon AWS sobre KVM](https://aws.amazon.com/pt/what-is/kvm/);
+- [Wikipedia sobre KVM](https://pt.wikipedia.org/wiki/Kernel-based_Virtual_Machine);

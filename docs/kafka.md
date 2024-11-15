@@ -10,10 +10,10 @@ Kafka é frequentemente usado em arquiteturas de microservices e data lakes, e s
 
 ## Referências
 
-- [Confluent about Apache Kafka](https://www.confluent.io/what-is-apache-kafka/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.kafka_mt.xct_rgn.latam_sbrgn.brazil_lng.eng_dv.all_con.kafka-general&utm_term=apache%20kafka&creative=&device=c&placement=&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hdiXdaZRLf01wpTXqWn9Bc8mqGyu0UBLTIiGwdOA7X0mBC9jEmPO4aAiNPEALw_wcB);
+- [Confluent sobre Apache Kafka](https://www.confluent.io/what-is-apache-kafka/?utm_medium=sem&utm_source=google&utm_campaign=ch.sem_br.nonbrand_tp.prs_tgt.kafka_mt.xct_rgn.latam_sbrgn.brazil_lng.eng_dv.all_con.kafka-general&utm_term=apache%20kafka&creative=&device=c&placement=&gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1hdiXdaZRLf01wpTXqWn9Bc8mqGyu0UBLTIiGwdOA7X0mBC9jEmPO4aAiNPEALw_wcB);
 - [Apache Kafka official website](https://kafka.apache.org/);
-- [RedHat about Apache Kafka](https://www.redhat.com/pt-br/topics/integration/what-is-apache-kafka);
-- [Google Cloud about Apache Kafka](https://cloud.google.com/learn/what-is-apache-kafka?hl=pt-BR);
-- [IBM about Apache Kafka](https://www.ibm.com/br-pt/topics/apache-kafka);
-- [Wikipedia about Apache Kafka](https://pt.wikipedia.org/wiki/Apache_Kafka);
-- [Oracle about Apache Kafka](https://www.oracle.com/br/cloud/apache-kafka/);
+- [RedHat sobre Apache Kafka](https://www.redhat.com/pt-br/topics/integration/what-is-apache-kafka);
+- [Google Cloud sobre Apache Kafka](https://cloud.google.com/learn/what-is-apache-kafka?hl=pt-BR);
+- [IBM sobre Apache Kafka](https://www.ibm.com/br-pt/topics/apache-kafka);
+- [Wikipedia sobre Apache Kafka](https://pt.wikipedia.org/wiki/Apache_Kafka);
+- [Oracle sobre Apache Kafka](https://www.oracle.com/br/cloud/apache-kafka/);

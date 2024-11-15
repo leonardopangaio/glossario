@@ -10,6 +10,6 @@ O protocolo SMB funciona na camada de aplicação do modelo OSI e é utilizado p
 
 ## Referências
 
-- [Wikipedia about SMB](https://en.wikipedia.org/wiki/Server_Message_Block);
-- [NordVPN about SMB](https://nordvpn.com/pt-br/blog/what-is-smb/);
-- [Wikiedia about SMB (pt-br)](https://pt.wikipedia.org/wiki/Server_Message_Block);
+- [Wikipedia sobre SMB](https://en.wikipedia.org/wiki/Server_Message_Block);
+- [NordVPN sobre SMB](https://nordvpn.com/pt-br/blog/what-is-smb/);
+- [Wikiedia sobre SMB (pt-br)](https://pt.wikipedia.org/wiki/Server_Message_Block);

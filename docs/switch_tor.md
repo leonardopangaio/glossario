@@ -10,5 +10,5 @@ Switches ToR geralmente operam na Camada 2 (Enlace) e/ou Camada 3 (Rede) do mode
 
 ## Referências
 
-- [CBT Nuggets about Switch ToR](https://www.cbtnuggets.com/blog/technology/networking/top-of-rack-switching);
-- [FS about Switch ToR](https://community.fs.com/article/popular-tor-and-tor-switch-in-data-center-architectures.html);
+- [CBT Nuggets sobre Switch ToR](https://www.cbtnuggets.com/blog/technology/networking/top-of-rack-switching);
+- [FS sobre Switch ToR](https://community.fs.com/article/popular-tor-and-tor-switch-in-data-center-architectures.html);

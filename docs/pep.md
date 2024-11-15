@@ -10,7 +10,7 @@ O PEP é uma das principais ferramentas para garantir a interoperabilidade entre
 
 ## Referências
 
-- [Wikipedia about PEP](https://pt.wikipedia.org/wiki/Prontu%C3%A1rio_Eletr%C3%B4nico);
-- [Hilab about PEP](https://hilab.com.br/blog/prontuario-eletronico-do-paciente/);
-- [Pixeon about PEP](https://www.pixeon.com/blog/prontuario-eletronico-do-paciente/);
-- [GOV.BR about PEP](https://www.gov.br/saude/pt-br/composicao/saps/informatiza-aps/prontuario-eletronico);
+- [Wikipedia sobre PEP](https://pt.wikipedia.org/wiki/Prontu%C3%A1rio_Eletr%C3%B4nico);
+- [Hilab sobre PEP](https://hilab.com.br/blog/prontuario-eletronico-do-paciente/);
+- [Pixeon sobre PEP](https://www.pixeon.com/blog/prontuario-eletronico-do-paciente/);
+- [GOV.BR sobre PEP](https://www.gov.br/saude/pt-br/composicao/saps/informatiza-aps/prontuario-eletronico);

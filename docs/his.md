@@ -10,5 +10,5 @@ Integrado a outros sistemas, como sistemas de faturamento e prontuário eletrôn
 
 ## Referências
 
-- [Talking HealthTech about HIS](https://www.talkinghealthtech.com/glossary/hospital-information-systems-his);
-- [Wikipedia about HIS](https://en.wikipedia.org/wiki/Hospital_information_system);
+- [Talking HealthTech sobre HIS](https://www.talkinghealthtech.com/glossary/hospital-information-systems-his);
+- [Wikipedia sobre HIS](https://en.wikipedia.org/wiki/Hospital_information_system);

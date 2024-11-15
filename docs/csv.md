@@ -10,5 +10,5 @@ O CSV é amplamente utilizado para transferência de dados entre diferentes sist
 
 ## Referências
 
-- [Wikipedia about CSV](https://en.wikipedia.org/wiki/Comma-separated_values);
-- [Wikipedia about CSV (pt-br)](https://pt.wikipedia.org/wiki/Comma-separated_values);
+- [Wikipedia sobre CSV](https://en.wikipedia.org/wiki/Comma-separated_values);
+- [Wikipedia sobre CSV (pt-br)](https://pt.wikipedia.org/wiki/Comma-separated_values);

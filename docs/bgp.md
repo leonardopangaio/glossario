@@ -10,9 +10,9 @@ Como protocolo de roteamento entre domínios, o BGP é projetado para ser robust
 
 ## Referências
 
-- [Cloudflare about BGP](https://www.cloudflare.com/pt-br/learning/security/glossary/what-is-bgp/);
-- [Amazon AWS about BGP](https://aws.amazon.com/pt/what-is/border-gateway-protocol/);
-- [Wikipedia about BGP](https://pt.wikipedia.org/wiki/Border_Gateway_Protocol);
-- [Fortinet about BGP](https://www.fortinet.com/br/resources/cyberglossary/bgp-border-gateway-protocol);
-- [CISCO about BGP](https://www.cisco.com/c/pt_br/support/docs/ip/border-gateway-protocol-bgp/5441-aggregation.html);
-- [Cloudflare about BGP kidnapping](https://www.cloudflare.com/pt-br/learning/security/glossary/bgp-hijacking/);
+- [Cloudflare sobre BGP](https://www.cloudflare.com/pt-br/learning/security/glossary/what-is-bgp/);
+- [Amazon AWS sobre BGP](https://aws.amazon.com/pt/what-is/border-gateway-protocol/);
+- [Wikipedia sobre BGP](https://pt.wikipedia.org/wiki/Border_Gateway_Protocol);
+- [Fortinet sobre BGP](https://www.fortinet.com/br/resources/cyberglossary/bgp-border-gateway-protocol);
+- [CISCO sobre BGP](https://www.cisco.com/c/pt_br/support/docs/ip/border-gateway-protocol-bgp/5441-aggregation.html);
+- [Cloudflare sobre BGP kidnapping](https://www.cloudflare.com/pt-br/learning/security/glossary/bgp-hijacking/);

@@ -10,6 +10,6 @@ O MPLS opera entre a Camada 2 (Enlace) e Camada 3 (Rede) do modelo OSI, sendo co
 
 ## Referências
 
-- [Wikipedia about MPLS](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching);
-- [Cloudflare about MPLS](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mpls/);
-- [CISCO about MPLS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/multiprotocol-label-switching-mpls/index.html);
+- [Wikipedia sobre MPLS](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching);
+- [Cloudflare sobre MPLS](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-mpls/);
+- [CISCO sobre MPLS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/multiprotocol-label-switching-mpls/index.html);

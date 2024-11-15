@@ -10,5 +10,5 @@ O protocolo TCP é amplamente utilizado em aplicações que exigem alta confiabi
 
 ## Referências
 
-- [Wikipedia about TCP](https://pt.wikipedia.org/wiki/Protocolo_de_Controle_de_Transmiss%C3%A3o);
-- [CloudFlare about TCP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/tcp-ip/);
+- [Wikipedia sobre TCP](https://pt.wikipedia.org/wiki/Protocolo_de_Controle_de_Transmiss%C3%A3o);
+- [CloudFlare sobre TCP](https://www.cloudflare.com/pt-br/learning/ddos/glossary/tcp-ip/);

@@ -10,4 +10,4 @@ A DTL é essencial para manter a consistência e integridade dos dados em ambien
 
 ## Referências
 
-- [Wikipedia about DTL](https://en.wikipedia.org/wiki/Model_transformation_language);
+- [Wikipedia sobre DTL](https://en.wikipedia.org/wiki/Model_transformation_language);

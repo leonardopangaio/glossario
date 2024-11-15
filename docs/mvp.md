@@ -10,10 +10,10 @@ Ao lançar um MVP, as empresas podem validar hipóteses, ajustar funcionalidades
 
 ## Referências
 
-- [Wikipedia about MVP (pt-br)](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo);
-- [InfoMoney about MVP](https://www.infomoney.com.br/guias/o-que-e-como-fazer-mvp-produto-viavel-minimo/);
-- [Zendesk about MVP](https://www.zendesk.com.br/blog/o-que-e-mvp/#);
-- [Wikipedia about MVP](https://en.wikipedia.org/wiki/Minimum_viable_product);
-- [Atlassian about MVP](https://www.atlassian.com/agile/product-management/minimum-viable-product);
-- [Gartner Glossary about MVP](https://www.gartner.com/en/marketing/glossary/minimum-viable-product-mvp-);
-- [Mailchimp about MVP](https://mailchimp.com/pt-br/resources/minimum-viable-product/);
+- [Wikipedia sobre MVP (pt-br)](https://pt.wikipedia.org/wiki/Produto_vi%C3%A1vel_m%C3%ADnimo);
+- [InfoMoney sobre MVP](https://www.infomoney.com.br/guias/o-que-e-como-fazer-mvp-produto-viavel-minimo/);
+- [Zendesk sobre MVP](https://www.zendesk.com.br/blog/o-que-e-mvp/#);
+- [Wikipedia sobre MVP](https://en.wikipedia.org/wiki/Minimum_viable_product);
+- [Atlassian sobre MVP](https://www.atlassian.com/agile/product-management/minimum-viable-product);
+- [Gartner Glossary sobre MVP](https://www.gartner.com/en/marketing/glossary/minimum-viable-product-mvp-);
+- [Mailchimp sobre MVP](https://mailchimp.com/pt-br/resources/minimum-viable-product/);

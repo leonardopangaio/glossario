@@ -11,6 +11,6 @@ O GCP oferece recursos que vão desde infraestrutura básica, como VMs e armazen
 ## Referências
 
 - [Google Cloud official website](https://cloud.google.com/docs/overview);
-- [Wikipedia about GCP](https://en.wikipedia.org/wiki/Google_Cloud_Platform);
-- [GeeksForGeeks about GCP](https://www.geeksforgeeks.org/google-cloud-platform-gcp/);
-- [Miro about GCP](https://miro.com/diagramming/what-is-google-cloud-platform/);
+- [Wikipedia sobre GCP](https://en.wikipedia.org/wiki/Google_Cloud_Platform);
+- [GeeksForGeeks sobre GCP](https://www.geeksforgeeks.org/google-cloud-platform-gcp/);
+- [Miro sobre GCP](https://miro.com/diagramming/what-is-google-cloud-platform/);

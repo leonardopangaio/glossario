@@ -10,8 +10,8 @@ Muito utilizado por profissionais de negócios e analistas de dados, o VBA permi
 
 ## Referências
 
-- [Microsoft about VBA](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office);
-- [Wikipedia about VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications);
-- [CFI about VBA](https://corporatefinanceinstitute.com/resources/excel/excel-vba/);
+- [Microsoft sobre VBA](https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office);
+- [Wikipedia sobre VBA](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications);
+- [CFI sobre VBA](https://corporatefinanceinstitute.com/resources/excel/excel-vba/);
 - [Microsoft VBA reference](https://learn.microsoft.com/en-us/office/vba/api/overview/language-reference);
-- [Indeed about VBA](https://uk.indeed.com/career-advice/career-development/what-is-vba-macro);
+- [Indeed sobre VBA](https://uk.indeed.com/career-advice/career-development/what-is-vba-macro);

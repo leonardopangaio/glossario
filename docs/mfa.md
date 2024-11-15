@@ -8,8 +8,8 @@ Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ## Referências
 
-- [Wikipedia about MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication);
-- [Amazon AWS about MFA](https://aws.amazon.com/what-is/mfa/);
-- [Microsoft about MFA](https://support.microsoft.com/en-us/topic/what-is-multifactor-authentication-e5e39437-121c-be60-d123-eda06bddf661);
-- [IBM about MFA](https://www.ibm.com/topics/multi-factor-authentication);
-- [CISCO about MFA](https://www.cisco.com/c/en/us/products/security/what-is-multi-factor-authentication.html);
+- [Wikipedia sobre MFA](https://en.wikipedia.org/wiki/Multi-factor_authentication);
+- [Amazon AWS sobre MFA](https://aws.amazon.com/what-is/mfa/);
+- [Microsoft sobre MFA](https://support.microsoft.com/en-us/topic/what-is-multifactor-authentication-e5e39437-121c-be60-d123-eda06bddf661);
+- [IBM sobre MFA](https://www.ibm.com/topics/multi-factor-authentication);
+- [CISCO sobre MFA](https://www.cisco.com/c/en/us/products/security/what-is-multi-factor-authentication.html);

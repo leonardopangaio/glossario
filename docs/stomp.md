@@ -10,5 +10,5 @@ STOMP opera na camada de aplicação do modelo OSI (Camada 7) e é utilizado em 
 
 ## Referências
 
-- [Wikipedia about STOMP](https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol);
-- [GeeksForGeeks about STOMP](https://www.geeksforgeeks.org/stomp-protocol/);
+- [Wikipedia sobre STOMP](https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol);
+- [GeeksForGeeks sobre STOMP](https://www.geeksforgeeks.org/stomp-protocol/);

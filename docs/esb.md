@@ -10,9 +10,9 @@ Um ESB pode oferecer funcionalidades como roteamento, transformação de dados, 
 
 ## Referências
 
-- [Amazon AWS about ESB](https://aws.amazon.com/pt/what-is/enterprise-service-bus/);
-- [Wikipedia about ESB](https://en.wikipedia.org/wiki/Enterprise_service_bus);
-- [Wikipedia about ESB (pt-br)](https://pt.wikipedia.org/wiki/Enterprise_Service_Bus);
-- [MuleSoft about ESB](https://www.mulesoft.com/pt/resources/esb/what-esb);
-- [IBM about ESB](https://www.ibm.com/br-pt/topics/esb);
-- [SAP about ESB](https://learning.sap.com/learning-journeys/developing-business-processes-with-sap-process-orchestration/explaining-the-enterprise-service-bus_b3d8c932-83e8-4e7d-a982-6599f75a9032);
+- [Amazon AWS sobre ESB](https://aws.amazon.com/pt/what-is/enterprise-service-bus/);
+- [Wikipedia sobre ESB](https://en.wikipedia.org/wiki/Enterprise_service_bus);
+- [Wikipedia sobre ESB (pt-br)](https://pt.wikipedia.org/wiki/Enterprise_Service_Bus);
+- [MuleSoft sobre ESB](https://www.mulesoft.com/pt/resources/esb/what-esb);
+- [IBM sobre ESB](https://www.ibm.com/br-pt/topics/esb);
+- [SAP sobre ESB](https://learning.sap.com/learning-journeys/developing-business-processes-with-sap-process-orchestration/explaining-the-enterprise-service-bus_b3d8c932-83e8-4e7d-a982-6599f75a9032);

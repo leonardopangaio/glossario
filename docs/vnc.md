@@ -10,5 +10,5 @@ O VNC opera principalmente na Camada 7 (Aplicação) do modelo OSI, utilizando a
 
 ## Referências
 
-- [Wikipedia about VNC](https://en.wikipedia.org/wiki/VNC);
-- [MIT about VNC](http://web.mit.edu/cdsdev/src/howitworks.html);
+- [Wikipedia sobre VNC](https://en.wikipedia.org/wiki/VNC);
+- [MIT sobre VNC](http://web.mit.edu/cdsdev/src/howitworks.html);

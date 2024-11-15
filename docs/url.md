@@ -10,8 +10,8 @@ Por exemplo, na URL `https://example.com/path?query=123`, `https` indica o proto
 
 ## Referências
 
-- [MDN about URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL);
-- [Wikipedia about URL](https://en.wikipedia.org/wiki/URL);
-- [Hostinger about URL](https://www.hostinger.com/tutorials/what-is-a-url);
-- [Lenovo about URL](https://www.lenovo.com/us/en/glossary/what-is-url/);
-- [GeeksForGeeks about URL](https://www.geeksforgeeks.org/what-is-url-uniform-resource-locator/);
+- [MDN sobre URL](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL);
+- [Wikipedia sobre URL](https://en.wikipedia.org/wiki/URL);
+- [Hostinger sobre URL](https://www.hostinger.com/tutorials/what-is-a-url);
+- [Lenovo sobre URL](https://www.lenovo.com/us/en/glossary/what-is-url/);
+- [GeeksForGeeks sobre URL](https://www.geeksforgeeks.org/what-is-url-uniform-resource-locator/);

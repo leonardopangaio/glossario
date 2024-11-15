@@ -10,6 +10,6 @@ No modelo OSI, o ARP atua na Camada 2 (Enlace), pois envolve a comunicação dir
 
 ## Referências
 
-- [Fortinet about ARP](https://www.fortinet.com/resources/cyberglossary/what-is-arp);
-- [Wikipedia about ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol);
-- [GeeksForGeeks about ARP](https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/);
+- [Fortinet sobre ARP](https://www.fortinet.com/resources/cyberglossary/what-is-arp);
+- [Wikipedia sobre ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol);
+- [GeeksForGeeks sobre ARP](https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/);

@@ -10,8 +10,8 @@ O RDP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 33
 
 ## Referências
 
-- [Cloudflare about RDP](https://www.cloudflare.com/pt-br/learning/access-management/what-is-the-remote-desktop-protocol/);
-- [Wikipedia about RDP](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol);
-- [Microsoft about RDP](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol);
-- [Solarwinds about RDP](https://www.solarwinds.com/resources/it-glossary/remote-desktop-protocol);
-- [Fortinet about RDP](https://www.fortinet.com/resources/cyberglossary/remote-desktop-protocol);
+- [Cloudflare sobre RDP](https://www.cloudflare.com/pt-br/learning/access-management/what-is-the-remote-desktop-protocol/);
+- [Wikipedia sobre RDP](https://en.wikipedia.org/wiki/Remote_Desktop_Protocol);
+- [Microsoft sobre RDP](https://learn.microsoft.com/en-us/troubleshoot/windows-server/remote/understanding-remote-desktop-protocol);
+- [Solarwinds sobre RDP](https://www.solarwinds.com/resources/it-glossary/remote-desktop-protocol);
+- [Fortinet sobre RDP](https://www.fortinet.com/resources/cyberglossary/remote-desktop-protocol);

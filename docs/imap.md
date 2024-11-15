@@ -10,8 +10,8 @@ IMAP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 143
 
 ## Referências
 
-- [Hostinger about IMAP](https://www.hostinger.com/tutorials/pop3-vs-imap);
-- [Microsoft about IMAP](https://support.microsoft.com/en-us/office/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9);
-- [Wikipedia about IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol);
-- [Cloudflare about IMAP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-imap/);
-- [MailChimp about IMAP](https://mailchimp.com/resources/imap-vs-pop3/);
+- [Hostinger sobre IMAP](https://www.hostinger.com/tutorials/pop3-vs-imap);
+- [Microsoft sobre IMAP](https://support.microsoft.com/en-us/office/what-are-imap-and-pop-ca2c5799-49f9-4079-aefe-ddca85d5b1c9);
+- [Wikipedia sobre IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol);
+- [Cloudflare sobre IMAP](https://www.cloudflare.com/pt-br/learning/email-security/what-is-imap/);
+- [MailChimp sobre IMAP](https://mailchimp.com/resources/imap-vs-pop3/);

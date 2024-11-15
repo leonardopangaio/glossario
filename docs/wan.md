@@ -10,10 +10,10 @@ Com a utilização de várias tecnologias, incluindo roteamento e links de dados
 
 ## Referências
 
-- [Amazon AWS about WAN](https://aws.amazon.com/what-is/wan/);
-- [CISCO about WAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-wan-wide-area-network.html);
-- [Wikipedia about WAN](https://en.wikipedia.org/wiki/Wide_area_network);
-- [Cloudflare about WAN](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-wan/);
-- [CompTIA about WAN](https://www.comptia.org/content/guides/what-is-a-wide-area-network);
-- [Fortinet about WAN](https://www.fortinet.com/resources/cyberglossary/wan);
-- [HP about WAN](https://www.hpe.com/br/en/what-is/wide-area-network.html);
+- [Amazon AWS sobre WAN](https://aws.amazon.com/what-is/wan/);
+- [CISCO sobre WAN](https://www.cisco.com/c/en/us/products/switches/what-is-a-wan-wide-area-network.html);
+- [Wikipedia sobre WAN](https://en.wikipedia.org/wiki/Wide_area_network);
+- [Cloudflare sobre WAN](https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-wan/);
+- [CompTIA sobre WAN](https://www.comptia.org/content/guides/what-is-a-wide-area-network);
+- [Fortinet sobre WAN](https://www.fortinet.com/resources/cyberglossary/wan);
+- [HP sobre WAN](https://www.hpe.com/br/en/what-is/wide-area-network.html);

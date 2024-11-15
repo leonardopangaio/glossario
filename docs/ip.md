@@ -10,5 +10,5 @@ O IPv4 utiliza um sistema de endereçamento de 32 bits, o que resulta em cerca d
 
 ## Referências
 
-- [Wikipedia about IP](https://pt.wikipedia.org/wiki/Endere%C3%A7o_IP);
-- [CloudFlare about IP](https://www.cloudflare.com/pt-br/learning/network-layer/internet-protocol/);
+- [Wikipedia sobre IP](https://pt.wikipedia.org/wiki/Endere%C3%A7o_IP);
+- [CloudFlare sobre IP](https://www.cloudflare.com/pt-br/learning/network-layer/internet-protocol/);

@@ -10,5 +10,5 @@ A DLQ é uma ferramenta importante para sistemas que exigem alta confiabilidade 
 
 ## Referências
 
-- [Amazon AWS about DLQ](https://aws.amazon.com/what-is/dead-letter-queue/);
-- [Wikipedia about DLQ](https://en.wikipedia.org/wiki/Dead_letter_queue);
+- [Amazon AWS sobre DLQ](https://aws.amazon.com/what-is/dead-letter-queue/);
+- [Wikipedia sobre DLQ](https://en.wikipedia.org/wiki/Dead_letter_queue);

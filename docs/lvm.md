@@ -8,8 +8,8 @@ Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ## Referências
 
-- [Wikipedia about LVM](https://en.wikipedia.org/wiki/Logical_Volume_Manager_(Linux));
-- [Ubuntu about LVM](https://ubuntu.com/server/docs/about-logical-volume-management-lvm);
-- [RedHat about LVM](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/deployment_guide/ch-lvm);
-- [Wikipedia about LVM (2)](https://en.wikipedia.org/wiki/Logical_volume_management);
-- [RedHat about the difference between LVM and Standard Partitioning](https://www.redhat.com/en/blog/lvm-vs-partitioning);
+- [Wikipedia sobre LVM](https://en.wikipedia.org/wiki/Logical_Volume_Manager_(Linux));
+- [Ubuntu sobre LVM](https://ubuntu.com/server/docs/about-logical-volume-management-lvm);
+- [RedHat sobre LVM](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/5/html/deployment_guide/ch-lvm);
+- [Wikipedia sobre LVM (2)](https://en.wikipedia.org/wiki/Logical_volume_management);
+- [RedHat sobre the difference between LVM and Standard Partitioning](https://www.redhat.com/en/blog/lvm-vs-partitioning);

@@ -10,7 +10,7 @@ Operando na camada de aplicação do modelo OSI (Camada 7) e geralmente utiliza 
 
 ## Referências
 
-- [Wikipedia about MQTT](https://en.wikipedia.org/wiki/MQTT);
+- [Wikipedia sobre MQTT](https://en.wikipedia.org/wiki/MQTT);
 - [MQTT official website](https://mqtt.org/);
-- [GeeksForGooks about MQTT](https://www.geeksforgeeks.org/introduction-of-message-queue-telemetry-transport-protocol-mqtt/);
-- [Amazon AWS about MQTT](https://aws.amazon.com/what-is/mqtt/);
+- [GeeksForGooks sobre MQTT](https://www.geeksforgeeks.org/introduction-of-message-queue-telemetry-transport-protocol-mqtt/);
+- [Amazon AWS sobre MQTT](https://aws.amazon.com/what-is/mqtt/);

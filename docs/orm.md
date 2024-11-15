@@ -10,6 +10,6 @@ Ferramentas ORM populares incluem Hibernate (para Java), Entity Framework (para 
 
 ## Referências
 
-- [Baeldung about ORM](https://www.baeldung.com/cs/object-relational-mapping);
-- [Wikipedia about ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping);
-- [GeekForGeeks about ORM](https://www.geeksforgeeks.org/what-is-object-relational-mapping-orm-in-dbms/);
+- [Baeldung sobre ORM](https://www.baeldung.com/cs/object-relational-mapping);
+- [Wikipedia sobre ORM](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping);
+- [GeekForGeeks sobre ORM](https://www.geeksforgeeks.org/what-is-object-relational-mapping-orm-in-dbms/);

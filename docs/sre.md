@@ -8,10 +8,10 @@ O *Site Reliability Engineering (SRE)* é uma abordagem de engenharia de softwar
 
 ## Referências
 
-- [RedHat about SRE](https://www.redhat.com/en/topics/devops/what-is-sre);
-- [Amazon AWS about SRE](https://aws.amazon.com/what-is/sre/);
+- [RedHat sobre SRE](https://www.redhat.com/en/topics/devops/what-is-sre);
+- [Amazon AWS sobre SRE](https://aws.amazon.com/what-is/sre/);
 - [SRE official website](https://sre.google/);
-- [Wikipedia about SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering);
-- [IBM about SRE](https://www.ibm.com/topics/site-reliability-engineering);
-- [Dynatrace about SRE](https://www.dynatrace.com/news/blog/what-is-site-reliability-engineering/);
-- [Atlassian about SRE](https://www.atlassian.com/incident-management/devops/sre);
+- [Wikipedia sobre SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering);
+- [IBM sobre SRE](https://www.ibm.com/topics/site-reliability-engineering);
+- [Dynatrace sobre SRE](https://www.dynatrace.com/news/blog/what-is-site-reliability-engineering/);
+- [Atlassian sobre SRE](https://www.atlassian.com/incident-management/devops/sre);

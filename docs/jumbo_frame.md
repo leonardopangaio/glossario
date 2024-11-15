@@ -14,6 +14,6 @@ Entretanto, todos os dispositivos na rota de uma transmissão de dados precisam 
 
 ## Referências
 
-- [Wikipedia about Jumbo Frames](https://en.wikipedia.org/wiki/Jumbo_frame);
-- [CBT Nuggets about Jumbo Frames](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-jumbo-frame);
-- [FS about Jumbo Frame](https://community.fs.com/article/what-is-jumbo-frame.html);
+- [Wikipedia sobre Jumbo Frames](https://en.wikipedia.org/wiki/Jumbo_frame);
+- [CBT Nuggets sobre Jumbo Frames](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-jumbo-frame);
+- [FS sobre Jumbo Frame](https://community.fs.com/article/what-is-jumbo-frame.html);

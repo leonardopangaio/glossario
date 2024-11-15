@@ -10,7 +10,7 @@ O NFS é amplamente utilizado em ambientes de rede Linux, permitindo o compartil
 
 ## Referências
 
-- [RedHat about NFS](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-nfs);
-- [NordVPN about NFS](https://nordvpn.com/pt-br/blog/network-file-system/);
-- [Wikipedia about NFS (pt-br)](https://pt.wikipedia.org/wiki/Network_File_System);
-- [Wikipedia about NFS](https://en.wikipedia.org/wiki/Network_File_System);
+- [RedHat sobre NFS](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/storage_administration_guide/ch-nfs);
+- [NordVPN sobre NFS](https://nordvpn.com/pt-br/blog/network-file-system/);
+- [Wikipedia sobre NFS (pt-br)](https://pt.wikipedia.org/wiki/Network_File_System);
+- [Wikipedia sobre NFS](https://en.wikipedia.org/wiki/Network_File_System);

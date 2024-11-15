@@ -10,7 +10,7 @@ Esses sistemas são essenciais para documentar procedimentos, arquivar imagens m
 
 ## Referências
 
-- [Animati about RIS](https://www.animati.com.br/ris-na-radiologia/);
-- [Pixeon about RIS](https://www.pixeon.com/blog/o-que-e-ris/);
-- [Wikipedia about RIS](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_radiol%C3%B3gica);
-- [Star about RIS](https://star.med.br/o-que-e-ris/);
+- [Animati sobre RIS](https://www.animati.com.br/ris-na-radiologia/);
+- [Pixeon sobre RIS](https://www.pixeon.com/blog/o-que-e-ris/);
+- [Wikipedia sobre RIS](https://pt.wikipedia.org/wiki/Sistema_de_informa%C3%A7%C3%A3o_radiol%C3%B3gica);
+- [Star sobre RIS](https://star.med.br/o-que-e-ris/);

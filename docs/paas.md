@@ -8,12 +8,12 @@ O *Platform as a Service (PaaS)* oferece uma plataforma completa para desenvolvi
 
 ## Referências
 
-- [Microsoft Azure about PaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-paas);
-- [Google Cloud about PaaS](https://cloud.google.com/learn/what-is-paas?hl=pt-BR);
-- [Microsoft Azure about PaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas);
-- [Wikipedia about PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service);
-- [RedHat about PaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-paas);
-- [IBM about PaaS](https://www.ibm.com/topics/paas);
-- [Zendesk about PaaS](https://www.zendesk.com.br/blog/what-is-paas/);
-- [Fortinet about PaaS](https://www.fortinet.com/br/resources/cyberglossary/platform-as-a-service);
-- [HP about PaaS](https://www.hpe.com/us/en/what-is/paas.html);
+- [Microsoft Azure sobre PaaS (pt-br)](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-paas);
+- [Google Cloud sobre PaaS](https://cloud.google.com/learn/what-is-paas?hl=pt-BR);
+- [Microsoft Azure sobre PaaS](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas);
+- [Wikipedia sobre PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service);
+- [RedHat sobre PaaS](https://www.redhat.com/pt-br/topics/cloud-computing/what-is-paas);
+- [IBM sobre PaaS](https://www.ibm.com/topics/paas);
+- [Zendesk sobre PaaS](https://www.zendesk.com.br/blog/what-is-paas/);
+- [Fortinet sobre PaaS](https://www.fortinet.com/br/resources/cyberglossary/platform-as-a-service);
+- [HP sobre PaaS](https://www.hpe.com/us/en/what-is/paas.html);

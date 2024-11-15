@@ -10,7 +10,7 @@ O FHIR facilita a integração com APIs RESTful e utiliza formatos de dados como
 
 ## Referências
 
-- [Google Cloud about FHIR](https://cloud.google.com/healthcare-api/docs/concepts/fhir?hl=pt-br);
-- [HL7 Fundation about FHIR](https://hl7.org/fhir/);
+- [Google Cloud sobre FHIR](https://cloud.google.com/healthcare-api/docs/concepts/fhir?hl=pt-br);
+- [HL7 Fundation sobre FHIR](https://hl7.org/fhir/);
 - [FHIR Fundation](https://fhir.org/);
-- [Wikipedia about FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources);
+- [Wikipedia sobre FHIR](https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources);

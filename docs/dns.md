@@ -10,10 +10,10 @@ Esse protocolo é essencial para a navegação na web, e sua estrutura hierárqu
 
 ## Referências
 
-- [Cloudflare about DNS](https://www.cloudflare.com/pt-br/learning/dns/what-is-dns/);
-- [Amazon AWS about DNS](https://aws.amazon.com/pt/route53/what-is-dns/);
-- [Wikipedia about DNS](https://pt.wikipedia.org/wiki/Sistema_de_Nomes_de_Dom%C3%ADnio);
-- [IBM about DNS](https://www.ibm.com/br-pt/topics/dns);
-- [IBM about DNS](https://www.ibm.com/br-pt/topics/dns-protocol);
-- [Kaspersky about DNS](https://www.kaspersky.com.br/resource-center/definitions/dns);
-- [Fortinet about DNS](https://www.fortinet.com/br/resources/cyberglossary/what-is-dns);
+- [Cloudflare sobre DNS](https://www.cloudflare.com/pt-br/learning/dns/what-is-dns/);
+- [Amazon AWS sobre DNS](https://aws.amazon.com/pt/route53/what-is-dns/);
+- [Wikipedia sobre DNS](https://pt.wikipedia.org/wiki/Sistema_de_Nomes_de_Dom%C3%ADnio);
+- [IBM sobre DNS](https://www.ibm.com/br-pt/topics/dns);
+- [IBM sobre DNS](https://www.ibm.com/br-pt/topics/dns-protocol);
+- [Kaspersky sobre DNS](https://www.kaspersky.com.br/resource-center/definitions/dns);
+- [Fortinet sobre DNS](https://www.fortinet.com/br/resources/cyberglossary/what-is-dns);

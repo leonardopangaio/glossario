@@ -10,6 +10,6 @@ No modelo OSI, a Ethernet opera na Camada 2 (Enlace) e parcialmente na Camada 1 
 
 ## Referências
 
-- [Wikipedia about Ethernet](https://en.wikipedia.org/wiki/Ethernet);
-- [CISCO about Ethernet](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-ethernet.html);
-- [GeeksForGeeks about Ethernet](https://www.geeksforgeeks.org/what-is-ethernet/);
+- [Wikipedia sobre Ethernet](https://en.wikipedia.org/wiki/Ethernet);
+- [CISCO sobre Ethernet](https://www.cisco.com/c/en/us/solutions/enterprise-networks/what-is-ethernet.html);
+- [GeeksForGeeks sobre Ethernet](https://www.geeksforgeeks.org/what-is-ethernet/);

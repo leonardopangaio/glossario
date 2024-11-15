@@ -10,7 +10,7 @@ Com o JDBC, desenvolvedores podem criar aplicações que manipulam dados em base
 
 ## Referências
 
-- [Wikipedia about JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity);
-- [GeeksForGeeks about JDBC](https://www.geeksforgeeks.org/introduction-to-jdbc/);
-- [Oracle about JDBC](https://docs.oracle.com/javase/tutorial/jdbc/overview/index.html);
-- [Wikipedia about JDBC Driver](https://en.wikipedia.org/wiki/JDBC_driver);
+- [Wikipedia sobre JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity);
+- [GeeksForGeeks sobre JDBC](https://www.geeksforgeeks.org/introduction-to-jdbc/);
+- [Oracle sobre JDBC](https://docs.oracle.com/javase/tutorial/jdbc/overview/index.html);
+- [Wikipedia sobre JDBC Driver](https://en.wikipedia.org/wiki/JDBC_driver);
