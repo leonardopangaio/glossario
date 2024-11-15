@@ -116,6 +116,27 @@ Como protocolo de roteamento entre domínios, o BGP é projetado para ser robust
 - [Cloudflare sobre BGP kidnapping](https://www.cloudflare.com/pt-br/learning/security/glossary/bgp-hijacking/);
 
 ---
+## Cascading Style Sheets (CSS)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*Cascading Style Sheets (CSS)* é uma linguagem de estilo usada para descrever a apresentação de documentos escritos em linguagens de marcação como HTML. Ela permite a estilização de elementos, definindo cores, layouts, fontes, e o posicionamento visual, separando o conteúdo da estrutura visual. CSS é essencial para a criação de interfaces modernas e responsivas.
+
+CSS é amplamente utilizado em conjunto com HTML e JavaScript para criar websites dinâmicos e atraentes. Ele permite que desenvolvedores apliquem estilos em várias páginas simultaneamente, mantendo a consistência visual e a eficiência de desenvolvimento.
+
+### Referências
+
+- [W3Schools about CSS](https://www.w3schools.com/css/css_intro.asp);
+- [MDN about CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS);
+- [Wikipedia about CSS](https://en.wikipedia.org/wiki/CSS);
+- [MDN about CSS (2)](https://developer.mozilla.org/en-US/docs/Web/CSS);
+- [GeeksForGeeks about CSS](https://www.geeksforgeeks.org/css-introduction/);
+- [Hostinger about CSS](https://www.hostinger.com/tutorials/what-is-css);
+- [Javatpoint about CSS](https://www.javatpoint.com/what-is-css);
+
+---
 ## Change Data Capture (CDC)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -623,6 +644,24 @@ Esses sistemas são essenciais para empresas que precisam gerenciar grandes volu
 - [Sydle sobre GED](https://www.sydle.com/br/blog/ged-o-que-e-e-como-funciona-5f58df091e43744c69b51502);
 
 ---
+## Google Cloud Platform (GCP)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+Google Cloud Platform (GCP) é uma suíte de serviços de computação em nuvem oferecida pelo Google, incluindo armazenamento, computação, machine learning, e bancos de dados. Empresas utilizam o GCP para hospedar, escalar e gerenciar suas aplicações.
+
+O GCP oferece recursos que vão desde infraestrutura básica, como VMs e armazenamento, até serviços avançados, como análise de dados e inteligência artificial.
+
+### Referências
+
+- [Google Cloud official website](https://cloud.google.com/docs/overview);
+- [Wikipedia about GCP](https://en.wikipedia.org/wiki/Google_Cloud_Platform);
+- [GeeksForGeeks about GCP](https://www.geeksforgeeks.org/google-cloud-platform-gcp/);
+- [Miro about GCP](https://miro.com/diagramming/what-is-google-cloud-platform/);
+
+---
 ## Health Level Seven (HL7)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -672,6 +711,27 @@ O *Hyper-Converged Infrastructure (HCI)* (Infraestrutura Hiperconvergente) é um
 - [HP sobre HCI](https://www.hpe.com/br/en/what-is/hyperconverged-infrastructure.html);
 - [Nutanix sobre HCI](https://www.nutanix.com/hyperconverged-infrastructure);
 - [Cisco sobre HCI](https://www.cisco.com/c/en/us/solutions/data-center-virtualization/what-is-hyperconverged-infrastructure.html);
+
+---
+## Hypertext Markup Language (HTML)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*Hypertext Markup Language (HTML)* é a principal linguagem de marcação para a criação de páginas web. Ele define a estrutura de uma página web, especificando elementos como cabeçalhos, parágrafos, links, imagens e tabelas. HTML é a base de qualquer documento web e é interpretado pelos navegadores para exibir o conteúdo.
+
+HTML é frequentemente utilizado junto com CSS e JavaScript para criar interfaces interativas. Cada elemento HTML possui uma função específica que organiza e apresenta o conteúdo de forma intuitiva.
+
+### Referências
+
+- [W3Schools about HTML](https://www.w3schools.com/whatis/whatis_html.asp);
+- [GeeksForGeeks about HTML](https://www.geeksforgeeks.org/html-introduction/);
+- [Hostinger about HTML](https://www.hostinger.com/tutorials/what-is-html);
+- [W3Schools about HTML (2)](https://www.w3schools.com/html/html_intro.asp);
+- [Wikipedia about HTML](https://en.wikipedia.org/wiki/HTML);
+- [MDN about HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics);
+- [MDN about HTML (2)](https://developer.mozilla.org/en-US/docs/Web/HTML);
 
 ---
 ## Hypertext Transfer Protocol (HTTP)
@@ -733,6 +793,26 @@ O *Infrastructure as a Service (IaaS)* fornece infraestrutura de TI (servidores,
 - [Fortinet sobre IaaS](https://www.fortinet.com/br/resources/cyberglossary/infrastructure-as-a-service);
 - [Cloudflare sobre IaaS](https://www.cloudflare.com/pt-br/learning/cloud/what-is-iaas/);
 - [Wikipedia sobre IaaS](https://pt.wikipedia.org/wiki/Infraestrutura_como_servi%C3%A7o);
+
+---
+## Integrated Development Environment (IDE)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+Um *Integrated Development Environment (IDE)* é um software que fornece um conjunto abrangente de ferramentas para o desenvolvimento de software, incluindo editor de código, depurador, e compilador. IDEs populares, como Visual Studio Code, Eclipse, e IntelliJ IDEA, ajudam a organizar e simplificar o fluxo de trabalho de desenvolvimento.
+
+Os IDEs facilitam a codificação ao oferecer recursos como autocompletar, sugestões, e verificação de erros em tempo real. Eles também podem incluir integração com sistemas de controle de versão e suporte para diversas linguagens de programação.
+
+### Referências
+
+- [Amazon AWS about IDE](https://aws.amazon.com/what-is/ide/);
+- [Wikipedia about IDE](https://en.wikipedia.org/wiki/Integrated_development_environment);
+- [RedHat about IDE](https://www.redhat.com/en/topics/middleware/what-is-ide);
+- [CodeAcademy about IDE](https://www.codecademy.com/article/what-is-an-ide);
+- [GeeksForGeeks about IDE](https://www.geeksforgeeks.org/what-is-ide/);
+- [MongoDB about IDE](https://www.mongodb.com/resources/basics/what-is-an-ide);
 
 ---
 ## Internet Control Message Protocol (ICMP)
@@ -823,6 +903,65 @@ A interoperabilidade é vital para integrar dados de várias fontes e possibilit
 - [Sankhya sobre Interoperability](https://www.sankhya.com.br/blog/interoperabilidade/);
 - [TOTVS sobre Interoperability](https://www.totvs.com/blog/instituicoes-de-saude/interoperabilidade-na-saude/);
 - [GOV.BR sobre Interoperability](https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/interoperabilidade/copy_of_interoperabilidade);
+
+---
+## JSON Web Token (JWT)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*JSON Web Token (JWT)* é um padrão de token para autenticação e troca de informações entre partes de forma segura. O JWT é composto por três partes: header, payload e assinatura, que permitem verificar a autenticidade e integridade do token.
+
+Os JWTs são amplamente usados em sistemas de autenticação, onde podem ser transmitidos via HTTP para validar sessões de usuários sem armazenar dados no servidor.
+
+### Referências
+
+- [JWT official website](https://jwt.io/introduction);
+- [Wikipedia about JWT](https://en.wikipedia.org/wiki/JSON_Web_Token);
+- [Auth0 about JWT](https://auth0.com/docs/secure/tokens/json-web-tokens);
+- [Postman about JWT](https://blog.postman.com/what-is-jwt/);
+- [GeeksForGeeks about JWT](https://www.geeksforgeeks.org/json-web-token-jwt/);
+- [IBM about JWT](https://www.ibm.com/docs/en/cics-ts/6.x?topic=cics-json-web-token-jwt);
+
+---
+## Java Database Connectivity (JDBC)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+Java Database Connectivity (JDBC) é uma API padrão da plataforma Java para interação com bancos de dados. Ele permite que programas executem operações de leitura, gravação e atualização de dados em sistemas de gerenciamento de bancos de dados (SGBDs).
+
+Com o JDBC, desenvolvedores podem criar aplicações que manipulam dados em bases de dados relacionais como MySQL, PostgreSQL e Oracle, de forma padronizada e independente do SGBD.
+
+### Referências
+
+- [Wikipedia about JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity);
+- [GeeksForGeeks about JDBC](https://www.geeksforgeeks.org/introduction-to-jdbc/);
+- [Oracle about JDBC](https://docs.oracle.com/javase/tutorial/jdbc/overview/index.html);
+- [Wikipedia about JDBC Driver](https://en.wikipedia.org/wiki/JDBC_driver);
+
+---
+## JavaScript Object Notation (JSON)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
+
+### Descrição
+
+*JavaScript Object Notation (JSON)* é um formato leve de intercâmbio de dados, fácil para humanos lerem e escreverem, e fácil para máquinas interpretarem e gerarem. JSON é amplamente usado para transmitir dados entre cliente e servidor em aplicações web.
+
+JSON suporta estruturas de dados simples como objetos e arrays, sendo amplamente compatível com diversas linguagens de programação e frequentemente utilizado em APIs.
+
+### Referências
+
+- [W3Schools about JSON](https://www.w3schools.com/whatis/whatis_json.asp);
+- [Wikipedia about JSON](https://en.wikipedia.org/wiki/JSON);
+- [Oracle about JSON](https://www.oracle.com/database/what-is-json/);
+- [MDN aboutJSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON);
+- [JSON official website](https://www.json.org/json-en.html);
+- [MongoDB about JSON](https://www.mongodb.com/resources/languages/what-is-json);
+- [Amazon AWS about JSON](https://aws.amazon.com/pt/documentdb/what-is-json/);
 
 ---
 ## Jumbo Frames
