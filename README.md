@@ -11,9 +11,9 @@ Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores,
 ![Watchers](https://img.shields.io/github/watchers/leonardopangaio/glossario.svg) - 
 ![Followers](https://img.shields.io/github/followers/leonardopangaio.svg?style=social&label=Follow&maxAge=2592000) -->
 
-**Artigo atualizado em:** 2024-11-15 02:46:30 -0300
+**Artigo atualizado em:** 2024-11-17 03:18:20 -0300
 
-**Total de termos:** 118
+**Total de termos:** 124
 
 <!-- início glossário -->
 
@@ -35,6 +35,51 @@ No modelo OSI, o ARP atua na Camada 2 (Enlace), pois envolve a comunicação dir
 - [GeeksForGeeks sobre ARP](https://www.geeksforgeeks.org/how-address-resolution-protocol-arp-works/);
 
 ---
+## Ansible
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-17
+
+### Descrição
+
+Ansible é uma ferramenta de automação de configuração e orquestração que usa arquivos YAML para definir estados desejados de sistemas. Ele é amplamente utilizado para provisionar servidores, configurar aplicativos e gerenciar infraestruturas.
+
+A simplicidade do Ansible, baseada em uma arquitetura sem agentes, torna-o uma escolha popular para DevOps. Ele suporta integrações com ferramentas como Terraform, Kubernetes e Docker.
+
+### Referências
+
+- [Site Oficial do Ansible - How Ansible Works](https://www.ansible.com/how-ansible-works/);
+- [Site Oficial do Ansible](https://www.ansible.com/);
+- [Wikipedia sobre Ansible](https://en.wikipedia.org/wiki/Ansible_(software));
+- [Medium sobre Ansible](https://medium.com/@techlatest.net/what-is-ansible-4b0c5afadc7d);
+- [Opensource sobre Ansible](https://opensource.com/resources/what-ansible);
+- [4Linux sobre Ansible](https://4linux.com.br/o-que-e-ansible/);
+- [RedHat sobre Ansible](https://www.redhat.com/pt-br/topics/automation/learning-ansible-tutorial);
+- [NetApp sobre Ansible](https://www.netapp.com/pt/hybrid-cloud/it-automation/what-is-ansible-configuration-management/);
+- [Playlist do Youtube sobre Ansible](https://youtube.com/playlist?list=PLORF-y_edVoDQnky9u2OgyrfirE1dhutX&si=PTS5e2XE1kz9FK2g);
+- [Documentação Oficial do Ansible](https://docs.ansible.com/);
+
+---
+## Apache Airflow
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-17
+
+### Descrição
+
+O Apache Airflow é uma plataforma para criar, agendar e monitorar workflows programáveis. Ele é amplamente usado para automatizar pipelines de dados e processos repetitivos.
+
+Workflows no Airflow são definidos como  ou em inglês *directed acyclic graphs (DAGs)*, o que permite um controle preciso sobre dependências e agendamento de tarefas.
+
+### Referências
+
+- [Documentação Oficial do Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/index.html);
+- [Site Oficial do Apache Airflow](https://airflow.apache.org/);
+- [Wikipedia sobre Apache Airflow](https://en.wikipedia.org/wiki/Apache_Airflow);
+- [Aquare.la sobre Apache Airflow](https://aquare.la/apache-airflow-o-que-e-e-como-funciona/);
+- [Data Science Academy](https://blog.dsacademy.com.br/apache-airflow-caracteristicas-vantagens-e-desvantagens-no-cenario-da-engenharia-de-dados/);
+- [Alura sobre Apache Airflow](https://www.alura.com.br/artigos/airflow-entendendo-dags);
+- [Infnet sobre Apache Airflow](https://blog.infnet.com.br/data-science/apache-airflow-o-que-e-para-que-serve-e-como-funciona/);
+
+---
 ## Apache Kafka
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -54,6 +99,79 @@ Kafka é frequentemente usado em arquiteturas de microservices e data lakes, e s
 - [IBM sobre Apache Kafka](https://www.ibm.com/br-pt/topics/apache-kafka);
 - [Wikipedia sobre Apache Kafka](https://pt.wikipedia.org/wiki/Apache_Kafka);
 - [Oracle sobre Apache Kafka](https://www.oracle.com/br/cloud/apache-kafka/);
+
+---
+## ArgoCD
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-17
+
+### Descrição
+
+ArgoCD é uma ferramenta de entrega contínua, ou em inglês *continuous deployment (CD)* focada em Kubernetes, que permite gerenciar e sincronizar o estado das aplicações implantadas com a configuração do Git. É uma implementação prática de GitOps.
+
+Ele monitora o estado do cluster Kubernetes e alerta se há divergências em relação ao código-fonte, garantindo consistência no deploy.
+
+### Referências
+
+- [RedHat sobre ArgoCD](https://www.redhat.com/pt-br/topics/devops/what-is-argocd);
+- [Medium sobre ArgoCD](https://medium.com/@habbema/argocd-43d40dba796e);
+- [Site Oficial do ArgoCD](https://argo-cd.readthedocs.io/en/stable/);
+
+---
+## Arquivo .dockerignore
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-17
+
+### Descrição
+
+O arquivo de exclusões do Docker `.dockerignore` é utilizado para listar arquivos e diretórios que devem ser ignorados durante o processo de build de uma imagem Docker. Ele funciona de maneira semelhante ao .gitignore e ajuda a evitar que arquivos desnecessários ou sensíveis sejam incluídos na imagem.
+
+Esse arquivo melhora a eficiência do build, reduzindo o tamanho das imagens e protegendo informações confidenciais. Ele deve estar localizado no mesmo diretório que o Dockerfile.
+
+### Referências
+
+- [Docker sobre Build Context](https://docs.docker.com/build/concepts/context/);
+- [GeeksForGeeks sobre .dockerignore](https://www.geeksforgeeks.org/how-to-use-a-dockerignore-file/);
+
+---
+## Arquivo .env
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-17
+
+### Descrição
+
+O arquivo de variáveis de ambiente `.env` armazena pares de chave-valor que representam configurações ou segredos de uma aplicação. Essas variáveis podem ser lidas por ferramentas ou scripts, incluindo Docker Compose e frameworks como Flask e Django.
+
+Usar arquivos .env facilita o gerenciamento de ambientes, permitindo configurar valores diferentes para desenvolvimento, teste e produção sem alterar o código-fonte.
+
+### Referências
+
+- [Alura sobre .env](https://www.alura.com.br/artigos/dotenv-gerenciando-variaveis-ambiente);
+- [DevGenius sobre .env](https://blog.devgenius.io/why-a-env-7b4a79ba689);
+- [Medium sobre .env](https://medium.com/@learn_with_ari/what-is-a-env-file-1fc8045b6d57);
+- [Medium sobre .env](https://medium.com/@sujathamudadla1213/what-is-the-use-of-env-8d6b3eb94843);
+
+---
+## Arquivo .gitignore
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-17
+
+### Descrição
+
+O arquivo de exclusões do Git `.gitignore` define arquivos ou diretórios que não devem ser rastreados pelo sistema de controle de versão Git. Ele é útil para evitar o versionamento de arquivos temporários, logs, ou configurações específicas de ambiente.
+
+Esse arquivo ajuda a manter o repositório limpo e consistente entre diferentes desenvolvedores, evitando conflitos e dados desnecessários, além de evitar o vazamento de arquivos que podem ter credenciais ou dados sensíveis.
+
+### Referências
+
+- [GeeksForGeeks sobre .gitignore](https://www.geeksforgeeks.org/what-is-git-ignore-and-how-to-use-it/);
+- [Git Oficial sobre .gitignore](https://git-scm.com/docs/gitignore);
+- [Atlassian sobre .gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore);
+- [W3Schools sobre .gitignore](https://www.w3schools.com/git/git_ignore.asp);
+- [Github sobre .gitignore](https://docs.github.com/pt/get-started/getting-started-with-git/ignoring-files);
+- [Gerador de .gitignore](https://www.toptal.com/developers/gitignore);
+- [Github exemplos de .gitignore](https://github.com/github/gitignore);
+- [Trybe sobre .gitignore](https://blog.betrybe.com/git/gitignore/);
 
 ---
 ## Atomicidade, Consistência, Isolamento e Durabilidade (ACID)
