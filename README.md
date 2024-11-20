@@ -2223,6 +2223,8 @@ XML é frequentemente usado em sistemas de configuração, protocolos de mensage
 - [Gartner Glossary](https://www.gartner.com/en/glossary);
 - [Cloudflare Learning Center](https://www.cloudflare.com/pt-br/learning/);
 - [Lenovo Glossary](https://www.lenovo.com/in/en/glossary/);
+- [Coodesh Dicionário](https://coodesh.com/blog/dicionario/);
+- [Coursera Articles](https://www.coursera.org/articles);
 
 <!-- Bloco de perfis -->
 [1]: https://www.linkedin.com/in/leonardo-pangaio/

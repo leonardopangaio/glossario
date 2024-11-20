@@ -13,9 +13,15 @@ Lista total:
 - Agile
 - agile release train (art)
 - AI
+- aka
 - angular
+- Antivírus
 - apache
 - apache tomcat
+- api
+- api rest
+- api soap
+- apm
 - appliance
 - apt
 - arp-scan
@@ -24,6 +30,7 @@ Lista total:
 - asap
 - Ascii
 - asp
+- Atenuação
 - atm
 - aws
 - azure
@@ -62,6 +69,7 @@ Lista total:
 - bpo
 - brainstorm
 - brb
+- Breach and Attack Simulation (BAS)
 - briefing
 - brownfiel
 - Browser
@@ -76,6 +84,7 @@ Lista total:
 - c
 - c#
 - c++
+- CAB
 - call
 - callcenter
 - CAPEX
@@ -83,6 +92,7 @@ Lista total:
 - Cdn
 - centro de custo
 - CEO
+- certificado digital
 - cfind
 - CFO
 - chave
@@ -93,6 +103,7 @@ Lista total:
 - classes de IP
 - cli
 - cliper
+- Cloudflare
 - clt
 - Cluster
 - CMDB
@@ -116,20 +127,30 @@ Lista total:
 - Cors
 - cpu
 - cpu wait
+- Cracker
+- criptografia
 - crm (sistema)
 - cron
 - cronjob
+- CrowdStrike
 - crt
+- crt/key/pub
 - csa
 - css
 - cta
 - CTO
+- Cucumber
+- curl
 - cutover
 - cva
+- CyberArk
+- Cypress
 - Cypress
 - daemon
 - daily
+- Dart
 - Data briks
+- Data Culture Methodology DCM
 - Data lake
 - Data lakehouse
 - data science
@@ -139,6 +160,7 @@ Lista total:
 - dccp
 - dd
 - DDD (Domain-Driven Design)
+- Ddos
 - Debug
 - delay
 - delete
@@ -169,10 +191,12 @@ Lista total:
 - echo
 - ecma
 - ecn
+- edr
 - eink
 - elasticksearch
 - elk
 - Endomarketing
+- endpoint
 - engenheiro de dados
 - entidade relacionamento
 - Esrutura de dados
@@ -196,6 +220,8 @@ Lista total:
 - fila
 - filebeat
 - filo
+- firewall
+- firewall
 - Firewall
 - flex group
 - flex volume
@@ -215,6 +241,7 @@ Lista total:
 - gap
 - gateway
 - gestio
+- Gherkin
 - gif
 - glances
 - GLPI
@@ -223,6 +250,8 @@ Lista total:
 - google
 - gpu
 - grafana
+- grafana
+- Graph viz
 - GraphQL
 - graylog
 - green belt
@@ -230,6 +259,8 @@ Lista total:
 - greyfield
 - groups
 - gRPC
+- HA
+- Hacker
 - hands on
 - hardskills
 - Hardware
@@ -250,6 +281,7 @@ Lista total:
 - ide
 - IDK
 - idle latency
+- Idp
 - IEC
 - ieee
 - ifconfig
@@ -263,6 +295,7 @@ Lista total:
 - inspect and adapt
 - Interaction overview diagram
 - Internship
+- Invasão
 - io
 - iops
 - iostat
@@ -288,6 +321,7 @@ Lista total:
 - jest.js
 - JIT
 - jitter
+- jmeter
 - job rotation
 - Joint venture
 - jpg (jpeg)
@@ -316,12 +350,14 @@ Lista total:
 - lean
 - lean six sigma
 - lean startup
+- licenciamento
 - lidar (radar por luz)
 - link
 - link agregate
 - link ativo-ativo
 - Lint
 - linter
+- LLMS
 - lmk
 - load
 - logica fuzzy
@@ -348,7 +384,11 @@ Lista total:
 - MiB
 - Microsoft Exchange
 - Microsoft sql server
+- midleware
+- mit
 - Mobile device management (MDM)
+- modem
+- Modem xdsl
 - modus operandi
 - mongodb
 - mount
@@ -359,6 +399,7 @@ Lista total:
 - NaN
 - nano
 - nat
+- NBAR
 - NBR
 - nbtscan
 - ndp
@@ -369,6 +410,7 @@ Lista total:
 - NetBIOS
 - netcat
 - netdiscover
+- Netflow
 - netmask
 - networking
 - newsletter
@@ -378,8 +420,10 @@ Lista total:
 - nfsstat
 - nfstop
 - nft
+- nginx
 - nntp
 - No-break
+- noc
 - node modules
 - node.js
 - nping
@@ -398,6 +442,8 @@ Lista total:
 - onc
 - one-on-one (1:1)
 - OOO
+- openssh
+- openssl
 - openstack
 - openvpn
 - OPEX
@@ -406,6 +452,7 @@ Lista total:
 - orthanc
 - ospf
 - oto
+- Out-of-Band Application Security Testing (OAST)
 - output
 - Outsourcing
 - Overhead
@@ -438,17 +485,24 @@ Lista total:
 - png
 - PO
 - po sync
+- pog
 - porta
 - portfolio
+- POSIX
 - postgres
 - postscript (impressoras)
 - powerbi
 - ppp
 - ppt/pptx
 - PPTP
+- Privacidade
 - problem
+- Procedimento Operacional Padrão (POP)
 - Profile diagram
+- prometheus
 - protocolos
+- proxy
+- proxy reverso
 - prtg
 - psa
 - psc
@@ -456,10 +510,12 @@ Lista total:
 - psql
 - putty
 - python
+- QA
 - QFD
 - quarter
 - query builder
 - quic
+- R
 - rack
 - ram
 - rar
@@ -480,15 +536,21 @@ Lista total:
 - RFQ
 - rh
 - rip
+- RJ-11
+- RJ-45
 - roadmap
 - ROI
 - rollout
 - ROM
 - roteamento
+- Round Robin
 - route
+- router
+- RPA
 - rpc
 - rpi
 - rpm
+- RSS
 - rsvp
 - rsync
 - rte
@@ -504,12 +566,17 @@ Lista total:
 - SASE
 - sass
 - sata
+- Saturação de banco
+- Saturação de rede
 - scala
 - schema
+- Schemacrowler
 - Scholarships
+- script
 - scrum
 - scrum master
 - sctp
+- selinux
 - Sequence diagram
 - servicedesk
 - Servidor
@@ -528,11 +595,13 @@ Lista total:
 - sna
 - snap
 - sns
+- soc
 - socket
 - Socket.io
 - softskills
 - Software
 - SolarWinds
+- SonarQube
 - sprint planning
 - Spyware
 - sqlite
@@ -573,7 +642,10 @@ Lista total:
 - tcping
 - TDD (Test-driven development)
 - telnet
+- Tensorflow
 - terminal
+- Teste de regressão
+- Teste unitário
 - throughput
 - TI
 - time to analysis (tta)
@@ -582,12 +654,17 @@ Lista total:
 - time to solution (tts)
 - timeline
 - Timing diagram
+- TMUX
+- token
 - top (linux)
 - topologia
 - TOR
 - tqm
 - traceroute
+- Trafic ou trafip
 - trainee
+- trending topics
+- Trivy
 - tsql
 - Tty
 - tui
@@ -597,6 +674,7 @@ Lista total:
 - Type Annotation
 - typescript
 - ui
+- UNIX
 - update
 - upload
 - upload latency
@@ -624,6 +702,7 @@ Lista total:
 - voip
 - vpc
 - vsun
+- vue.js
 - VxRail
 - wado
 - WatterFall
@@ -643,7 +722,9 @@ Lista total:
 - workshop
 - Workspace one
 - wps
+- wsl
 - www
+- xampp
 - xdr
 - xfs
 - xls/xlsx
@@ -656,7 +737,3 @@ Lista total:
 - zen
 - ZFS
 - zip
-
-- trending topics
-- aka
-- Data Culture Methodology DCM
