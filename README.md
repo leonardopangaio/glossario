@@ -11,9 +11,9 @@ Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores,
 ![Watchers](https://img.shields.io/github/watchers/leonardopangaio/glossario.svg) - 
 ![Followers](https://img.shields.io/github/followers/leonardopangaio.svg?style=social&label=Follow&maxAge=2592000) -->
 
-**Artigo atualizado em:** 2024-11-17 03:18:20 -0300
+**Artigo atualizado em:** 2024-11-20 04:43:02 -0300
 
-**Total de termos:** 124
+**Total de termos:** 153
 
 <!-- início glossário -->
 
@@ -174,6 +174,68 @@ Esse arquivo ajuda a manter o repositório limpo e consistente entre diferentes 
 - [Trybe sobre .gitignore](https://blog.betrybe.com/git/gitignore/);
 
 ---
+## Arquivo Dockerfile
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Dockerfile é um arquivo de texto usado para definir as instruções de criação de uma imagem Docker. Ele especifica o sistema base, bibliotecas, dependências e o comportamento padrão do contêiner ao ser iniciado.
+
+Por meio do Dockerfile, é possível criar imagens consistentes e automatizar o build de ambientes personalizados para aplicações.
+
+### Referências
+
+- [Docker sobre Dockerfile (Referência)](https://docs.docker.com/reference/dockerfile/);
+- [GeeksForGeeks sobre Dockerfile](https://www.geeksforgeeks.org/what-is-dockerfile/);
+- [Docker sobre Dockerfile (Overview)](https://docs.docker.com/build/concepts/dockerfile/);
+- [Docker sobre Dockerfile (Criando um)](https://docs.docker.com/get-started/docker-concepts/building-images/writing-a-dockerfile/);
+- [Alura sobre Dockerfile](https://www.alura.com.br/artigos/desvendando-o-dockerfile);
+- [Microsoft sobre Dockerfile](https://learn.microsoft.com/pt-br/virtualization/windowscontainers/manage-docker/manage-windows-dockerfile);
+
+---
+## Arquivo Makefile
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Makefile é um arquivo de configuração usado pela ferramenta *make* para automatizar tarefas repetitivas em projetos, como compilação de código, execução de testes e geração de artefatos. Ele define regras que descrevem como arquivos dependem uns dos outros e como atualizá-los.
+
+Comumente usado em linguagens como C e C++, o Makefile é uma ferramenta poderosa também para gerenciar scripts e pipelines de automação.
+
+### Referências
+
+- [Playlist do Youtube sobre Makefile](https://youtube.com/playlist?list=PLLCFxfe9wkl-tCZvSCbzQGcNv9nSN5ZAP&si=7xuXBUcQK-nFg8Dt);
+- [GNU sobre Make e Makefile](https://www.gnu.org/software/make/);
+- [Wikipedia sobre Make](https://pt.wikipedia.org/wiki/Make);
+- [Opensource sobre Makefile](https://opensource.com/article/18/8/what-how-makefile);
+- [Medium sobre Makefile](https://medium.com/@ayogun/what-is-makefile-and-make-how-do-we-use-it-3828f2ee8cb);
+- [Colby sobre Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/);
+- [Wikipedia sobre Make (2)](https://en.wikipedia.org/wiki/Make_(software));
+- [Tutorial de Makefile](https://makefiletutorial.com/);
+- [Wikipedia sobre Makefile](https://pt.wikipedia.org/wiki/Makefile);
+
+---
+## Arquivo docker-compose.yml
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O docker-compose.yml, também conhecido como *compose file*, é o arquivo usado pelo Docker Compose para definir e executar aplicativos com vários contêineres. Ele utiliza a sintaxe YAML para descrever serviços, redes e volumes necessários para a aplicação.
+
+Esse arquivo simplifica a orquestração de contêineres, permitindo que equipes executem stacks completas com um único comando, como `docker-compose up`.
+
+### Referências
+
+- [Docker sobre Compose File](https://docs.docker.com/reference/compose-file/);
+- [Divio sobre Compose File](https://docs.divio.com/reference/docker-docker-compose/);
+- [4Linux sobre Compose File](https://blog.4linux.com.br/docker-compose-explicado/);
+- [iMasters sobre Docker](https://imasters.com.br/banco-de-dados/docker-compose-o-que-e-para-que-serve-o-que-come);
+- [dev.to sobre Docker](https://dev.to/ingresse/docker-e-docker-compose-um-guia-para-iniciantes-48k8);
+
+---
 ## Atomicidade, Consistência, Isolamento e Durabilidade (ACID)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
@@ -234,6 +296,23 @@ Como protocolo de roteamento entre domínios, o BGP é projetado para ser robust
 - [Fortinet sobre BGP](https://www.fortinet.com/br/resources/cyberglossary/bgp-border-gateway-protocol);
 - [CISCO sobre BGP](https://www.cisco.com/c/pt_br/support/docs/ip/border-gateway-protocol-bgp/5441-aggregation.html);
 - [Cloudflare sobre BGP kidnapping](https://www.cloudflare.com/pt-br/learning/security/glossary/bgp-hijacking/);
+
+---
+## Build
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-18
+
+### Descrição
+
+O processo de *build*, que em uma tradução livre seria construir, é a etapa em que o código-fonte de uma aplicação é convertido em um artefato executável, como um binário ou uma imagem de container. Ele pode incluir etapas como compilação, testes e empacotamento.
+
+O build é essencial em pipelines de integração contínua, do inglês *continuous integration (CI)*, automatizando a criação de versões consistentes para distribuição ou deploy.
+
+### Referências
+
+- [Wikipedia sobre Build](https://en.wikipedia.org/wiki/Software_build);
+- [Wikipedia sobre Build (pt-br)](https://pt.wikipedia.org/wiki/Build);
+- [Techopedia sobre Build](https://www.techopedia.com/definition/3759/build);
 
 ---
 ## Cascading Style Sheets (CSS)
@@ -326,6 +405,31 @@ Esses sistemas oferecem funcionalidades como edição precisa de geometria, visu
 - [Wikipedia sobre CAD](https://en.wikipedia.org/wiki/Computer-aided_design);
 
 ---
+## Container
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-18
+
+### Descrição
+
+Um *container* é uma unidade leve de software que inclui o código da aplicação, dependências e bibliotecas necessárias para sua execução. Containers são isolados do sistema operacional subjacente, garantindo portabilidade.
+
+Ferramentas como Docker e Kubernetes facilitam a criação, gerenciamento e orquestração de containers em ambientes locais e na nuvem.
+
+### Referências
+
+- [Docker sobre Containers](https://www.docker.com/resources/what-container/);
+- [Wikipedia sobre Containers](https://en.wikipedia.org/wiki/Containerization_(computing));
+- [Google Cloud sobre Containers](https://cloud.google.com/learn/what-are-containers?hl=pt-BR);
+- [RedHat sobre Containers](https://www.redhat.com/pt-br/topics/containers);
+- [IBM sobre Containers](https://www.ibm.com/br-pt/topics/containers);
+- [Escola Superior de Redes sobre Container](https://esr.rnp.br/administracao-de-sistemas/containers-docker-como-utilizar/);
+- [Microsoft Azure sobre Containers](https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-a-container);
+- [Treinaweb sobre Containers](https://www.treinaweb.com.br/blog/afinal-o-que-e-um-container);
+- [HP sobre Containers](https://www.hpe.com/br/en/what-is/containers.html);
+- [CISCO sobre Containers](https://www.cisco.com/c/en/us/solutions/cloud/what-are-containers.html);
+- [Código Fonte TV sobre Containers](https://youtu.be/-pUZBovqRcU?si=XqF6-VK2BUwuevA9);
+
+---
 ## Container as a Service (CaaS)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
@@ -345,6 +449,106 @@ Ao usar CaaS, os desenvolvedores conseguem configurar, escalar e gerenciar cont�
 - [HP sobre CaaS](https://www.hpe.com/us/en/what-is/caas.html);
 - [DIO sobre difference between types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-entendendo-os-diferentes-modelos-de-computacao-em-nuvem-em-um-mundo-multi-cloud);
 - [DIO sobre different types of cloud computing](https://www.dio.me/articles/iaas-paas-saas-e-caas-conceitos-exemplos-e-diferencas);
+
+---
+## Continuous Delivery (CD)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+*Continuous Delivery* (Entrega Contínua, CD) é a prática de preparar software para implantação de maneira automatizada e consistente. Ele envolve a validação de builds, testes automatizados, e a disponibilização do artefato final em ambientes de produção ou staging.
+
+O objetivo é permitir implantações rápidas, seguras e frequentes, minimizando o tempo de espera entre o desenvolvimento e a entrega ao cliente.
+
+### Referências
+
+- [Wikipedia sobre CD](https://en.wikipedia.org/wiki/Continuous_delivery);
+- [Amazon AWS sobre CD](https://aws.amazon.com/pt/devops/continuous-delivery/);
+- [Codefresh sobre CD](https://codefresh.io/learn/continuous-delivery/);
+- [RedHat sobre CD](https://www.redhat.com/pt-br/topics/devops/what-is-continuous-delivery);
+- [Microsoft sobre CD](https://learn.microsoft.com/pt-br/devops/deliver/what-is-continuous-delivery);
+- [IBM sobre CD](https://www.ibm.com/br-pt/topics/continuous-delivery);
+- [Atlassian sobre CD](https://www.atlassian.com/br/continuous-delivery/principles);
+- [ServiceNow sobre CD](https://www.servicenow.com/br/products/it-operations-management/what-is-continous-delivery.html);
+- [Wikipedia sobre CD (pt-br)](https://pt.wikipedia.org/wiki/Entrega_cont%C3%ADnua);
+- [IBM sobre CD (Youtube)](https://youtu.be/2TTU5BB-k9U?si=DC8WQ0NCk4y61P0L);
+
+---
+## Continuous Deployment (CD)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+A Implantação Contínua (Continuous Deployment) é uma prática no ciclo de vida de desenvolvimento de software onde mudanças no código são automaticamente implantadas em produção após serem aprovadas em todas as etapas do pipeline, como testes e validações.
+
+Essa abordagem elimina a necessidade de intervenção manual na entrega de novas versões, permitindo iterações rápidas e frequentes, o que é essencial em ambientes de DevOps.
+
+### Referências
+
+- [IBM sobre CD](https://youtu.be/LNLKZ4Rvk8w?si=XNbx6BRxSpRSRF25);
+- [IBM sobre CD](https://www.ibm.com/topics/continuous-deployment);
+- [Wikipedia sobre CD](https://en.wikipedia.org/wiki/Continuous_deployment);
+- [Atlassian sobre CD](https://www.atlassian.com/continuous-delivery/software-testing/continuous-deployment);
+- [GitHub sobre CD](https://github.com/resources/articles/devops/ci-cd-deployment);
+- [JetBrains sobre CD](https://www.jetbrains.com/pt-br/teamcity/ci-cd-guide/continuous-deployment/);
+- [ServiceNow sobre CD](https://www.servicenow.com/br/products/devops/what-is-continuous-deployment.html);
+- [Objective sobre CD](https://www.objective.com.br/insights/continuous-deployment/);
+
+---
+## Continuous Integration (CI)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+*Continuous Integration* (Integração Contínua, CI) é a prática de integrar código de diferentes desenvolvedores em um repositório compartilhado com frequência, seguida de validação automatizada. Essa validação inclui testes unitários, de integração e análise de qualidade de código.
+
+A CI reduz riscos, acelera o desenvolvimento e garante que alterações no código sejam integradas de forma consistente e confiável.
+
+### Referências
+
+- [Código Fonte TV sobre CI](https://youtu.be/nI3IjYcBGiU?si=ZsJYI1Q7vLq4hGG6);
+- [Atlassian sobre CI](https://www.atlassian.com/continuous-delivery/continuous-integration);
+- [Amazon AWS sobre CI](https://aws.amazon.com/pt/devops/continuous-integration/);
+- [Wikipedia sobre CI](https://en.wikipedia.org/wiki/Continuous_integration);
+- [IBM sobre CI](https://www.ibm.com/topics/continuous-integration);
+- [RedHat sobre CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd);
+- [GitLab sobre CI/CD](https://about.gitlab.com/topics/ci-cd/);
+- [Objective sobre CI](https://www.objective.com.br/insights/continuous-integration/);
+- [Atlassian sobre CI/CD](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment);
+- [CircleCI sobre CI](https://circleci.com/continuous-integration/);
+- [ServiceNow sobre CI](https://www.servicenow.com/br/products/devops/what-is-continuous-integration.html);
+- [Unity sobre CI/CD](https://unity.com/pt/topics/what-is-ci-cd);
+- [Amazon AWS sobre CI/CD](https://docs.aws.amazon.com/pt_br/whitepapers/latest/practicing-continuous-integration-continuous-delivery/what-is-continuous-integration-and-continuous-deliverydeployment.html);
+- [IBM sobre CI (Youtube)](https://youtu.be/1er2cjUq1UI?si=OWm2qwugb7zdCglL);
+
+---
+## Continuous Integration/Continuous Delivery (CI/CD)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+*Continuous Integration/Continuous Delivery* (Integração Contínua/Entrega Contínua, CI/CD) é a combinação de práticas que automatizam o ciclo de desenvolvimento, integração e implantação de software. Ele inclui a validação de código, execução de testes e a entrega do software para produção de forma frequente e confiável.
+
+Essas práticas são fundamentais em metodologias ágeis e DevOps, promovendo maior colaboração e redução de erros no processo de desenvolvimento.
+
+### Referências
+
+- [RedHat sobre CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd);
+- [GitLab sobre CI/CD](https://about.gitlab.com/topics/ci-cd/);
+- [Wikipedia sobre CI/CD](https://en.wikipedia.org/wiki/CI/CD);
+- [Unity sobre CI/CD](https://unity.com/pt/topics/what-is-ci-cd);
+- [GitHub sobre CI/CD](https://github.com/resources/articles/devops/ci-cd);
+- [Atlassian sobre CI/CD](https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment);
+- [IBM sobre CI/CD](https://www.ibm.com/think/topics/ci-cd-pipeline);
+- [GeeksForGeeks sobre CI/CD](https://www.geeksforgeeks.org/what-is-ci-cd/);
+- [Fortinet sobre CI/CD](https://www.fortinet.com/br/resources/cyberglossary/ci-cd-pipeline);
+- [Medium sobre CI/CD](https://medium.com/@habbema/desvendando-ci-cd-b56f515ddd20);
+- [Objective sobre CI/CD](https://www.objective.com.br/insights/ci-cd/);
+- [ServiceNow sobre CI/CD](https://www.servicenow.com/br/products/devops/what-is-cicd.html);
 
 ---
 ## Data Control Language (DCL)
@@ -445,6 +649,21 @@ A DTL é essencial para manter a consistência e integridade dos dados em ambien
 - [Wikipedia sobre DTL](https://en.wikipedia.org/wiki/Model_transformation_language);
 
 ---
+## Database Administration and Operations (DBAOps)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+*Database Administration and Operations (DBAOps)* aplica princípios de DevOps à administração de bancos de dados, promovendo automação e colaboração entre equipes de DBAs e desenvolvedores. Ele busca reduzir gargalos e melhorar o desempenho no gerenciamento de dados.
+
+Práticas comuns incluem a automação de deploys de esquemas, monitoramento de banco de dados e execução de backups, aumentando a agilidade e a confiabilidade no gerenciamento de dados.
+
+### Referências
+
+Sem referências até o momento.
+
+---
 ## Database Administrator (DBA)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
@@ -513,6 +732,122 @@ Essa configuração é comum em redes corporativas para proteger dados confidenc
 - [Fortinet sobre DMZ](https://www.fortinet.com/resources/cyberglossary/what-is-dmz);
 - [F5 sobre DMZ](https://www.f5.com/glossary/demilitarized-zone-dmz);
 - [Barracuda sobre DMZ](https://www.barracuda.com/support/glossary/dmz-network);
+
+---
+## Deploy
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-18
+
+### Descrição
+
+O termo *Deploy*, *Deployment* ou ainda *Application Deployment* (Implantação, tradução livre) refere-se ao processo de disponibilizar uma aplicação em um ambiente, como desenvolvimento, homologação ou produção. Ele pode incluir a instalação de software, configuração de infraestrutura, e a atualização de serviços existentes.
+
+Automatizar o deploy com ferramentas como Ansible, Kubernetes e Jenkins ajuda a reduzir erros e agilizar o processo.
+
+### Referências
+
+- [HostGator sobre Deploy](https://www.hostgator.com.br/blog/o-que-e-deploy-e-como-realiza-lo/);
+- [Coodesh sobre Deploy](https://coodesh.com/blog/dicionario/o-que-e-deploy/);
+- [Wikipedia sobre Deploy](https://pt.wikipedia.org/wiki/Implanta%C3%A7%C3%A3o_de_software);
+
+---
+## Development and Operations (DevOps)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+*Development and Operations (DevOps)* é um conjunto de práticas, ferramentas e filosofias culturais que promovem a colaboração entre equipes de desenvolvimento (Dev) e operações (Ops). Ele visa acelerar o ciclo de desenvolvimento e entrega de software, garantindo alta qualidade e eficiência.
+
+DevOps utiliza automação, CI/CD, e metodologias ágeis para melhorar a comunicação entre equipes, reduzir o time-to-market e aumentar a estabilidade operacional.
+
+### Referências
+
+- [Hashtag Programação sobre DevOps](https://youtu.be/5fQJC9iLCbE?si=XbGK4fJ2-OZSYh8v);
+- [Código Fonte TV sobre DevOps](https://youtu.be/iwf6kcvxeD4?si=G4G3CXIZPDwRroBV);
+- [Dynatrace sobre DevOps](https://www.dynatrace.com/monitoring/solutions/devops/);
+- [Alura sobre DevOps](https://www.alura.com.br/artigos/devops-o-que-e);
+- [Amazon AWS sobre DevOps](https://aws.amazon.com/pt/devops/what-is-devops/);
+- [GitLab sobre DevOps](https://about.gitlab.com/topics/devops/);
+- [Wikipedia sobre DevOps](https://en.wikipedia.org/wiki/DevOps);
+- [Atlassian sobre DevOps](https://www.atlassian.com/devops);
+- [Microsoft sobre DevOps](https://learn.microsoft.com/en-us/devops/what-is-devops);
+- [IBM sobre DevOps](https://www.ibm.com/topics/devops);
+- [GitHub sobre DevOps](https://github.com/resources/articles/devops/what-is-devops);
+- [GeeksForGeeks sobre DevOps](https://www.geeksforgeeks.org/introduction-to-devops/);
+- [RedHat sobre DevOps](https://www.redhat.com/pt-br/topics/devops);
+- [Treinaweb sobre DevOps](https://www.treinaweb.com.br/blog/afinal-o-que-e-devops);
+- [Oracle sobre DevOps](https://www.oracle.com/br/devops/what-is-devops/);
+- [GeeksForGeeks tutorial sobre DevOps](https://www.geeksforgeeks.org/devops-tutorial/);
+
+---
+## Development, Security and Operations (DevSecOps)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+*Development, Security and Operations (DevSecOps)* é uma extensão do DevOps que integra práticas de segurança em todas as etapas do ciclo de vida do desenvolvimento de software. Ele foca em criar aplicações seguras desde o início, em vez de adicionar segurança como um passo final.
+
+Ferramentas como análise de código estático (SAST) e testes dinâmicos de segurança (DAST) são integradas em pipelines CI/CD para garantir a conformidade e mitigar riscos de segurança.
+
+### Referências
+
+- [Código Fonte TV sobre DevSecOps](https://youtu.be/CCp30BD9uRo?si=kGlaoss_5mu7nEw9);
+- [Dynatrace sobre DevSecOps](https://www.dynatrace.com/monitoring/solutions/devsecops/);
+- [Amazon AWS sobre DevSecOps](https://aws.amazon.com/what-is/devsecops/);
+- [RedHat sobre DevSecOps](https://www.redhat.com/en/topics/devops/what-is-devsecops);
+- [Microsoft sobre DevSecOps](https://www.microsoft.com/en-us/security/business/security-101/what-is-devsecops);
+- [IBM sobre DevSecOps](https://www.ibm.com/topics/devsecops);
+- [GitLab sobre DevSecOps](https://about.gitlab.com/topics/devsecops/);
+- [Broadcom sobre DevSecOps](https://www.broadcom.com/topics/devsecops);
+- [GeeksForGeeks sobre DevSecOps](https://www.geeksforgeeks.org/what-is-devsecops/);
+- [ServiceNow sobre DevSecOps](https://www.servicenow.com/br/products/security-operations/what-is-devsecops.html);
+
+---
+## Docker
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Docker é uma plataforma de código aberto para criar, gerenciar e executar contêineres. Ele utiliza imagens de contêiner como blueprint, permitindo empacotar aplicações junto com suas dependências para garantir consistência em qualquer ambiente.
+
+Além de ser um padrão de mercado, o Docker facilita práticas DevOps, como CI/CD, permitindo que desenvolvedores e equipes entreguem software mais rapidamente.
+
+### Referências
+
+- [Docker sobre Docker](https://docs.docker.com/get-started/docker-overview/);
+- [IBM sobre Docker](https://www.ibm.com/topics/docker);
+- [Amazon AWS sobre Docker](https://aws.amazon.com/pt/docker/);
+- [Wikipedia sobre Docker](https://en.wikipedia.org/wiki/Docker_(software));
+- [RedHat sobre Docker](https://www.redhat.com/en/topics/containers/what-is-docker);
+- [Oracle sobre Docker](https://www.oracle.com/cloud/cloud-native/container-registry/what-is-docker/);
+- [Alura sobre Docker](https://www.alura.com.br/artigos/comecando-com-docker);
+- [Hostinger sobre Docker](https://www.hostinger.com.br/tutoriais/o-que-e-docker);
+- [Microsoft sobre Docker](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/container-docker-introduction/docker-defined);
+- [Locaweb sobre Docker](https://www.locaweb.com.br/blog/temas/codigo-aberto/o-que-e-docker-e-por-que-usar/);
+- [Atlassian sobre Kubernetes vs. Docker](https://www.atlassian.com/br/microservices/microservices-architecture/kubernetes-vs-docker);
+- [4Linux sobre Docker](https://4linux.com.br/o-que-e-docker/);
+
+---
+## Docker Registry
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Registry (Registro, tradução livre) é um repositório de contêineres usado para armazenar, gerenciar e distribuir imagens Docker. Exemplos populares incluem Docker Hub, Nexus, GitHub Packages e Artifactory.
+
+Os registries permitem compartilhar imagens entre equipes e automatizar a distribuição de artefatos em pipelines CI/CD.
+
+### Referências
+
+- [Linux Tips sobre Docker Registry](https://youtu.be/kyIDFEqf40o?si=UZlY2QQUWE0nWLTB);
+- [GeeksForGeeks sobre Docker Registry](https://www.geeksforgeeks.org/what-is-docker-registry/);
+- [RedHat sobre Docker Registry](https://www.redhat.com/en/topics/cloud-native-apps/what-is-a-container-registry);
+- [Docker sobre Docker Registry](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-registry/);
+- [iMasters sobre Docker Registry](https://imasters.com.br/docker/docker-registry-entendendo-melhor);
 
 ---
 ## Domain Name System (DNS)
@@ -762,6 +1097,103 @@ Esses sistemas são essenciais para empresas que precisam gerenciar grandes volu
 - [Neomind sobre GED](https://www.neomind.com.br/blog/o-que-e-ged/);
 - [Selbetti sobre GED](https://selbetti.com.br/blog/ged-o-que-e-como-funciona-e-quando-usar/);
 - [Sydle sobre GED](https://www.sydle.com/br/blog/ged-o-que-e-e-como-funciona-5f58df091e43744c69b51502);
+
+---
+## Git
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Git é um sistema de controle de versão distribuído que permite rastrear mudanças no código, colaborar em equipe e gerenciar diferentes versões de projetos. Ele é conhecido por sua eficiência, flexibilidade e capacidade de operação offline.
+
+Amplamente adotado na indústria, o Git suporta ferramentas como GitHub e GitLab e é fundamental em fluxos de trabalho modernos, como GitOps e CI/CD.
+
+### Referências
+
+- [Git site oficial](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F);
+- [Wikipedia sobre Git](https://en.wikipedia.org/wiki/Git);
+- [Atlassian sobre Git](https://www.atlassian.com/git/tutorials/what-is-git);
+- [W3Schools sobre Git e Github](https://www.w3schools.com/git/git_intro.asp);
+- [Github sobre Git](https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/);
+- [Github sobre Git (2)](https://docs.github.com/en/get-started/using-git/about-git);
+- [Microsoft sobre Git](https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git);
+- [Trybe sobre Git](https://blog.betrybe.com/git/);
+- [Dio sobre Git](https://www.dio.me/articles/o-que-e-git-e-github-para-que-serve);
+- [Código Fonte TV sobre Git](https://youtu.be/ts-H3W1uLMM?si=RUhXnS9DaJqoNHSb);
+- [Curso em Vídeo sobre Git e GitHub](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&si=M5iWOsosrFVxpgqN);
+
+---
+## Git Operations (GitOps)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+*Git Operations (GitOps)* é uma abordagem para gerenciar infraestruturas e aplicações usando Git como fonte única de verdade. As mudanças são aplicadas por meio de PRs (Pull Requests) ou commits, que acionam pipelines automatizados para sincronizar estados declarativos com os ambientes de execução.
+
+Amplamente usado em ambientes Kubernetes, o GitOps promove auditoria, rastreabilidade e consistência, facilitando o gerenciamento de configurações e implantações.
+
+### Referências
+
+- [Linux Tips sobre GitOps](https://www.youtube.com/live/HGXndMsdeJw?si=TGFpMul7dfRuiLe7);
+- [FullCycle sobre GitOps](https://fullcycle.com.br/o-que-e-gitops/);
+- [Alura sobre GitOps](https://www.alura.com.br/artigos/o-que-e-git-ops);
+- [GitLab sobre GitOps](https://about.gitlab.com/topics/gitops/);
+- [RedHat sobre GitOps](https://www.redhat.com/en/topics/devops/what-is-gitops);
+- [Codefresh sobre GitOps](https://codefresh.io/learn/gitops/);
+- [Atlassian sobre GitOps](https://www.atlassian.com/git/tutorials/gitops);
+- [CloudBees sobre GitOps](https://www.cloudbees.com/gitops/what-is-gitops);
+- [RedHat sobre Workflow do GitOps](https://www.redhat.com/en/topics/devops/what-is-gitops-workflow);
+- [GeeksForGeeks sobre GitOps](https://www.geeksforgeeks.org/gitops-vs-infrastructure-as-code/);
+- [GeeksForGeeks overview sobre GitOps](https://www.geeksforgeeks.org/overview-of-gitops/);
+
+---
+## GitHub
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O GitHub é uma plataforma de hospedagem de repositórios Git baseada na nuvem. Ele oferece ferramentas para colaboração, rastreamento de issues, revisão de código e integração com pipelines CI/CD.
+
+O GitHub é amplamente utilizado por desenvolvedores, empresas e comunidades de código aberto para gerenciar projetos e facilitar o trabalho em equipe.
+
+### Referências
+
+- [Código Fonte TV sobre GitHub](https://youtu.be/myQuetgSEsY?si=swrVx-ef4kjM1m2L);
+- [Wikipedia sobre GitHub](https://en.wikipedia.org/wiki/GitHub);
+- [W3Schools sobre GitHub](https://www.w3schools.com/whatis/whatis_github.asp);
+- [TechTarget sobre GitHub](https://www.techtarget.com/searchitoperations/definition/GitHub);
+- [Digital.gov sobre GitHub](https://digital.gov/resources/an-introduction-github/);
+- [Coursera sobre GitHub](https://www.coursera.org/articles/what-is-git);
+- [Ebac sobre GitHub](https://ebaconline.com.br/blog/o-que-e-github);
+- [Hostinger sobre GitHub](https://www.hostinger.com.br/tutoriais/o-que-github);
+- [Locaweb sobre GitHub](https://www.locaweb.com.br/blog/temas/codigo-aberto/github/);
+- [Wikipedia sobre GitHub (pt-br)](https://pt.wikipedia.org/wiki/GitHub);
+- [TechTudo sobre GitHub](https://www.techtudo.com.br/listas/2021/05/o-que-e-o-github-veja-para-que-serve-a-rede-social-de-programadores.ghtml);
+- [CanalTech sobre GitHub](https://canaltech.com.br/internet/o-que-e-github/);
+- [Site Oficial do GitHub](https://github.com);
+
+---
+## GitLab
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O GitLab é uma plataforma de DevSecOps que combina hospedagem de repositórios Git com ferramentas de integração contínua (CI), entrega contínua (CD), gerenciamento de projetos e segurança. Ele pode ser usado na nuvem ou autogerenciado.
+
+Com recursos robustos para colaboração e automação, o GitLab é uma solução completa para equipes que buscam gerenciar todo o ciclo de vida de software em um único lugar.
+
+### Referências
+
+- [Wikipedia sobre GitLab](https://en.wikipedia.org/wiki/GitLab);
+- [Site Oficial do GitLab](https://about.gitlab.com/);
+- [W3Schools sobre GitLab](https://www.w3schools.com/git/git_remote_getstarted.asp);
+- [Wikipedia sobre GitLab (pt-br)](https://pt.wikipedia.org/wiki/GitLab);
+- [Diolinux sobre Git, GitHub e GitLab](https://diolinux.com.br/editorial/git-github-e-gitlab.html);
+- [4Linux sobre GitLab](https://blog.4linux.com.br/ci-cd-com-gitlab/);
 
 ---
 ## Google Cloud Platform (GCP)
@@ -1130,6 +1562,29 @@ JSON suporta estruturas de dados simples como objetos e arrays, sendo amplamente
 - [Amazon AWS sobre JSON](https://aws.amazon.com/pt/documentdb/what-is-json/);
 
 ---
+## Jenkins
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Jenkins é uma ferramenta de automação de código aberto usada principalmente para integração contínua (CI) e entrega contínua (CD). Ele permite a execução de tarefas como builds, testes e deploys de forma automatizada e configurável.
+
+Com suporte a plugins e grande flexibilidade, o Jenkins é uma escolha popular para equipes de desenvolvimento que desejam implementar pipelines personalizados.
+
+### Referências
+
+- [Site Oficial do Jenkins](https://www.jenkins.io/);
+- [Wikipedia sobre Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software));
+- [GeeksForGeeks sobre Jenkins](https://www.geeksforgeeks.org/what-is-jenkins/);
+- [CloudBees sobre Jenkins](https://www.cloudbees.com/jenkins/what-is-jenkins);
+- [GoCache sobre Jenkins](https://gocache.com.br/dicas/o-que-e-jenkins-para-iniciantes/);
+- [Coodesh sobre Jenkins](https://coodesh.com/blog/dicionario/o-que-e-jenkins/);
+- [Amazon AWS sobre Jenkins](https://aws.amazon.com/pt/getting-started/hands-on/setup-jenkins-build-server/faq/);
+- [Dio sobre Jenkins](https://www.dio.me/articles/apresentando-o-jenkins-automatize-o-desenvolvimento-e-entrega-de-software);
+- [GoCache sobre Jenkins (2)](https://gocache.com.br/dicas/para-que-serve-jenkins-e-o-que-ele-pode-fazer/);
+
+---
 ## Jumbo Frames
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
@@ -1186,6 +1641,32 @@ Empresas utilizam KPIs para monitorar áreas como vendas, produtividade e satisf
 - [Forbes sobre KPI](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/);
 - [Wikipedia sobre KPI](https://en.wikipedia.org/wiki/Performance_indicator);
 - [ServiceNow sobre KPI](https://www.servicenow.com/products/strategic-portfolio-management/what-is-kpi.html);
+
+---
+## Kubernetes
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Kubernetes é uma plataforma de orquestração de contêineres usada para gerenciar o ciclo de vida de aplicações em ambientes distribuídos. Ele permite implantar, escalar e manter contêineres de maneira automática e resiliente.
+
+Criado pelo Google, o Kubernetes é amplamente adotado como padrão para orquestração em nuvem, integrando-se com ferramentas como Docker, Helm e ArgoCD.
+
+### Referências
+
+- [Código Fonte TV sobre Kubernetes](https://youtu.be/mVL0nOM3AGo?si=O3cTIKnI9yWkz7Wz);
+- [Kubernetes sobre Kubernetes](https://kubernetes.io/docs/concepts/overview/);
+- [Site Oficial do Kubernetes](https://kubernetes.io/);
+- [Google Cloud sobre Kubernetes](https://cloud.google.com/learn/what-is-kubernetes);
+- [Wikipedia sobre Kubernetes](https://en.wikipedia.org/wiki/Kubernetes);
+- [RedHat sobre Kubernetes](https://www.redhat.com/en/topics/containers/what-is-kubernetes);
+- [IBM sobre Kubernetes](https://www.ibm.com/topics/kubernetes);
+- [Alura sobre Kubernetes](https://www.alura.com.br/artigos/o-que-e-kubernetes);
+- [Rock Content sobre Kubernetes](https://rockcontent.com/br/blog/kubernetes/);
+- [Oracle sobre Kubernetes](https://www.oracle.com/br/cloud/cloud-native/kubernetes-engine/what-is-kubernetes/);
+- [Amazon AWS sobre Kubernetes](https://aws.amazon.com/pt/what-is/kubernetes-cluster/);
+- [Wikipedia sobre Kubernetes (pt-br)](https://pt.wikipedia.org/wiki/Kubernetes);
 
 ---
 ## Laboratory Information System (LIS)
@@ -1475,6 +1956,26 @@ O Nmap opera principalmente na Camada 3 (Rede) e Camada 4 (Transporte) do modelo
 - [NMAP official man](https://nmap.org/man/pt_PT/index.html);
 
 ---
+## Nexus Registry
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Nexus é um repositório/*Registry* gerenciador de artefatos utilizado para armazenar e compartilhar bibliotecas, pacotes e imagens Docker. Ele suporta diversos formatos, como Maven, npm, PyPI e Docker, permitindo centralizar dependências em projetos de desenvolvimento.
+
+Muito usado em pipelines CI/CD, o Nexus facilita o versionamento e a rastreabilidade de artefatos em projetos de software.
+
+### Referências
+
+- [Sonatype sobre Nexus Registry](https://www.sonatype.com/blog/sonatype-nexus-repository-as-a-container-registry);
+- [Medium sobre Nexus Registry](https://medium.com/cloud-native-daily/docker-registry-harbor-or-nexus-4213348ef5c2);
+- [Medium sobre Nexus Registry (2)](https://medium.com/@yasinkartal2009/using-nexus-repository-manager-as-docker-images-50038bf5b097);
+- [Dev.to sobre Nexus Registry](https://dev.to/wnqueiroz/configurando-e-publicando-aplicacoes-nodejs-no-nexus-repository-manager-3-2m0l);
+- [Sonatype sobre Nexus Registry (2)](https://help.sonatype.com/en/docker-registry.html);
+- [4Linux sobre Nexus Registry](https://blog.4linux.com.br/gerenciando-repositorio-helm-com-neuxs/);
+
+---
 ## Non-Disclosure Agreement (NDA)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -1596,6 +2097,50 @@ A camada de aplicação é onde os usuários interagem diretamente com a rede. E
 - [CISCO sobre OSI Model](https://community.cisco.com/t5/artigos-gerais/modelo-osi-e-suas-camadas/ta-p/5052369);
 
 ---
+## Openshift
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O OpenShift é uma plataforma como serviço (PaaS) desenvolvida pela Red Hat que combina Kubernetes com ferramentas adicionais para simplificar o gerenciamento de aplicações em contêineres. Ele oferece integração com CI/CD, segurança aprimorada e suporte empresarial.
+
+Ideal para empresas que buscam uma solução robusta de orquestração, o OpenShift facilita a migração para arquiteturas baseadas em contêineres.
+
+### Referências
+
+- [Site Oficial do RedHat Openshift](https://www.redhat.com/en/technologies/cloud-computing/openshift);
+- [Wikipedia sobre Openshift](https://en.wikipedia.org/wiki/OpenShift);
+- [RedHat sobre Openshift](https://developers.redhat.com/products/openshift/overview);
+- [Dynatrace sobre Openshift](https://www.dynatrace.com/news/blog/what-is-openshift-2/);
+- [RedHat sobre Openshift (Overview)](https://docs.openshift.com/container-platform/4.12/getting_started/openshift-overview.html);
+- [Medium sobre Openshift](https://medium.com/@Raghvendra_Tyagi/all-about-open-shift-142408277bc0);
+- [Netapp sobre Openshift](https://bluexp.netapp.com/blog/cvo-blg-understanding-red-hat-openshift-container-platform);
+- [Treinaweb sobre Openshift](https://www.treinaweb.com.br/blog/o-que-e-o-openshift);
+- [4Linux sobre Openshift](https://4linux.com.br/o-que-e-openshift/);
+- [Alura sobre Openshift](https://youtu.be/B0vNhpeJZdw?si=A40XygKk-6sY-khm);
+
+---
+## Pipiline
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O termo Pipeline (Canalização, tradução livre) refere-se a uma sequência de etapas automatizadas para construir, testar, e implantar software. É um conceito central em CI/CD, permitindo que equipes integrem automação em seus fluxos de trabalho.
+
+Os pipelines podem incluir validação de código, execução de testes, e entrega de artefatos, garantindo maior eficiência no ciclo de desenvolvimento.
+
+Também existe o termo chamado Pipeline de Dados *(Data Pipeline)*.
+
+### Referências
+
+- [Código Fonte TV sobre Pipeline](https://youtu.be/AZtTd3pFVTY?si=cvgo2CC48K4MArkG);
+- [Wikipedia sobre Pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing));
+- [Wikipedia sobre Pipeline (Software)](https://en.wikipedia.org/wiki/Pipeline_(software));
+- [Jenkins sobre Pipeline](https://www.jenkins.io/doc/book/pipeline/);
+
+---
 ## Platform as a Service (PaaS)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
@@ -1653,6 +2198,26 @@ O PEP é uma das principais ferramentas para garantir a interoperabilidade entre
 - [GOV.BR sobre PEP](https://www.gov.br/saude/pt-br/composicao/saps/informatiza-aps/prontuario-eletronico);
 
 ---
+## Proxmox
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Proxmox é uma plataforma de virtualização de código aberto que combina tecnologias como KVM (*Kernel Virtualization Machine*) e LXC (*Linux Container*) para criar e gerenciar servidores virtuais e contêineres.
+
+Ideal para ambientes de virtualização e clusters, o Proxmox oferece uma interface web intuitiva e suporte a alta disponibilidade e backup integrado.
+
+### Referências
+
+- [Site Oficial Proxmox](https://www.proxmox.com/en/);
+- [Wikipedia sobre Proxmox](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment);
+- [Medium sobre Proxmox](https://medium.com/@stephendjoshua/what-is-proxmox-and-why-is-it-awesome-f16ef5a57ca0);
+- [Escola Linux sobre Proxmox](https://nova.escolalinux.com.br/blog/vantagens-do-proxmox-por-que-utilizar-este-software-1);
+- [Wikipedia sobre Proxmox (pt-br)](https://pt.wikipedia.org/wiki/Proxmox_Virtual_Environment);
+- [Diolinux sobre Proxmox](https://diolinux.com.br/video/crie-seu-servidor-em-casa-com-proxmox.html);
+
+---
 ## RabbitMQ
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
@@ -1708,6 +2273,24 @@ O RDP opera na Camada 7 (Aplicação) do modelo OSI e utiliza a porta padrão 33
 - [Fortinet sobre RDP](https://www.fortinet.com/resources/cyberglossary/remote-desktop-protocol);
 
 ---
+## Repositório
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+Um Repositório é um local onde o código-fonte, artefatos ou dependências de software são armazenados e versionados. Ele pode ser local ou remoto e é gerenciado por sistemas como Git, SVN, ou ferramentas como GitHub e GitLab.
+
+Além do versionamento, repositórios são essenciais para colaboração, permitindo rastreamento de mudanças e integração com ferramentas de automação.
+
+### Referências
+
+- [Diolinux sobre Repositório](https://youtu.be/LfJnu2aVMXo?si=UKwzO7GEZ0UYKtxY);
+- [Amazon AWS sobre Repositório](https://aws.amazon.com/what-is/repo/);
+- [Wikipedia sobre Repositório](https://en.wikipedia.org/wiki/Repository_(version_control));
+- [GitHub sobre Repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/about-repositories);
+
+---
 ## Request for Proposal (RFP)
 
 Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
@@ -1743,6 +2326,27 @@ O RSA é utilizado em várias aplicações de segurança, como certificados SSL/
 - [Wikipedia sobre RSA (pt-br)](https://pt.wikipedia.org/wiki/RSA_(sistema_criptogr%C3%A1fico));
 - [GeeksForGeeks sobre RSA](https://www.geeksforgeeks.org/rsa-algorithm-cryptography/);
 - [Wikipedia sobre RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem));
+
+---
+## Rundeck
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Rundeck é uma ferramenta de automação de TI para orquestrar tarefas e gerenciar operações, como deploys, backup e manutenção de servidores. Ele permite criar e executar jobs de forma centralizada, com suporte a agendamento e integração com outras ferramentas.
+
+Ideal para equipes de operações, o Rundeck melhora a eficiência ao simplificar tarefas repetitivas e promover automação controlada.
+
+### Referências
+
+- [Linux Tips sobre Rundeck](https://youtu.be/kE3wxQSMaio?si=hCAEdBI5ctRBiI9J);
+- [Site Oficial Rundeck](https://www.rundeck.com/);
+- [Rundeck sobre Rundeck](https://docs.rundeck.com/docs/about/introduction.html);
+- [Medium sobre Rundeck](https://teguharif.medium.com/understanding-rundeck-2f7c9f446fa1);
+- [4Linux sobre Rundeck](https://blog.4linux.com.br/automatizando-tarefas-com-rundeck/);
+- [Medium sobre Rundeck (pt-br)](https://medium.com/@alvarobacelar/rundeck-um-eficiente-agendador-de-tasks-8518cb8865ad);
+- [4Linux sobre Rundeck (2)](https://blog.4linux.com.br/rundeck-automacao/);
 
 ---
 ## Samba
@@ -1826,6 +2430,28 @@ O *Secure Sockets Layer (SSL)* é um protocolo de segurança criado para protege
 - [Amazon AWS sobre SSL Certificate](https://aws.amazon.com/pt/what-is/ssl-certificate/);
 - [CloudFlare sobre SSL Certificate](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/);
 - [Wikipedia sobre SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security);
+
+---
+## Security and Operations (SecOps)
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+*Security and Operations (SecOps)* refere-se à integração de práticas de segurança com operações de TI para garantir a proteção contínua de sistemas e dados. Ela promove a colaboração entre equipes de segurança e operações para responder a ameaças e implementar políticas proativas.
+
+SecOps usa ferramentas de monitoramento, detecção de intrusão e automação para melhorar a eficiência na proteção contra ataques e na resolução de incidentes.
+
+### Referências
+
+- [Broadcom sobre SecOps](https://www.broadcom.com/topics/secops);
+- [CheckPoint sobre SecOps](https://www.checkpoint.com/pt/cyber-hub/threat-prevention/what-is-soc/what-is-security-operations-secops/);
+- [Fortinet sobre SecOps](https://www.fortinet.com/fr/resources/cyberglossary/what-is-secops);
+- [CyberArk sobre SecOps](https://www.cyberark.com/what-is/security-operations/);
+- [ServiceNow sobre SecOps](https://www.servicenow.com/products/security-operations/what-is-secops.html);
+- [XP sobre SecOps](https://blog.xpeducacao.com.br/secops/);
+- [Elastic sobre SecOps](https://www.elastic.co/pt/what-is/secops);
+- [Microsoft sobre SecOps](https://www.microsoft.com/pt-br/security/business/security-101/what-is-security-operations-secops);
 
 ---
 ## Server Message Block (SMB)
@@ -2019,6 +2645,30 @@ Switches ToR geralmente operam na Camada 2 (Enlace) e/ou Camada 3 (Rede) do mode
 
 - [CBT Nuggets sobre Switch ToR](https://www.cbtnuggets.com/blog/technology/networking/top-of-rack-switching);
 - [FS sobre Switch ToR](https://community.fs.com/article/popular-tor-and-tor-switch-in-data-center-architectures.html);
+
+---
+## Terraform
+
+Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
+
+### Descrição
+
+O Terraform é uma ferramenta de código aberto para implementar infraestrutura como código (IaC). Ele permite criar, gerenciar e versionar recursos de infraestrutura em provedores de nuvem, como AWS, Azure e GCP, por meio de arquivos de configuração declarativos.
+
+Com o Terraform, equipes podem provisionar recursos de forma previsível e reproduzível, promovendo automação e consistência na infraestrutura.
+
+### Referências
+
+- [Código Fonte TV sobre Terraform](https://youtu.be/0EAjJe8aPkc?si=QFk5CvLHRpjVx5qN);
+- [Hashicorp sobre Terraform](https://developer.hashicorp.com/terraform/intro);
+- [Site Oficial do Terraform](https://www.terraform.io/);
+- [IBM sobre Terraform](https://www.ibm.com/topics/terraform);
+- [Wikipedia sobre Terraform](https://en.wikipedia.org/wiki/Terraform_(software));
+- [Hashicorp sobre IaC com Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code);
+- [Alura sobre Terraform](https://www.alura.com.br/artigos/conheca-o-terraform);
+- [Coodesh sobre Terraform](https://coodesh.com/blog/dicionario/o-que-e-terraform/);
+- [GoCache sobre Terraform](https://gocache.com.br/dicas/o-que-e-terraform-e-quais-suas-aplicacoes/);
+- [Datacamp sobre Terraform](https://www.datacamp.com/pt/tutorial/getting-started-terraform);
 
 ---
 ## Time to Live (TTL)
