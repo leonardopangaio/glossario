@@ -11,7 +11,7 @@ Vale ressaltar que os conceitos aqui abordados, foram pesquisados pelos autores,
 ![Watchers](https://img.shields.io/github/watchers/leonardopangaio/glossario.svg) - 
 ![Followers](https://img.shields.io/github/followers/leonardopangaio.svg?style=social&label=Follow&maxAge=2592000) -->
 
-**Artigo atualizado em:** 2024-11-20 04:43:02 -0300
+**Artigo atualizado em:** 2025-04-29 05:33:51 -0300
 
 **Total de termos:** 153
 
