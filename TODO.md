@@ -1,6 +1,8 @@
-Lista total: 
+# Lista total
 
+- Antivírus
 - .net
+- *.ini
 - 7z
 - a/c
 - ABNT
@@ -14,22 +16,34 @@ Lista total:
 - agile release train (art)
 - AI
 - aka
+- Algoritmo
+- ambos no contexto de redes
 - angular
-- Antivírus
+- Ansi
 - apache
+- Apache Cassandra
+- apache flink
+- APACHE HADOOP
+- apache maven
+- APACHE NUTCH
 - apache tomcat
 - api
 - api rest
 - api soap
+- APIPA
 - apm
 - appliance
 - apt
 - arp-scan
 - arping
 - art sync
+- artigo: como fazer calculo de redes, subredes, máscaras
+- Árvore
+- Árvore binária
 - asap
 - Ascii
 - asp
+- Assembly
 - Atenuação
 - atm
 - aws
@@ -43,18 +57,29 @@ Lista total:
 - backup diferencial
 - backup full
 - backup incremental
+- Banco de Dados
+- Banco de dados de Coluna
+- Banco de dados de Tempo Real
 - banco não relacional
 - banco relacional
+- Bancos de dados Blockchain
+- Bancos de dados de Séries Temporais
+- Bancos de dados de texto completo
+- Bancos de dados distribuídos
+- Bancos de dados Gráficos
 - bandwidth
 - Bare Metal
 - base 64
 - baseline
 - bash
+- batch
 - BDD (Behavior driven development)
 - benchmark
+- bgp
 - bi
-- bigdata
+- big data
 - bigip
+- Binário
 - BIOS
 - Bitlocker
 - bitmap (bmp)
@@ -63,7 +88,9 @@ Lista total:
 - bittorrent
 - black belt
 - blockchain
+- Blueprint
 - bluetooth
+- Bouble search
 - bpm
 - bpmn
 - bpo
@@ -75,47 +102,60 @@ Lista total:
 - Browser
 - BSC
 - bsd
+- BSP
 - btop
 - btw
 - budget
 - bug
+- Bun
 - bxd
 - bytes
 - c
 - c#
 - c++
+- c4 level diagram
 - CAB
 - call
 - callcenter
 - CAPEX
+- cat-5e
+- cat-6
+- Ccim
 - CCNA
-- Cdn
+- cd
+- cdc
+- cdn
 - centro de custo
 - CEO
 - certificado digital
 - cfind
 - CFO
+- Charset
 - chave
 - chunck
 - cilindro
 - CIPA/SIPA
+- citrix
 - Class diagram
 - classes de IP
 - cli
 - cliper
 - Cloudflare
+- CloudOps
 - clt
 - Cluster
 - CMDB
 - CMO
 - cmove
 - cna
+- CNNs
 - coach
 - cobit
 - cobol
 - CoE
 - commodity
 - Communication diagram
+- commvoult
 - Component diagram
 - Composite structure diagram
 - conda
@@ -123,6 +163,7 @@ Lista total:
 - controladora
 - COO
 - Cookies
+- Copyright
 - core business
 - Cors
 - cpu
@@ -141,27 +182,33 @@ Lista total:
 - CTO
 - Cucumber
 - curl
+- Cursor
 - cutover
 - cva
 - CyberArk
 - Cypress
-- Cypress
 - daemon
 - daily
 - Dart
-- Data briks
+- Data bricks
 - Data Culture Methodology DCM
-- Data lake
+- data lake
 - Data lakehouse
+- data mart
+- data mining
+- data pipeline
+- data quality
 - data science
-- Data wharehouse
+- Data warehouse
+- data wharehouse
 - Datadog
-- datascience
+- db2
 - dccp
 - dd
 - DDD (Domain-Driven Design)
 - Ddos
 - Debug
+- Decode
 - delay
 - delete
 - DELL
@@ -169,6 +216,7 @@ Lista total:
 - Deployment diagram
 - Design patterns
 - design thinking
+- Desktop environment (de)
 - df
 - dhcpdump
 - diagrama de fluxo
@@ -185,6 +233,7 @@ Lista total:
 - dpkg
 - drawio
 - Dsp (development staging and production)
+- DynamoDB
 - Dynatrace
 - EAP
 - Ebitda
@@ -194,14 +243,18 @@ Lista total:
 - edr
 - eink
 - elasticksearch
+- Elixir
 - elk
+- Encode
+- Endereço de memória
 - Endomarketing
 - endpoint
 - engenheiro de dados
 - entidade relacionamento
 - Esrutura de dados
-- estatistica
+- estatística
 - etherape
+- EUC
 - Expertise
 - express
 - ext3
@@ -213,6 +266,7 @@ Lista total:
 - FAT32
 - FDA
 - fddi
+- fdisc
 - feedback
 - FHRP
 - fifo
@@ -220,21 +274,22 @@ Lista total:
 - fila
 - filebeat
 - filo
+- FinOps
+- firebird
 - firewall
-- firewall
-- Firewall
 - flex group
 - flex volume
 - follow-up
 - forecast
 - formulário
 - fortran
+- fqdn
 - frame
 - Framerate
 - framework
-- free (memory linux)
 - frontend
 - ftw
+- Função Lambda
 - Fusion Inventory
 - fya
 - fyi
@@ -246,10 +301,13 @@ Lista total:
 - glances
 - GLPI
 - gmud
+- Gnome
+- Gnu
 - golang
 - google
+- Google Cloud Spanner
+- google firebase
 - gpu
-- grafana
 - grafana
 - Graph viz
 - GraphQL
@@ -261,15 +319,19 @@ Lista total:
 - gRPC
 - HA
 - Hacker
+- Hadoop
 - hands on
 - hardskills
 - Hardware
 - hash
+- Hashmap
 - HC
 - HD
 - hdlc
 - Headhunter
+- helm
 - helpdesk
+- Hexadecimal
 - hostname
 - HP
 - HSRP
@@ -277,6 +339,7 @@ Lista total:
 - htop
 - http-ping
 - hyper-v
+- iana
 - IBM
 - ide
 - IDK
@@ -286,9 +349,9 @@ Lista total:
 - ieee
 - ifconfig
 - igmp
+- Iife
 - IMHO
 - incident
-- ini
 - inodes
 - input
 - Insight
@@ -296,10 +359,12 @@ Lista total:
 - Interaction overview diagram
 - Internship
 - Invasão
+- invite
 - io
 - iops
 - iostat
 - iotop
+- IPAM
 - ipconfig
 - iperf3
 - IPO
@@ -332,6 +397,7 @@ Lista total:
 - kaizen
 - kanban
 - kb
+- Kde
 - kerberos
 - kernel
 - Keylogger
@@ -346,7 +412,9 @@ Lista total:
 - latência carregada
 - latência não carregada
 - lcd
+- ldap
 - lead
+- leaf
 - lean
 - lean six sigma
 - lean startup
@@ -357,6 +425,8 @@ Lista total:
 - link ativo-ativo
 - Lint
 - linter
+- Lista duplamente encadeada
+- Lista encadeada
 - LLMS
 - lmk
 - load
@@ -364,6 +434,7 @@ Lista total:
 - logstash
 - lpi
 - lua
+- lum
 - mac address
 - machine learning (ML)
 - mailing
@@ -372,6 +443,8 @@ Lista total:
 - markdown
 - market share
 - markup
+- Matlab
+- Matriz
 - matriz gut
 - matriz raci
 - mba
@@ -388,22 +461,26 @@ Lista total:
 - mit
 - Mobile device management (MDM)
 - modem
+- Modem adsl
 - Modem xdsl
 - modus operandi
 - mongodb
 - mount
 - MPI
 - mssp
+- mtu
+- Multiplexador
 - mysql
 - nagios
 - NaN
 - nano
-- nat
+- NAT
 - NBAR
 - NBR
 - nbtscan
 - ndp
 - neo vim
+- Neo4j
 - nest.js
 - netapp
 - netbeui
@@ -421,12 +498,16 @@ Lista total:
 - nfstop
 - nft
 - nginx
+- NLP
 - nntp
 - No-break
 - noc
 - node modules
 - node.js
+- nosql
 - nping
+- npm
+- NPS
 - nsfw
 - NTFS
 - ntp
@@ -437,6 +518,7 @@ Lista total:
 - OCR
 - OCS Inventory
 - ODBC
+- Offset
 - oled
 - Omnichannel
 - onc
@@ -448,7 +530,9 @@ Lista total:
 - openvpn
 - OPEX
 - oracle
+- oracle hexadata
 - Orion
+- ORM
 - orthanc
 - ospf
 - oto
@@ -460,6 +544,7 @@ Lista total:
 - Package diagram
 - pacotes dropados
 - pacs
+- Parse
 - pascal
 - Paywall
 - PC
@@ -472,22 +557,28 @@ Lista total:
 - php
 - pi
 - pi planning
-- pilha
+- Pilha
 - pilha de switch
 - ping
 - pitch
 - planejamento estratégico
+- Planilha
 - plano de ação
 - pmbok
 - pmi
 - pmo
-- pmp
+- Pmp
 - png
 - PO
 - po sync
+- Podman
 - pog
+- Ponteiro
+- Poo
 - porta
+- portas efemeras
 - portfolio
+- Portugol
 - POSIX
 - postgres
 - postscript (impressoras)
@@ -499,6 +590,7 @@ Lista total:
 - problem
 - Procedimento Operacional Padrão (POP)
 - Profile diagram
+- Programação Funcional
 - prometheus
 - protocolos
 - proxy
@@ -516,15 +608,18 @@ Lista total:
 - query builder
 - quic
 - R
+- Raas
 - rack
 - ram
 - rar
 - rarp
 - raw sql
 - rdm
+- RDS
 - react
 - recall
 - red belt
+- Redsi
 - regular expression
 - relay
 - report
@@ -538,6 +633,7 @@ Lista total:
 - rip
 - RJ-11
 - RJ-45
+- RNNs
 - roadmap
 - ROI
 - rollout
@@ -572,6 +668,7 @@ Lista total:
 - schema
 - Schemacrowler
 - Scholarships
+- scm
 - script
 - scrum
 - scrum master
@@ -581,6 +678,7 @@ Lista total:
 - servicedesk
 - Servidor
 - sessão
+- SGDB
 - sha256
 - Shadow image (contexto de backup)
 - shareholder
@@ -602,8 +700,10 @@ Lista total:
 - Software
 - SolarWinds
 - SonarQube
+- Spark
 - sprint planning
 - Spyware
+- sql
 - sqlite
 - sqs
 - squad
@@ -641,6 +741,7 @@ Lista total:
 - tcpdump
 - tcping
 - TDD (Test-driven development)
+- telemetria
 - telnet
 - Tensorflow
 - terminal
@@ -665,9 +766,10 @@ Lista total:
 - trainee
 - trending topics
 - Trivy
+- trunk
 - tsql
 - Tty
-- tui
+- Tui
 - tunnels
 - turnover
 - txt
@@ -687,6 +789,7 @@ Lista total:
 - ux
 - variaveis de performance de redes
 - VDI
+- veeam
 - Venture capital
 - venv
 - vhops
@@ -700,11 +803,13 @@ Lista total:
 - vmstat
 - vmware
 - voip
-- vpc
+- VPC
+- Vps
 - vsun
 - vue.js
 - VxRail
 - wado
+- waf
 - WatterFall
 - webapplication
 - webservice
@@ -736,4 +841,5 @@ Lista total:
 - zabbix
 - zen
 - ZFS
+- Zigbee
 - zip
